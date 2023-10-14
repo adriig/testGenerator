@@ -1,0 +1,47 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+
+  }
+  
+  .options {
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  .option {
+    width: 30%;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .option img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .option-label {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  
+  .option:hover {
+    transform: scale(1.05);
+  }

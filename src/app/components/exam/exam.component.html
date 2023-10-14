@@ -1,0 +1,4 @@
+<p>Examen de {{ preguntas.length }} </p>
+<div *ngFor="let pregunta of preguntas">
+    <app-question [pregunta]="pregunta"></app-question>
+</div>

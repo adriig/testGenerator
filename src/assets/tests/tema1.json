@@ -1,0 +1,21 @@
+{
+    "question": "¿Cuál de las acciones no forma parte del cliclo de Deming?",
+    "answers": [
+        {
+            "text": "Actuar (Act)",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Hacer (Do)",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Probar (Test)",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Planificar (Plan)",
+            "isCorrect": "true"
+        }
+    ]
+}
