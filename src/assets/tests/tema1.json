@@ -23,26 +23,1259 @@
     "page": "27"
     },
     {
-        "statement": "¿Cuál de las acciones no forma parte del cliclo de Deming?",
+        "statement": "El software es...",
         "answers": [
             {
-                "text": "Actuar (Act)",
-                "isCorrect": "false"
-            },
-            {
-                "text": "Hacer (Do)",
-                "isCorrect": "false"
-            },
-            {
-                "text": "Probar (Test)",
+                "text": "Tangible",
                 "isCorrect": "true"
             },
             {
-                "text": "Planificar (Plan)",
+                "text": "Se desarrolla pero no se fabrica",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se fabrica pero no se desarrolla",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se puede quedar obsoleto pero no se estropea",
                 "isCorrect": "true"
             }
         ],
         "theme": "1",
-        "page": "27"
+        "page": "4"
+    },
+    {
+        "statement": "El software ideal",
+        "answers": [
+            {
+                "text": "No tiene fallos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es inmutable (No se le aplican cambios)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "A medida que pasa el tiempo tiene menos fallos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se le puede aplicar cambios y mejoras",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "4"
+    },
+    {
+        "statement": "El hardware",
+        "answers": [
+            {
+                "text": "Tiene más fallos que el software",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En los momentos iniciales puede tener muchos fallos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Su gráfica tiene forma de 'U'",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cuanto mas tiempo pasa menos fallos tiene",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "4"
+    },
+    {
+        "statement": "El software se puede dividir segun...",
+        "answers": [
+            {
+                "text": "Si precisa de hardware específico o no",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Por su tipo de desarrollo (Software libre, proyecto interno...)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En el tipo de software (Videojuego, aplicación móvil...)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Su dominio de aplicación (Telecomunicaciones, Sistemas de Información...)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "5"
+    },
+    {
+        "statement": "Son elementos del hardware...",
+        "answers": [
+            {
+                "text": "La nube",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Válvulas de vacío",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Transistores",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Internet",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "6"
+    },
+    {
+        "statement": "El software y el hardware...",
+        "answers": [
+            {
+                "text": "A medida que pasa el tiempo su coste baja",
+                "isCorrect": "true"
+            },
+            {
+                "text": "A medida que pasa el tiempo su coste sube",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El matenimiento del software con el paso del tiempo ha aumentado en coste",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El hardware siempre tiene siempre un coste más alto",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "6"
+    },
+    {
+        "statement": "Cuantas generaciones hay de Software/Hardware",
+        "answers": [
+            {
+                "text": "4",
+                "isCorrect": "false"
+            },
+            {
+                "text": "6",
+                "isCorrect": "true"
+            },
+            {
+                "text": "5",
+                "isCorrect": "false"
+            },
+            {
+                "text": "7",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La cuarta generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 1964 y 1971",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1972 y 1981",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se caracteriza por los microprocesadores y chips de memoria",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se alcanzaron las 200M instrucciones por segundo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se alcanzaron las 5M instrucciones por segundo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se comenzó a utilizar los SSOO",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se comenzo a usar C/Unix",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La segunda generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 1945 y 1956",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1960 y 1964",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se caracteriza por el uso de transistores y núcleos de ferrita",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de lenguajes de lato nivel: COBOL, FORTRAN, ALGOL",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de lenguaje máquina (Ensamblador)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se comenzó a utilizar los SSOO",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La primera generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 1945 y 1956",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ocurre entre 1939 y 1945",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Trabajo secuencial: perforación, ejecución, impresión",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se alcanza 1k instrucciones por segundo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de lenguaje máquina (Ensamblador)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se alcanzan 10k instrucciones por segundo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Aun no se utilizaban SSOO",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se lanza primer ordenador comercializado (IBM 701)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Utilización de tubos de vacío",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La tercera generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 1960 y 1969",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1957 y 1963",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1964 y 1971",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de memoria en chips y circuitos integrados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de chips de memoria",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de transistores",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se alcanza 1M instrucciones por segundo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de lenguaje máquina (Ensamblador)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se alcanzan 5M instrucciones por segundo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se comienzan a utilizar SSOO",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se lanza primer ordenador comercializado (IBM 701)",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La sexta generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "No existe, no hay una sexta generacion",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1990 hasta la actualidad",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se comeinza a desarrollar inteligencia artificial",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de programación funcional",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se alcanza durante esta etapa 1G de instrucción por segundo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de arquitecturas paralelas y distribuidas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se diseñan y usan procesadores especializados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Implementación de componentes ópticos (CD/DVD)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Llegada de internet",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La quinta generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 1982 y 1989",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ocurre entre 1990 hasta la actualidad",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre entre 1975 y 1982",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de componentes ópticos (CD/DVD)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Llegada de internet",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de arquitecturas paralelas y distribuidas",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Uso de Microprocesadores en paralelo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mayor capacidad de integración (VLSI)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se alcanza 1G de instrucción por segundo",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "La séptima generacion del hardware/software...",
+        "answers": [
+            {
+                "text": "Ocurre entre 2010 y la actualidad",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ocurre desde 2007 hasta la actualidad",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No existe",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Uso de componentes ópticos (CD/DVD)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desarrollo de inteligencia artificial",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desarrollo de Big Data",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Invención de computación cuántica",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "7"
+    },
+    {
+        "statement": "El efecto 2000",
+        "answers": [
+            {
+                "text": "Fue un bulo, no llegó a causar ningún problema informático",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Forzó que miles de programas tuvieran que ser revisados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Fue provocado por como se guardaban las fechas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Fue provocado por un cambio generacional en procesadores que podría provocar incompotabilidades con el software",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Fue provocado por la CIA",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Fue provocado por el bokeron",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "11"
+    },
+    {
+        "statement": "El informe Chaos Reports..",
+        "answers": [
+            {
+                "text": "Intenta identificar los principales problemas del desarrollo del software",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Revisa las distintas tecnologías existentes en el mercado y cuales son las que tienen mayor proyección laboral en el largo plazo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es realizado por un gobierno",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es realizado por la consultora Standish Group",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "13"
+    },
+    {
+        "statement": "El informe Chaos Reports clasifica los proyectos como:",
+        "answers": [
+            {
+                "text": "Exito, Fracaso, Con problemas y Abandonados",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Exito, Fracaso, Con problemas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Exito, Fracaso",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "13"
+    },
+    {
+        "statement": "Del informe Chaos Reports (2011-2015) podemos concluir que:",
+        "answers": [
+            {
+                "text": "Cada año que pasa hay mayor porcentaje de exito en los proyectos de software",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cada año que pasa hay menor porcentaje de fracaso en los proyectos de software",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los proyectos más grandes son los que más exito tienen",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los proyectos más pequeños son los que menos exito tienen",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El tipo de industria a la que pertenezca el proyecto juega un papel fundamental en el porcentaje de exito que tendra.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No hay una gran diferencia en el exito de los proyectos de distintos continentes.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "14-15-16-17"
+    },
+    {
+        "statement": "Del informe Chaos Reports (2011-2015) podemos concluir que:",
+        "answers": [
+            {
+                "text": "Las metodologias agile tienen peor rendimiento que las metodologias Waterfall",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las metodologias agile tienen menor probabilidad de fracasar con respecto a las waterfall",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En proyectos grandes las metodologias agile son más exitosas que las waterfall",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En proyectos pequeños las metodologias agile son más exitosas que las waterfall",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "18"
+    },
+    {
+        "statement": "Del informe Chaos Reports (2011-2015) podemos concluir que:",
+        "answers": [
+            {
+                "text": "Los desarrollos que parten desde 0 (o poco contenidO) y usan lenguajes y metodos traidcionales tienen mayor probabilidad de exito",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El comprar aplicaciones y modificarlas para desarollar un proyecto no tiene mayor tasa de exito que desarrollar desde 0",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los proyectos de modernizacion tienen una alta tasa de exito",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No importa el tipo de proyecto (Modernizacion, compra de aplicacion, desarrollo nuevo..) el porcentaje de exito no cambia demasiado.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "19"
+    },
+    {
+        "statement": "Del informe Chaos Reports (2011-2015) podemos concluir sobre los factores que garantizan el éxito de un proyecto:",
+        "answers": [
+            {
+                "text": "Los factores más importantes para garantizar el exito de un proyecto son: Madurez emocional, usar metodologias agile y la optimizacion",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El apoyo ejecutivo, la madurez emocional, la involucración de los usuarios y la optimización son los factores mas importantes",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las habilidades de los desarrolladores, la madurez emocional que tengan, el apoyo ejecutivo y la involucración de los usuarios son los factores más importantes",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El uso de metodologias agile, las habilidades de los desarrolladores, el apoyo ejecutivo y que la direccion del proyecto sea excelente son los factores mas importantes",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "20"
+    },
+    {
+        "statement": "Que opcion contiene un factor que NO es un factor de exito acorde al informe Chaos Reports (1996-2012):",
+        "answers": [
+            {
+                "text": "Implicacion de los usuarios, apoyo de directivos, enunciado claro de requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Planificacion adecuada, Trabajo duro y personal concentrado",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Vision y objetivos claros, sentimiento de propiedad, especificaciones y requisitos cambiantes",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Personal compoetente, hitos de proyecto pequeños, expectativas realistas",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "21"
+    },
+    {
+        "statement": "Que opcion contiene un factor que NO es un factor de problemas acorde al informe Chaos Reports (1996-2012):",
+        "answers": [
+            {
+                "text": "Falta de información por parte de los usuarios.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Especificaciones y requisitos incompletos o cambiantes",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Falta de apoyo de directivos, falta de recursos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Incompetencia tecnologica, sentimiento de propiedad",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ya no lo necesito",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "21"
+    },
+    {
+        "statement": "Entre cientificos e ingenieros...",
+        "answers": [
+            {
+                "text": "Tanto los ingenieros como los cientificos proyectan y gestionan pero son los ingenieros queines construyen y conciben.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los ingenieros proyectan, construyen, conciben y gestionan mientras que los cientificos realizan actividad sistemática para adquirir nuevos conocimientos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los cientificos proyectan y conciben mientras que los ingenieros construyen y gestionan.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los cientificos unicamente realizan actividades con el fin de adquirir nuevos conocimientos mientras que los ingenieros solo construyen.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "22"
+    },
+    {
+        "statement": "Marca lo incorrecto sobre los pilares de una ingeniería",
+        "answers": [
+            {
+                "text": "El vocabulario es el conjunto de términos que se usan en un campo concreto.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las buenas prácticas son el conjunto de acciones obligatorias en un campo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las herramientas son el conjunto de instrumentos que permiten desempeñar un trabajo concreto",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las metodologias son el conjunto de procedimientos bien definidos que podrá desembocar en buenos o malos resultados.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La tecnología es el conjunto de instrumentos, procedimientos o recursos usados en un campo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "23"
+    },
+    {
+        "statement": "Sobre el origen de la ingenieria del software...",
+        "answers": [
+            {
+                "text": "Surge en 1957 en la cumbre de Norfolk, Reino Unido.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Surge en 1968 en Garmisch, Alemania a través de la SEC.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se origina por la necesidad de dar un enfoque ingenieril al desarrollo del software",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se origina por la necesidad de crear una formación universitaria relacionada con el desarrollo del software.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Durante su creación, se definió el concepto de ciclo de vida del software y sus principales problemas.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "24"
+    },
+    {
+        "statement": "Sobre los proyectos de software...",
+        "answers": [
+            {
+                "text": "Un proyecto software es un esfuerzo atemporal que se lleva a cabo para crear un producto o servicio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los tipos de proyecto son: Productivo, Politico, Etico, Cientifico.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los tipos de proyecto son: Productivo, Publico, Social, De vida, Cientifico.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los tipos de proyecto son: Productivo, Publico, Etico, Cientifico.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "26"
+    },
+    {
+        "statement": "Sobre los proyectos de software...",
+        "answers": [
+            {
+                "text": "Siempre debe ser realizado por personas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Debe ser limitado tanto en tiempo como en coste.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Debe ser planificado y ejecutado aunque no siempre controlado.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Esfuerzo temporal acometido para crear un único producto o servicio software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Viene definido por 3 componentes: Esfuerzo (Recursos), Plazos (Tiempos) y Alcance (Entregables)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "28"
+    },
+    {
+        "statement": "Marca los roles que deben pertenecen a cualquier proyecto de software",
+        "answers": [
+            {
+                "text": "Director de proyecto.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ingeniero de requisitos (Analista requisitos).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Intermediario con cliente (Representante).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Equipo de desarrollo (Desarrolladores).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cliente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Subdirector de proyecto.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Personas que utilizarán el software a desarrollar (Usuario)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Diseñador gráfico (UX).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Equipo de calidad (Analista QA).",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "29"
+    },
+    {
+        "statement": "Sobre la ISO/IEC/IEEE 12207:2017",
+        "answers": [
+            {
+                "text": "Se aplica sólo a la adquisición de sistemas de software, productos y servicios, desarrollo, suministro y operación de software...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se aplica sólo a la adquisición de sistemas de software, productos y servicios, desarrollo, suministro, operación, mantenimiento y eliminación de software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se aplica sólo a la adquisición de sistemas de software, productos y servicios, desarrollo de software.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "31"
+    },
+    {
+        "statement": "Sobre la ISO/IEC/IEEE 12207:2017",
+        "answers": [
+            {
+                "text": "Es un estándar relativo a los procesos de ciclo de vida del software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es el conjunto de reglas y metodologías a seguir al llevar a cabo un proyecto",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una ley que asienta unos mínimos a cumplir por un proyecto de software.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "31"
+    },
+    {
+        "statement": "Sobre la ISO/IEC/IEEE 12207:2017",
+        "answers": [
+            {
+                "text": "Proporciona procesos que PUEDEN emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Proporciona procesos que DEBEN emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "31"
+    },
+    {
+        "statement": "Sobre la ISO/IEC/IEEE 12207:2017",
+        "answers": [
+            {
+                "text": "Fomenta la utilización del modelo de ciclo de vida Waterfall.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Fomenta la utilización de modelos de ciclo de vida evolutivos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No fomenta la utilización de ningún modelo de ciclo de vida concreto..",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "31"
+    },
+    {
+        "statement": "Sobre la CMMI-DEV (2010), ¿qué significan sus siglas?",
+        "answers": [
+            {
+                "text": "Customer Metrics for Market Intelligence.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Code Management and Maintenance Initiative.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Content Management and Marketing Integration.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Capability Maturity Model Integration.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cybernetic Machine Learning Model Integration.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "33"
+    },
+    {
+        "statement": "Sobre la CMMI-DEV (2010), ¿Cuántos niveles de certificación existen?",
+        "answers": [
+            {
+                "text": "Existen los niveles: D,C,B,A,S,S+",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Existen los niveles: D, C, B, A",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Existen los niveles: Begginer, Associate, Profesional, Expert, Architect",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Existen los niveles: Begginer, Associate, Profesional, Expert.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Existen los niveles: Associate, Profesional, Expert.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Existen los niveles: 1,2,3,4,5.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "33"
+    },
+    {
+        "statement": "Sobre la CMMI-DEV (2010), ¿Qué es?",
+        "answers": [
+            {
+                "text": "Es un modelo para la mejora y evaluación de procesos para el desarrollo, mantenimiento y operación de sistemas software",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es un acuerdo que dicta como deben ser sobre los procesos para el desarrollo, mantenimiento y operación de sistemas software",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un examen que acredita la capacidad de desarollo, mantenimiento y operación de sistemas software.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un libro técnico que explica como deben ser los procesos para el desarrollo, mantenimiento y operación de sistemas software.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "33"
+    },
+    {
+        "statement": "¿Qué productos previos son necesarios a un proyecto? En orden.",
+        "answers": [
+            {
+                "text": "La petición de propuestas, el pliego de preinscripciones técnicas, oferta, contraoferta, revisión de propuestas, contrato.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La petición de propuestas, oferta, pliego de preinscripciones, contrato.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La petición de propuestas, pliego de preinscripciones, oferta, contrato.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La petición de propuestas, revisión de propuestas, oferta, pliego de preinscripciones, contrato.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "38"
+    },
+    {
+        "statement": "Marca los elementos que sean entregables habituales",
+        "answers": [
+            {
+                "text": "Plan de proyecto.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Documento de diseño.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Plan de pruebas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Software ejecutable.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Codigo fuente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Manuales de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bocetos de diseño.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "39"
+    },
+    {
+        "statement": "Sobre el mantenimiento y la gestión de incidencias...",
+        "answers": [
+            {
+                "text": "El mantenimiento se encarga de mejorar, adaptar o corregir el software en uso.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento se encarga unicamente de corregir y adaptar el software en uso.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El mantenimiento es la etapa con menor coste de todo el ciclo de vida.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La gestión de incidencias dicta como restaurar cuanto antes la operativa normal del servicio minimizando el impacto negativo en las operaciones de negocio",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La gestión de incidencias se subdivide en: Detección, registro, categorización, priorización, diagnóstico, escalado, resolución y cierre.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La gestión de incidencias se subdivide en: Detección, registro, categorización, resolución y cierre.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La gestión de incidencias se subdivide en: Detección, registro, categorización, resolución, cierre y revisión.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "41"
+    },
+    {
+        "statement": "Sobre los tipos de mantenimiento",
+        "answers": [
+            {
+                "text": "Son evolutivo, correctivo y perfectivo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son evolutivo y correctivo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son efectivo, adaptativo y perfectivo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son adaptativo, correctivo, aditivo y efectivo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son evolutivo, correctivo, adaptativo y efectivo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son evolutivo, correctivo, adaptativo y perfectivo.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "43"
+    },
+    {
+        "statement": "Sobre los tipos de mantenimiento",
+        "answers": [
+            {
+                "text": "El mantenimiento evolutivo es el mas costoso debido a que incorpora nuevos requisitos o cambios en los ya existentes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento correctivo busca corregir errores en el software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento adaptativo adapta cambios en el entorno (bases de datos, hardware, etc) para que el software no quede obsoleto.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento perfectivo busca mejorar la calidad interna de los sistemas ya sea mejorando calidad o refactorizando código",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento perfectivo es el que tiene menor coste debido a que suele ser refactorizar u optimizar.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El mantenimiento efectivo busca efectuar cambios con intención de prevenir futuros errores.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "43"
+    },
+    {
+        "statement": "Sobre la calidad del software",
+        "answers": [
+            {
+                "text": "Un software de calidad debe cumplir con requisitos y estándares establecidos además de cumplir con las características implícitas de un desarrollo profesional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un software de calidad unicamente necesita cumplir con los requisitos y estándares establecidos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un software que pueda ser mejorado no es un software de calidad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un software para ser de calidad precisa de haber tenido una metodología agile o scrum en su desarrollo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un software de calidad suele requerir menor gasto en su mantenimiento.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "45-46"
+    },
+    {
+        "statement": "El equipo de SQA es responsable de:",
+        "answers": [
+            {
+                "text": "Establecer el plan SQA del proyecto.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Participar en la definición del plan de proyecto.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Realizar todo el testing pertinente para el proyecto.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Auditar los productos del desarrollo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Documentar e informar de las desviaciones o no conformidades que se vayan detectando en las revisiones técnicas formales.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Organizar y dirigir el equipo en lo referente a las especificaciones a cumplir por el proyecto.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "47"
+    },
+    {
+        "statement": "Gestión de la configuración",
+        "answers": [
+            {
+                "text": "Se encarga de identificar, controlar e informar de cambios en los productos del desarrollo de software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se encarga de identificar, controlar, adaptar e informar cambios en los productos del desarrollo de software.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se debe realizar control de cambios, versiones.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se debe realizar una auditoría de la configuración y generación de informes acerca del estado de la configuración.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Determinar los productos bajo la configuración y añadir los que no estén bajo la configuración.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "1",
+        "page": "49"
+    },
+    {
+        "statement": "Gestión de la configuración",
+        "answers": [
+            {
+                "text": "La linea base (baseline) es la version mas estable de un producto software, será necesario aplicar la política de control de cambios para modificar el proyecto si se encuentra en una versión baseline.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "CMS/CMDB se usa para almacenar información acerca de los elementos software bajo control de versiones",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La linea base (baseline) es la version inicial de un proyecto, si se configura un proyecto software como baseline inicializará las variables de configuración.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "CMS/CMDB se usa para guardar la configuración que realicemos sobre nuestro proyecto",
+                "isCorrect": "false"
+            }
+            
+        ],
+        "theme": "1",
+        "page": "50"
     }
 ]

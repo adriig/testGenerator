@@ -1,17 +1,18 @@
-<div>
+<div class="container">
     <div class="statement">
         <p style="font-weight: bold;"> {{ numberQuestion }} - </p>
         <div>
             <h1> {{question.statement}} </h1>
         </div>
         <p *ngIf="isMultiple">(Respuesta multiple)</p>
+        <mat-icon  title="Tema {{question.theme}} pagina {{question.page}} ">info</mat-icon>
     </div>
 
     <div class="wrapper">
-        <div *ngFor="let answer of question.answers; let i=index">
+        <div *ngFor="let answer of question.answers; let i=index" [ngClass]="isFinished ? 'finished' : ''">
             <input type="checkbox" [(ngModel)]="this.answerStatus[i]" 
             (change)="changeStatus(i, $event)" 
-            [ngClass]="questionStyles[i]=='default' ? '' : questionStyles[i]=='mal' ? 'wrong' : 'correct'  "> {{answer.text}}
+            [ngClass]="questionStyles[i]=='default' ? '' : questionStyles[i]=='mal' ? 'wrong' : questionStyles[i]=='nc' ? 'nc' : 'correct' "> {{answer.text}}
         </div>
     </div>
 

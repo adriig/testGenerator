@@ -24,7 +24,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     TemasComponent,
     RandomComponent,
     ColectionComponent,
-    CountdownPipe
+    CountdownPipe,
   ],
   imports: [
     BrowserModule,

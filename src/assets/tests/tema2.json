@@ -1,0 +1,129 @@
+[
+    {
+        "statement": "¿Qué es el ciclo de vida del software?",
+        "answers": [
+            {
+                "text": "Es un marco de referencia que contiene los procesos, actividades y las tareas involucradas en el desarrollo, operación y mantenimiento de un producto software a lo largo de la vida del sistema desde su definición hasta su retirada.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es un proceso lineal y rígido en el que cada fase se ejecuta una vez, sin la posibilidad de regresar o realizar ajustes a etapas anteriores.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un enfoque que desestima por completo la participación de los interesados y usuarios en la definición de requisitos, centrándose únicamente en las ideas de los desarrolladores y las carácterísticas y propiedades a cumplir por el sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El ciclo de vida software es el proceso por el que pasa todo sistema; planificación, desarrollo, operación, mantenimiento y finalmente su retirada.",
+                "isCorrect": "false"
+            }
+            
+        ],
+        "theme": "2",
+        "page": "4"
+    },
+    {
+        "statement": "Ciclo de vida clásico (Waterfall)",
+        "answers": [
+            {
+                "text": "Se divide en fases de: Análisis, Diseño, Implementación y Mantenimiento.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se divide en fases de: Análisis, Diseño, Implementación, Pruebas y Mantenimiento.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se divide en fases de: Análisis, Diseño, Planificación, Implementación, Pruebas, Revisión y Mantenimiento.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se divide en fases de: Análisis, Diseño, Planificación, Implementación, Pruebas y Revisión.",
+                "isCorrect": "false"
+            }
+            
+        ],
+        "theme": "2",
+        "page": "7"
+    },
+    {
+        "statement": "Ciclo de vida clásico (Waterfall)",
+        "answers": [
+            {
+                "text": "Cada fase comienza al acabar la anterior.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los requisitos son inmutables.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El desarrollo contempla las etapas de: Análisis, Diseño, Implementación y pruebas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El desarrollo contempla las etapas de: Implementación y pruebas.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es peor que no seguir ningún ciclo de vida.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es el tipo de ciclo de vida más fácil de planificar.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es el ciclo de vida que provee el software más rápido.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cada fase finaliza con entregables.",
+                "isCorrect": "true"
+            }
+            
+        ],
+        "theme": "2",
+        "page": "7-8"
+    },
+    {
+        "statement": "Ciclo de vida clásico (Waterfall)",
+        "answers": [
+            {
+                "text": "Es muy utilizado.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es peor que desarrollar sin guías.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Proporciona una plantilla para adecuar los métodos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Su progresión lineal no refleja realmente la forma de desarrollar el software.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No tarda mucho tiempo en recorrer todo el ciclo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No requiere que todos los requisitos sean conocidos desde la fase inicial.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un modelo monolítico.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Trata al software como un proceso de resolución de problemas.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "2",
+        "page": "7"
+    }
+]

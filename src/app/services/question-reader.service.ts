@@ -16,4 +16,10 @@ export class QuestionReaderService {
   readTheme(theme: number) {
     return this.http.get<Question[]>(this.getUrl(theme))
   }
+
+  addQuestion(theme: number, data: any) {
+    return this.http.post(this.getUrl(theme), data)
+  }
+
+  
 }

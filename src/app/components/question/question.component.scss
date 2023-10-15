@@ -1,9 +1,16 @@
+.container {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .wrapper {
     align-items: center;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: minmax(50px, auto);
-    margin-left: 130px;
+    margin-left: 19%;
   }
 
   .statement {
@@ -11,6 +18,17 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    margin-left: 17%;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    padding: 0;
+    margin: 0;
   }
 
   .send {
@@ -27,11 +45,11 @@
   display: inline-block;
 }
 
-.wrong {
+.nc {
     outline: 2px solid deeppink;
 }
 
-.wrong:disabled {
+.nc:disabled {
     outline: 2px solid deeppink;
 }
 
@@ -44,7 +62,14 @@
     accent-color: #5fbe33;
 }
 
-#content input[disabled] {
+.wrong {
+    accent-color: #ee3b0e;
+}
+
+.wrong:disabled {
     accent-color: #5fbe33;
-    pointer-events: none;
+}
+
+.finished {
+  pointer-events: none;
 }

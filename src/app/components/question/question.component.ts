@@ -1,6 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { AbstractControl, FormArray, FormBuilder, FormGroup, ValidatorFn, Validators } from '@angular/forms';
 import { Question } from 'src/assets/models/question';
+import { finished } from 'stream';
 
 @Component({
   selector: 'app-question',
@@ -48,6 +49,7 @@ export class QuestionComponent implements OnInit {
     this.checkStatus()
   }
 
+
   checkStatus() {
     let disabled = true
     console.log(this.answerStatus);
@@ -65,13 +67,12 @@ export class QuestionComponent implements OnInit {
       if(this.question.answers[i].isCorrect =='false' && this.answerStatus[i]) {
         console.log("UNA MAL");
         this.questionStyles[i]='mal'
-        this.answerStatus[i]=false
       } else if(this.question.answers[i].isCorrect =='true' && this.answerStatus[i]) {
         console.log("UNA BIEN");
         this.questionStyles[i]='bien'
       } else if(this.question.answers[i].isCorrect =='true' && !this.answerStatus[i]) {
         console.log("FALTA UNA POR CONTESTAR");
-        this.questionStyles[i]='mal'
+        this.questionStyles[i]='nc'
       }
     }
     this.isFinished=true
