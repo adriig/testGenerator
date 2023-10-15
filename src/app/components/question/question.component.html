@@ -1,4 +1,22 @@
+<div>
+    <div class="statement">
+        <p style="font-weight: bold;"> {{ numberQuestion }} - </p>
+        <div>
+            <h1> {{question.statement}} </h1>
+        </div>
+        <p *ngIf="isMultiple">(Respuesta multiple)</p>
+    </div>
 
-<h1>
-    {{ pregunta.question }}
-</h1>
+    <div class="wrapper">
+        <div *ngFor="let answer of question.answers; let i=index">
+            <input type="checkbox" [(ngModel)]="this.answerStatus[i]" 
+            (change)="changeStatus(i, $event)" 
+            [ngClass]="questionStyles[i]=='default' ? '' : questionStyles[i]=='mal' ? 'wrong' : 'correct'  "> {{answer.text}}
+        </div>
+    </div>
+
+    <div class="send">
+        <button mat-stroked-button color="primary" [disabled]="isDisabled || isFinished" (click)="checkIsRight()">Comprobar</button>
+    </div>
+</div>
+

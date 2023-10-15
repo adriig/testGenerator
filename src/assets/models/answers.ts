@@ -1,4 +1,4 @@
-export interface answers {
+export interface Answers {
     text: string,
-    isCorrect: boolean
+    isCorrect: string
 }

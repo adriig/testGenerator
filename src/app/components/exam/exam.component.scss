@@ -1,0 +1,49 @@
+
+  
+
+.center-container {
+    display: flex;
+    flex-direction: column; /* Para centrar verticalmente */
+    align-items: center; /* Centra horizontalmente y verticalmente */
+    height: 77vh;
+    width: 80%; /* Puedes ajustar el ancho máximo según tus necesidades */
+    background-color: rgb(231, 231, 231);
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: scroll;
+  }
+
+  .info {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 75%;
+    font-size: 25px;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+    background-color: black;
+    color: white;
+
+    p {
+      margin-top: 5px;
+      padding: 2px;
+    }
+  }
+  
+  
+  .centered-content {
+    margin-top: 15px;
+    flex: 0 1 auto; /* flex-grow: 0; flex-shrink: 1; flex-basis: auto; */
+    flex-direction: column;
+    display: flex;
+    gap: 60px;
+    
+    /* Ajusta estos valores según tus necesidades */
+  }
+  

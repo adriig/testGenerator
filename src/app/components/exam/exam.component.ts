@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { question } from 'src/assets/models/question';
+import { Question } from 'src/assets/models/question';
 
 @Component({
   selector: 'app-exam',
@@ -7,10 +7,14 @@ import { question } from 'src/assets/models/question';
   styleUrls: ['./exam.component.scss']
 })
 export class ExamComponent implements OnInit {
-  @Input() preguntas: question[] = []
+  @Input() preguntas: Question[] = []
+  timeInSeconds: number = 0
   constructor() { }
 
   ngOnInit(): void {
+    setInterval(() => {
+      this.timeInSeconds++;
+    }, 1000); // 1000 milisegundos = 1 segundo
   }
 
 }

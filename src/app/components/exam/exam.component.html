@@ -1,4 +1,14 @@
-<p>Examen de {{ preguntas.length }} </p>
-<div *ngFor="let pregunta of preguntas">
-    <app-question [pregunta]="pregunta"></app-question>
+
+
+
+<div class="center-container">
+    <div class="info">
+        <p>{{ preguntas.length }} preguntas</p>   
+        <p>{{ timeInSeconds | countdown }}</p>
+    </div>
+    <div class="centered-content">
+        <div *ngFor="let pregunta of preguntas; let i = index">
+            <app-question [question]="pregunta" [numberQuestion]="i+1"></app-question>
+        </div>
+    </div>
 </div>

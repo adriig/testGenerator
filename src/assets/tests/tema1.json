@@ -1,21 +1,48 @@
-{
-    "question": "¿Cuál de las acciones no forma parte del cliclo de Deming?",
+[
+    {
+    "statement": "¿Cuál de las acciones no forma parte del cliclo de Deming?",
     "answers": [
-        {
-            "text": "Actuar (Act)",
-            "isCorrect": "false"
-        },
-        {
-            "text": "Hacer (Do)",
-            "isCorrect": "false"
-        },
-        {
-            "text": "Probar (Test)",
-            "isCorrect": "true"
-        },
-        {
-            "text": "Planificar (Plan)",
-            "isCorrect": "true"
-        }
-    ]
-}
+            {
+                "text": "Actuar (Act)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Hacer (Do)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Probar (Test)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Planificar (Plan)",
+                "isCorrect": "true"
+            }
+        ],
+    "theme": "1",
+    "page": "27"
+    },
+    {
+        "statement": "¿Cuál de las acciones no forma parte del cliclo de Deming?",
+        "answers": [
+            {
+                "text": "Actuar (Act)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Hacer (Do)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Probar (Test)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Planificar (Plan)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "1",
+        "page": "27"
+    }
+]

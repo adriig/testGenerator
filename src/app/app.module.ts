@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import {MatIconModule } from '@angular/material/icon'
+import { MatButtonModule }  from '@angular/material/button'
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { IndexComponent } from './pages/index/index.component';
@@ -10,6 +12,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { TemasComponent } from './pages/temas/temas.component';
 import { RandomComponent } from './pages/random/random.component';
 import { ColectionComponent } from './pages/colection/colection.component';
+import { HttpClientModule } from '@angular/common/http';
+import { CountdownPipe } from './pipes/countdown.pipe';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,13 +23,18 @@ import { ColectionComponent } from './pages/colection/colection.component';
     QuestionComponent,
     TemasComponent,
     RandomComponent,
-    ColectionComponent
+    ColectionComponent,
+    CountdownPipe
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatIconModule
+    HttpClientModule,
+    MatIconModule,
+    MatButtonModule,
+    FormsModule, 
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

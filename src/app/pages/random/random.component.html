@@ -1,1 +1,7 @@
-<!-- <app-exam [preguntas]=""></app-exam> -->
+<div class="goMenu" (click)="goMenu()">
+    <mat-icon>arrow_back</mat-icon> <p>Volver a menú</p>
+</div>
+<div style="display: flex; justify-content: center; width: 100%;">
+    <h1 style="font-size: 35px;">Examen aleatorio</h1>
+</div>
+<app-exam [preguntas]="questions" style="justify-content: center;"></app-exam>

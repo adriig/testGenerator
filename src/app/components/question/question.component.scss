@@ -1,0 +1,50 @@
+.wrapper {
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(50px, auto);
+    margin-left: 130px;
+  }
+
+  .statement {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .send {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .send button, .send a {
+  margin-right: 8px;
+}
+
+.example-disabled {
+  display: inline-block;
+}
+
+.wrong {
+    outline: 2px solid deeppink;
+}
+
+.wrong:disabled {
+    outline: 2px solid deeppink;
+}
+
+
+.correct {
+    accent-color: #5fbe33;
+}
+
+.correct:disabled {
+    accent-color: #5fbe33;
+}
+
+#content input[disabled] {
+    accent-color: #5fbe33;
+    pointer-events: none;
+}
