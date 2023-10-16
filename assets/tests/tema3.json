@@ -1,3 +1,820 @@
 [
-    
+    {
+        "statement": "¿Qué es un sistema?",
+        "answers": [
+            {
+                "text": "Conjunto de componentes que interactúan entre sí para lograr unos objetivos comunes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Grupo de elementos o componentes que no interactúan entre sí y funcionan de manera independiente para lograr un objetivo común.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Grupo de elementos que funcionan de forma coordinada por medio de un componente central denominado nucleo. Desempeñan funcionen conjuntas para lograr objetivos comunes.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "4"
+    },
+    {
+        "statement": "Sistemas",
+        "answers": [
+            {
+                "text": "Un sistema interactua con un entorno del que toma sus entradas para generar sus propias salidas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un sistema interactua con uno o varios entornos, recibe de ellos entradas las cuales filtra.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El entorno provee de entradas y reglas para el sistema el cual a partir de ellos generará salidas (conocidas como informes).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "4"
+    },
+    {
+        "statement": "Sistemas",
+        "answers": [
+            {
+                "text": "Las entradas de un sistema pueden ser datos, energia o materia.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las entradas de un sistema puede ser informacion, energia o materia.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las entradas de un sistema deben ser obligatoriamente informacion.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "5"
+    },
+    {
+        "statement": "Sistemas",
+        "answers": [
+            {
+                "text": "Las salidas de un sistema pueden ser datos, energia o materia.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las salidas de un sistema puede ser informacion, energia o materia.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las salidas de un sistema deben ser obligatoriamente informacion.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "5"
+    },
+    {
+        "statement": "Sistemas",
+        "answers": [
+            {
+                "text": "Los objetivos del sistema definen el tipo de componentes que conformarán al sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los objetivos del sistema controlan como se realiza la transformación de las entradas hacia las salidas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los objetivos del sistema controlan como se controla la manipulación de las entradas y la liberación de las salidas.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "5"
+    },
+    {
+        "statement": "¿Qué significa que un sistema sea realimentado?",
+        "answers": [
+            {
+                "text": "Las salidas que provee pueden servir de entrada.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En base a una entrada podrá generar varias salidas en el proceso de transformación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema realimentado es aquel sistema ciclico que constantemente está proveyéndose de entrada y generando la apropiada salida (Como los servicios de detección facial).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema realimentado es aquel que tiene en cuenta su efecto sobre su entorno y actúa en consecuencia.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "5"
+    },
+    {
+        "statement": "Datos e información",
+        "answers": [
+            {
+                "text": "Los datos son hechos o cifras que de manera aislada no son relevantes y deben ser procesados.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los datos son el fruto del análisis sobre la información que recibe el sistema como entrada tras un proceso de transformación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La información es el conjunto de datos procesados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La información tiene relevancia por si misma.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "6"
+    },
+    {
+        "statement": "Los procesos para analizar los datos para sacar información son...",
+        "answers": [
+            {
+                "text": "Contextualizar, Categorizar, Calcular, Corregir, Condensar.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Calcular, Comparar, Corregir, Condensar",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Calcular, Corregir, Concluir",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Contextualizar, Categorizar, Calcular, Corregir.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "6"
+    },
+    {
+        "statement": "Los procesos para adquirir conocimiento en base a la información son....",
+        "answers": [
+            {
+                "text": "Contextualizar, Categorizar, Calcular, Corregir, Condensar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Comparar, Evaluar Consecuencias, Establecer conexiones, Conversar, Debatir",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Comparar, Corregir, Conversar, Debatir",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Contextualizar, Comparar, Conversar, Debatir, Analizar.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "7"
+    },
+    {
+        "statement": "Datos, Informacion, Conocimiento",
+        "answers": [
+            {
+                "text": "Los datos son hechos o cifras que de manera aislada no son relevantes y deben ser procesados.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los datos son el fruto del análisis sobre la información que recibe el sistema como entrada tras un proceso de transformación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La información es el conjunto de datos sin procesar",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El conocimiento es la mezcla de experiencias concretas, valores, información de contexto y juicio basado en la experiencia que proporciona un marco de referencia para evaluar e incorporar nuevas experiencias e información.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El conocimiento es el conjunto de valores y experiencia que, tras analizados, puestos a juicio y mediante información sobre su contexto pueden ser procesados y debatidos para adquirir conocimiento por medio del debate.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "6-7"
+    },
+    {
+        "statement": "¿Qué es un sistema de información?",
+        "answers": [
+            {
+                "text": "Es un sistema diseñado para recoger, almacenar, procesar y distribuir información sobre el estado de su entorno y soportar las operaciones, la gestión y la toma de decisiones de la organización de la que forma parte y a la que da servicio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un sistema de información es una base de datos en la nube donde se almacenan todo el contenido aceca de un sistema y que posibilita las operaciones y gestiones precisas para la actividad de la organización de la que forma parte",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información es un software especializado que dispone de un conjunto de datos sin analizar y herramientas para analizarlos de forma que los que empleen el sistema puedan realizar las operaciones y gestiones necesarias",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información es una colección de programas de software que realizan actividades en conjunto y almacenan grandes cantidades de información.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "9"
+    },
+    {
+        "statement": "¿De qué depende el nivel de eficiencia y cumplimiento de metas de una compañia?",
+        "answers": [
+            {
+                "text": "De que empleen un sistema de información correcto y acorde a sus necesidades funcionales",
+                "isCorrect": "false"
+            },
+            {
+                "text": "De que empleen metodologias agile o scrum.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "De sus niveles de gestión y planificación de su funcionamiento interno y sistema logístico",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "10"
+    },
+    {
+        "statement": "¿A qué ayuda un sistema de información?",
+        "answers": [
+            {
+                "text": "Tomar decisiones estratégicas de competitividad",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Tomar decisiones tácticas de negocio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Recaudar toda la información de la empresa.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Analizar grandes cantidades de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Llevar a cabo los procesos de negocio y sus operaciones asociadas",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "10"
+    },
+    {
+        "statement": "En una organización el nivel estratégico se encarga de...",
+        "answers": [
+            {
+                "text": "Gestión de un departamento",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivos a corto plazo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivos a largo plazo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Decidida por la dirección.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Gestiona la organización como un todo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Lleva a cabo planes de accion",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "11"
+    },
+    {
+        "statement": "En una organización el nivel tactico se encarga de...",
+        "answers": [
+            {
+                "text": "Gestión de un departamento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objetivos a medio-corto plazo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivos a largo plazo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Responsabilidad de la unidad organizativa.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Resultados especificos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Lleva a cabo planes de accion",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivos departamentales",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "11"
+    },
+    {
+        "statement": "En una organización el nivel operativo se encarga de...",
+        "answers": [
+            {
+                "text": "Gestión de un departamento",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivos a corto plazo (Metas inmediatas).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objetivos a medio-corto plazo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Resultados especificos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Lleva a cabo planes de accion",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "11"
+    },
+    {
+        "statement": "¿Qué es un sistema informático?",
+        "answers": [
+            {
+                "text": "Un sistema compuesto por hardware, software, personal, procedimientos y mantenimiento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un sistema de información compuesto por hardware, software y personal.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información compuesto por hardware, software y datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información compuesto por hardware, software",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "13"
+    },
+    {
+        "statement": "Sistema informático VS Sistema de información",
+        "answers": [
+            {
+                "text": "Todo sistema informático debe ser parte de un sistema de información",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información suele contar con un sistema informático entre sus componentes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un sistema informático es un tipo de sistema de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un sistema de información y un sistema de informático son lo mismo",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "14"
+    },
+    {
+        "statement": "Funciones de un sistema de información",
+        "answers": [
+            {
+                "text": "Memoria: mantiene una representación interna del estado del entorno del sistema",
+                "isCorrect": "true"
+            },
+            {
+                "text": " Informativa: proporciona información sobre el estado del entorno del sistema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Activa: realiza acciones que modifican el estado del entorno del sistema..",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Funcional: realiza actividades de mantenimiento para impedir errores en el entorno.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Nominativa: distinciones entre los distintos usuarios que trabajan con el sistema de informacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las funciones son exclusivamente realizadas de forma manual.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las funciones pueden ser realizadas tanto manualmente como automaticamente.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "16-17"
+    },
+    {
+        "statement": "Funcion Memoria de Sistema de Informacion",
+        "answers": [
+            {
+                "text": "Solo puede ser utilizado bajo demanda (manualmente)",
+                "isCorrect": "false"
+            },
+            {
+                "text": " En caso de ser bajo demanda el usuario dictará las entradas, salidas, etc. al sistema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En caso de ser automatica el sistema detectará la información necesaria mediante RFID",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En caso de ser automatica el sistema detectará la información necesaria mediante RFD.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "18"
+    },
+    {
+        "statement": "Funcion Informativa de Sistema de Informacion",
+        "answers": [
+            {
+                "text": "Solo puede ser utilizado automaticamente",
+                "isCorrect": "false"
+            },
+            {
+                "text": " En caso de ser bajo demanda el usuario solicitará la información necesaria al sistema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En caso de ser automatica el sistema informará a los usuarios de la información necesaria cuando sea necesario",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No puede ser automatico ya que el sistema pese a tener la información es incapaz de informar por si solo. Debe ser bajo demanda siempre.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "19"
+    },
+    {
+        "statement": "Funcion Activa de Sistema de Informacion",
+        "answers": [
+            {
+                "text": "Solo puede ser utilizado automaticamente",
+                "isCorrect": "false"
+            },
+            {
+                "text": " En caso de ser bajo demanda el usuario solicitará la acción necesaria al sistema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En caso de ser automatica el sistema realizará la acción necesaria cuando sea necesario",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No puede ser automatico ya que el sistema pese a tener la información es incapaz de realizar la accion por si solo. Debe ser bajo demanda siempre.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "20"
+    },
+    {
+        "statement": "Apoyo operacional para organizaciones (Procesamiento de transacciones, TPS)",
+        "answers": [
+            {
+                "text": "El apartado operativo de una organizacion es el que se encarga de los objetivos inmediatos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El TPS tiene por objetivo capturar y procesar datos sobre las transacciones que se realizan diariamente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El TPS tiene por objetivo capturar y procesar datos sobre las operativas funcionales que se realizan diariamente",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las transacciones son pagos o cobros bancarios o financieros que se realizan en las organizaciones.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las transacciones son hechos o actividades que se realizan en las organizaciones e implican intercambios de información.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las transacciones son hechos o actividades que se realizan en las organizaciones pero no siempre implican intercambios de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Para garantizar el estado correcto de la información debe cumplirse las características ACID",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "26"
+    },
+    {
+        "statement": "¿Cuáles son características ACID?",
+        "answers": [
+            {
+                "text": "Atomicity: Las operaciones o son completadas y totalmente procesadas o descartadas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Consistency: Las operaciones no pueden violar la integridad de los datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Isolation: Cada operación debe ser independiente y que no afecte al resultado de otra transacción",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Durability: El resultado de una operación debe ser persistente en el tiempo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Dynamic: Las operaciones deberán estar claramente definidas.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Impossibility: El resultado de una operación deberá ser absoluto.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Capacity: Podrán abarcarse tantas operaciones como la organización permita sin que se produzca desbordamiento.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Anxiety: El examen es pronto y son 8 temas, odio esta asignatura.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "27"
+    },
+    {
+        "statement": "Apoyo operacional para organizaciones (Procesamiento de transacciones, TPS)",
+        "answers": [
+            {
+                "text": "Los TPS recogen la mayoría de información para que esta sea analizada por los trabajadores directamente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los TPS recogen la mayoría de información para el resto de sistemas de información de la organización.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un fallo en los TPS, aun por grave que sea, siempre que se cumplan las caracteristicas ACID no debería suponer un problema para la organización",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un fallo en los TPS que sea grave puede llegar a paralizar a la organización se cumplan o no las características ACID",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un TPS no ofrece interfaz gráfica, solo procedimientos y guardado de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un TPS además de almacenar los datos (como las BD) ofrece interfaz gráfica, balanceador de peticiones...",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "30"
+    },
+    {
+        "statement": "Información de Gestión (MIS)",
+        "answers": [
+            {
+                "text": "Proporcionan información tanto para las necesidades de las operaciones como de la administración en la empresa (táctica).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Proporciona información para el area de estrategia de la empresa.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Transforma los datos e información en distintas formas para cumplir los requisitos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Genera informes periódicos a partir de información recolectada por los TPS",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Genera informes periódicos a partir de información propia, nunca recolectada por los TPS ya que esa información es carente de perspectiva organizativa.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los informes que genera suelen tener una estructura fija",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "31"
+    },
+    {
+        "statement": "Apoyo toma decisiones (DSS)",
+        "answers": [
+            {
+                "text": "Proporciona solamente informes y simulaciones de forma flexible para ayudar a resolver problemas no previstos anteriormente",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Proporciona informes, análisis y simulaciones de forma flexible para ayudar a resolver problemas no previstos anteriormente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Usan información exclusivamente de los TPS",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Usan información exclusivamente de los MIS",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Usan información tanto de TPS como de MIS pero no de la competencia, mercados, clientes...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Usan información de TPS, de MIS, de la competencia, mercados, clientes...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Para no cargar los TPS suelen usar un sistema de Data Warehouse.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cada vez utilizan más Big Data.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No utilizan Big Data debido a que esta tecnología supone un alto coste operacional.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "32"
+    },
+    {
+        "statement": "Soluciones integrales para las organizaciones: ERP",
+        "answers": [
+            {
+                "text": "Un ERP aporta compras, ventas, inventario, nominas, fabricacion, etc.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sus siglas significan Enterprise Responsability Planning.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus siglas significan Enterprise Resource Planning",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sus siglas significan Enterprise Responsability Planification",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un sistema integral para la empresa.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es un modelo de gestion orientado a clientes",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mejora y automatiza el suministro de servicios",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "3",
+        "page": "34"
+    },
+    {
+        "statement": "Soluciones integrales para las organizaciones: CRM",
+        "answers": [
+            {
+                "text": "No genera incentivos para los clientes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus siglas significan Custom Responsability Management.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus siglas significan Costumer Relationship Management",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sus siglas significan Costumer Responsability Management",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Tiene apartados de Marketing, atención al cliente, facturación...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Tiene apartados de Compras, ventas, inventario...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un modelo de gestion orientado principalmente a clientes",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Genera incentivos para los clientes",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "34"
+    },
+    {
+        "statement": "Soluciones integrales para las organizaciones: SCM",
+        "answers": [
+            {
+                "text": "Genera incentivos para los clientes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus siglas significan Social Compromise Management.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus siglas significan Suplier Chain Management",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sus siglas significan Suplier Cooperative Management",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Tiene apartados de Marketing, atención al cliente, facturación...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Tiene apartados de Transporte, rutas, gestión de lotes...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Busca mejorar y automatizar el suministro a través de la reducción de existencias y plazos de entrega",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Permite rastrear el paso de las piezas (trazabilidad)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "3",
+        "page": "34"
+    }
 ]
