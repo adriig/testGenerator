@@ -12,11 +12,11 @@
             },
             {
                 "text": "Probar (Test)",
-                "isCorrect": "false"
+                "isCorrect": "true"
             },
             {
                 "text": "Planificar (Plan)",
-                "isCorrect": "true"
+                "isCorrect": "false"
             }
         ],
     "theme": "1",
@@ -27,7 +27,7 @@
         "answers": [
             {
                 "text": "Tangible",
-                "isCorrect": "true"
+                "isCorrect": "false"
             },
             {
                 "text": "Se desarrolla pero no se fabrica",

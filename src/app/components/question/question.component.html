@@ -1,4 +1,4 @@
-<div class="container">
+<div [ngClass]="!isFinished ? 'container' : isCorrect ? 'container-right' : 'container-wrong' ">
     <div class="statement">
         <p style="font-weight: bold;"> {{ numberQuestion }} - </p>
         <div>

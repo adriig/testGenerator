@@ -24,6 +24,29 @@
     justify-content: center;
     position: relative;
   }
+
+  .option-disabled {
+    width: 30%;
+    border: 2px solid #ff0000;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: not-allowed;
+  }
+
+  .option-disabled:hover {
+    transform: scale(1.05);
+  }
+
+
+  .option-disabled img {
+    max-width: 100%;
+    max-height: 100%;
+  }
   
   .option img {
     max-width: 100%;

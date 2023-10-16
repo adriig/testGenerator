@@ -3,12 +3,22 @@
 
 <div class="center-container">
     <div class="info">
-        <p>{{ preguntas.length }} preguntas</p>   
+        <p> {{ contestadas }} / {{ preguntas.length }} preguntas</p>   
+        <div style="display: flex; align-items: center; margin: 0; padding: 0; gap:35px">
+            <div style="display: flex; align-items: center;">
+                <mat-icon style="color: green;">check</mat-icon>
+                <p style="margin: 0; padding: 0;"> {{aciertos}} </p>
+            </div>
+            <div style="display: flex; align-items: center;">
+                <mat-icon style="color: red;">close</mat-icon>
+                <p style="margin: 0; padding: 0;"> {{fallos}} </p>
+            </div>
+        </div>
         <p>{{ timeInSeconds | countdown }}</p>
     </div>
     <div class="centered-content">
         <div *ngFor="let pregunta of preguntas; let i = index">
-            <app-question [question]="pregunta" [numberQuestion]="i+1"></app-question>
+            <app-question [question]="pregunta" [numberQuestion]="i+1" (answeredQuestion)="takeCalification($event)"></app-question>
         </div>
     </div>
 </div>

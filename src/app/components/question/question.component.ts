@@ -1,7 +1,6 @@
-import { Component, Input, OnInit } from '@angular/core';
 import { AbstractControl, FormArray, FormBuilder, FormGroup, ValidatorFn, Validators } from '@angular/forms';
 import { Question } from 'src/assets/models/question';
-import { finished } from 'stream';
+import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
 
 @Component({
   selector: 'app-question',
@@ -11,11 +10,13 @@ import { finished } from 'stream';
 export class QuestionComponent implements OnInit {
   @Input() question!: Question
   @Input() numberQuestion: number = 0
+  @Output() answeredQuestion = new EventEmitter<boolean>();;
   questionStyles: string[] = []
   answerStatus: boolean[] = []
   isDisabled: boolean = true;
   isMultiple: boolean = false;
   isFinished: boolean = false;
+  isCorrect: boolean = false;
   constructor() {
     
    }
@@ -52,8 +53,6 @@ export class QuestionComponent implements OnInit {
 
   checkStatus() {
     let disabled = true
-    console.log(this.answerStatus);
-    
     for(let i=0; i<=this.answerStatus.length; i++) {
       if(this.answerStatus[i]) {
         disabled=false
@@ -67,14 +66,28 @@ export class QuestionComponent implements OnInit {
       if(this.question.answers[i].isCorrect =='false' && this.answerStatus[i]) {
         console.log("UNA MAL");
         this.questionStyles[i]='mal'
+       
       } else if(this.question.answers[i].isCorrect =='true' && this.answerStatus[i]) {
         console.log("UNA BIEN");
         this.questionStyles[i]='bien'
+        
       } else if(this.question.answers[i].isCorrect =='true' && !this.answerStatus[i]) {
         console.log("FALTA UNA POR CONTESTAR");
         this.questionStyles[i]='nc'
+        
       }
     }
+    let status = true
+    for(let i=0; i<=this.questionStyles.length; i++) {
+      if(this.questionStyles[i]!='bien' && this.questionStyles[i]!==undefined && this.questionStyles[i]!='default') {
+        console.log("checking as false", this.questionStyles[i]);
+        
+        status = false
+      }
+    }
+
+    this.isCorrect = status
+    this.answeredQuestion.emit(status)
     this.isFinished=true
   }
 }

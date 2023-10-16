@@ -5,6 +5,25 @@
   flex-direction: column;
 }
 
+.container-right {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba($color: #59b84c, $alpha: 0.3);
+}
+
+.container-wrong {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba($color: #dc5e45, $alpha: 0.3);
+
+}
+
+
+
 .wrapper {
     align-items: center;
     display: grid;

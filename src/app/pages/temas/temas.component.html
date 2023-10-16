@@ -3,8 +3,8 @@
 </div>
 <div style="display: flex; justify-content: center; width: 100%;">
     <h1 style="font-size: 35px;">Examen de: </h1>
-    <select style="margin-bottom: 5px; border-radius: 15px; margin-left: 5px;">
-        <option *ngFor="let i of [1,2,3,4,5,6]" (change)="getQuestions(i)">Tema {{i}}  </option>
+    <select style="margin-bottom: 15px; border-radius: 15px; margin-left: 5px;" (change)="callQuestions($event)">
+        <option *ngFor="let i of [1,2,3,4,5,6]" value="i" [value]="i">Tema {{i}}  </option>
     </select>
 </div>
-<app-exam [preguntas]="questions" style="justify-content: center;"></app-exam>
+<app-exam [preguntas]="questions"style="justify-content: center;"></app-exam>
