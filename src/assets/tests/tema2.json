@@ -124,6 +124,157 @@
             }
         ],
         "theme": "2",
-        "page": "7"
+        "page": "9"
+    },
+    {
+        "statement": "Ciclos de vida evolutivos",
+        "answers": [
+            {
+                "text": "Cuanto mayor es un proyecto mayor es la probabilidad de éxito.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requiere que todos los requisitos sean conocidos al principio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se divide en ciclos de requisitos-desarrollo-evaluacion.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La etapa de evaluacion es la que permite evolucionar al proyecto a la siguiente version.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "2",
+        "page": "11"
+    },
+    {
+        "statement": "Ciclo de vida incremental",
+        "answers": [
+            {
+                "text": "Consiste en la repetición de varios ciclos de vida waterfall.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Consiste en unos ciclos conocidos como ciclos evolutivos divididos en etapas de requisitos-desarrollo-evaluacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se aplica para desarrollos de pequeño-mediano tamaño.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Al final de cada ciclo se entrega una versión parcial del software incrementada con cierta funcionalidad nueva respecto a las anteriores.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los ciclos se repiten aun habiendo obtenido el producto completo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Al poder tener varias versiones permite el uso de las funcionalidades que se vayan completando permitiendo al cliente sugerir mejoras.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "2",
+        "page": "12-13"
+    },
+    {
+        "statement": "Ciclo de vida iterativo",
+        "answers": [
+            {
+                "text": "Sus primeras versiones se desecharán posteriormente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus primeras versiones pueden ser unicamente prototipos a desechar posteriormente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los ciclos se repiten hasta obtener un producto satisfactorio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En cada iteracion los usuarios evaluarán el producto y propondrán mejoras.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "A diferencia del incremental, el iterativo abarca todas las funcionalidades solicitadas al proyecto pese a que no en todas sus versiones sean completamente operativas",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "2",
+        "page": "12-13-14-15"
+    },
+    {
+        "statement": "Prototipos (Empleados en los ciclos de vida)",
+        "answers": [
+            {
+                "text": "Se deberán desarrollar prototipos en todas las etapas del desarrollo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se debe estudiar si merece la pena el esfuerzo de crear los prototipos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los prototipos podrán ser desechables, evolutivos o mixtos en función de si se desechará o implementará de forma total o parcial.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los prototipos son unicamente utilizados en los ciclo de vida iterativos, principalmente en sus fases iniciales",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los prototipos funcionales son auqellos utilizados para aevaluar diferentes algoritmos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los prototipos suelen ser desechados para empezar desde el principio",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El uso de prototipos disminuye el tiempo entre definición de requisitos y la entrega del producto",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "2",
+        "page": "16-17-18"
+    },
+    {
+        "statement": "Ciclos de vida en metodologías agile",
+        "answers": [
+            {
+                "text": "Son ciclos de vida evolutivos con iteraciones de corta duración (2 semanas a 2 meses).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son ciclos de vida iterativos con ciclos de corta duración (2 semanas a 2 meses).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los prototipos podrán ser desechables, evolutivos o mixtos en función de si se desechará o implementará de forma total o parcial.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los prototipos son unicamente utilizados en los ciclo de vida iterativos, principalmente en sus fases iniciales",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los prototipos funcionales son auqellos utilizados para aevaluar diferentes algoritmos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los prototipos suelen ser desechados para empezar desde el principio",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El uso de prototipos disminuye el tiempo entre definición de requisitos y la entrega del producto",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "2",
+        "page": "20"
     }
 ]

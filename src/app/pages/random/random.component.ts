@@ -23,18 +23,4 @@ export class RandomComponent implements OnInit {
   goMenu() {
     this.router.navigateByUrl('general');
   }
-
-  desestructureQuestions(question: any) {
-    let { statement, answers, theme, page } = question
-    let questionFormatted: Question = {
-      statement: statement,
-      answers: answers,
-      theme: theme,
-      page: page
-    } 
-    return questionFormatted
-  }
-
-
-
 }
