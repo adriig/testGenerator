@@ -1,3 +1,472 @@
 [
-    
+    {
+        "statement": "¿Cómo podemos asegurar la calidad de un modelo frente a las anomalías de manipulación?",
+        "answers": [
+            {
+                "text": "Que esté al menos en primera forma normal (1FN).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Que esté al menos en tercera forma normal (3FN).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Que esté al menos en segunda forma normal (2FN).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Que esté al menos en cuarta forma normal (4FN).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "4"
+    },
+    {
+        "statement": "¿Influyen las anomalías de manipulación a la calidad de un modelo relacional?",
+        "answers": [
+            {
+                "text": "Sí, las anomalías de manipulación que presente influyen.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No, debido a que las anomalías de manipulación no afectan al modelo en si sino a sus datos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "4"
+    },
+    {
+        "statement": "¿Puede ser un problema que existan distintos registros para un mismo objeto y además, guardemos alguna propiedad de ese objeto?",
+        "answers": [
+            {
+                "text": "Sí, debido a que pueden existir datos redundantes, por ejemplo una base de datos de mascotas si una persona tiene varias mascotas y guardamos el domicilio de la persona se repetirá en cada registro.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No, debido a que las bases de datos estan diseñadas para tolerar la repetición de información. De hecho puede ser necesario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sí, debido a que existen riesgos de incoherencia si solo actualizamos parcialmente la información repetida.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "6"
+    },
+    {
+        "statement": "¿Puede ser un problema que guardemos establezcamos campos para un registro que no sabemos cuando tendremos su correspondiente información?",
+        "answers": [
+            {
+                "text": "Sí, debido a que pueden ocurrir anomalías de inserción ya que en el momento de crear el registro puede que aún desconozcamos la información de algunos campos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No, debido a que podemos definir los campos que en ese momento no tengamos la información como nulos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sí, debido a que existen riesgos de que ocurran anomalías de actualización si por ejemplo guardamos más de un campo.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "7"
+    },
+    {
+        "statement": "¿Qué es una dependencia funcional? --> Si R es una relación y X e Y son dos subconjuntos...",
+        "answers": [
+            {
+                "text": "X determina funcionalmente a Y, Y depende funcionalmente de X sí y solo sí siempre que dos tuplas tengan los mismos valores de X también tengan los mismos valores de Y.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "X determina funcionalmente a Y, Y depende funcionalmente de X sí y solo sí existan dos tuplas tengan los mismos valores de X también tengan los mismos valores de Y.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "X determina funcionalmente a Y, Y depende funcionalmente de X sí siempre que dos tuplas tengan los mismos valores de X también tengan los mismos valores de Y.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "X determina funcionalmente a Y, Y depende funcionalmente de X siempre que el valor de X e Y sea el mismo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "11"
+    },
+    {
+        "statement": "¿Cómo se identifica una dependencia funcional?",
+        "answers": [
+            {
+                "text": "Las dependencias funcionales no pueden deducirse de los datos de la extensión de una relación.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las dependencias funcionales pueden deducirse de los datos de la extensión de una relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las dependencias funcionales a veces pueden deducirse de los datos de la extensión de una relación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "12"
+    },
+    {
+        "statement": "¿Cómo se identifica una dependencia funcional?",
+        "answers": [
+            {
+                "text": "Las dependencias funcionales dependen de la semántica de los atributos en el modelo conceptual, y por extensión, dependen del dominio del problema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las dependencias funcionales dependen de la semántica de los atributos en el modelo conceptual pero no del dominio del problema.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "12"
+    },
+    {
+        "statement": "Grafo de dependencias funcionales",
+        "answers": [
+            {
+                "text": "Forma gráfica de representar las dependencias funcionales de un modelo relacional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los nodos son atributos o conjuntos de atributos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los arcos son atributos o conjuntos de atributos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los arcos son las dependencias funcionales.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los nodos son las dependencias funcionales.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Normalmente solo se usan para representar dependencias funcionales que determinan un solo atributo.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "14"
+    },
+    {
+        "statement": "Formas normales",
+        "answers": [
+            {
+                "text": "Son condiciones que debe cumplir un modelo relacional para estar exento de anomalías de manipulación.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Codd propuso tres formas normales: 1FN, 2FN, 3FN.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Codd propuso cuatro formas normales: 1FN, 2FN, 3F, 4FN.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Boyce-Codd propuso otras tres formas normales: FN, 4FN, 5F.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Todos los FN incluyen al anterior.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "16"
+    },
+    {
+        "statement": "Primera forma normal (1FN)",
+        "answers": [
+            {
+                "text": "Una relación está en 1FN si cada tupla se le asigna a cada atributo un solo valor.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una relación está en 1FN si cada tupla se le asigna a cada atributo un tipo base sin restricciones.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En la 1FN pueden existir grupos repetidos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En la 1FN se pueden guardar listas de datos como valor.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "17"
+    },
+    {
+        "statement": "Segunda forma normal (2FN)",
+        "answers": [
+            {
+                "text": "Una relación puede estar en 2FN pero no en 1FN.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En una relación 2FN todos sus atributos no primos son completamente dependientes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En una relación 2FN todos sus atributos no primos son parcialmente dependientes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No se puede transformar un modelo relacional que no esté en 2FN en otro a que si lo esté sin pérdidas de información ni dependencias.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "21"
+    },
+    {
+        "statement": "Tercera forma normal (3FN)",
+        "answers": [
+            {
+                "text": "Una relación puede estar en 3FN pero no en 2FN.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En una relación 3FN ninguno de sus atributos no primos dependen transitivamente de ninguna clave candidata.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En una relación 3FN todos sus atributos no primos deben dependen transitivamente de al menos una clave candidata.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No se puede transformar un modelo relacional que no esté en 2FN en otro a que si lo esté sin pérdidas de información ni dependencias.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (a)",
+        "page": "25"
+    },
+    {
+        "statement": "¿Qué es el desarrollo dirigido por modelos (MDD)?",
+        "answers": [
+            {
+                "text": "Es un enfoque de desarrollo en el que mediante iteraciones se generan una serie de modelos que conjuntamente proporcionarán el código fuente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un enfoque de desarrollo en el que se van generando productos mediante transformación de modelos hasta llegar al código fuente.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "4"
+    },
+    {
+        "statement": "Transformación de entidades",
+        "answers": [
+            {
+                "text": "Cada entidad se transforma en una relación con su mismo nombre (en plural).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cada entidad se transforma en una relación con su mismo nombre (en singular).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cada relación se transforma en una entidad con su mismo nombre (en plural).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cada relación se transforma en una entidad con su mismo nombre (en singular).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "5"
+    },
+    {
+        "statement": "Transformación de entidades",
+        "answers": [
+            {
+                "text": "Se deben definir dominios para los atributos en función de la semántica de los atributos correspondientes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es conveniente definir dominios para los atributos en función de la semántica de los atributos correspondientes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se debe añadir un sufijo Id como clave primaria (PK).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se recomienda añadir un sufijo Id como clave primaria (PK).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "5"
+    },
+    {
+        "statement": "Transformación de entidades: Identificadores de objetos (id)",
+        "answers": [
+            {
+                "text": "Son atributos artificiales que se añaden para poder identificar un objeto de otro sin depender de claves semánticas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Siempre se generan de forma automática mediante la SGBD.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se deben nombrar con el sufijo Id, id, _id o similar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son atributos que se añaden para poder diferenciar un objeto de otro pudiendose repetir o ser nulos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "6"
+    },
+    {
+        "statement": "Transformación de entidades: Claves semánticas",
+        "answers": [
+            {
+                "text": "Son atributos o conjuntos de atributos que son claves en el dominio del problema.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son atributos de tipo cadena o texto que son claves en el dominio del problema",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Siempre pueden usarse como Id.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Nunca pueden usarse como Id debido a que las SGBD solo funcionan con numéricos como PK o conjuntos de numéricos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "6"
+    },
+    {
+        "statement": "Transformación de Asociaciones",
+        "answers": [
+            {
+                "text": "Las asociaciones 1:N se representan con una clave ajena en la relación de la entidad del rol N.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las asociaciones 1:N se representan mediante la creación auxiliar de entidades",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las asociaciones 1:N pueden ser representadas o no con una clave ajena en la relación de la entiedad del rol N",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las asociaciones 1:N pueden ser representadas o no con una clave ajena en la relación de la entiedad del rol 1.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "10"
+    },
+    {
+        "statement": "Transformación de Asociaciones",
+        "answers": [
+            {
+                "text": "Las asociaciones 1:1 se representan con una clave foranea en cualquiera de las entidades que la forman.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las asociaciones 1:1 pueden ser representadas con una clave foranea o no en cualquiera de las entidades",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "10"
+    },
+    {
+        "statement": "Transformación de Asociaciones",
+        "answers": [
+            {
+                "text": "Las asociaciones M:N se representan con una clave foranea en cualquiera de las entidades que la forman.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las asociaciones M:N pueden ser representadas con una clave foranea o no en cualquiera de las entidades",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las asociaciones M:N se representan con una relación auxiliar con claves ajenas a las dos relaciones.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las asociaciones M:N no pueden ser representadas y debe re-estructurarse el modelo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "10"
+    },
+    {
+        "statement": "Transformación de Asociaciones",
+        "answers": [
+            {
+                "text": "Si un rol está {ordenado} hay que añadir un atributo que especifique el orden en la misma relación en la que se coloca la clave ajena.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Si un rol está {ordenado} hay que añadir un atributo que especifique el orden para la relación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "11"
+    },
+    {
+        "statement": "Transformación de Clasificaciones: Marque las que sean estrategias de transformación",
+        "answers": [
+            {
+                "text": "Una relación para cada clase de la jerarquia.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "una relación para cada clase pero no para sus subclases.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una relación para cada subclase concreta.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "una relación para todas las clases abstractas y las subclases instanciadas.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una relación para toda la jerarquia.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "8 (b)",
+        "page": "17"
+    }
 ]
