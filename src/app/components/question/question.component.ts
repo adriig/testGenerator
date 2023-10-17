@@ -1,6 +1,7 @@
 import { AbstractControl, FormArray, FormBuilder, FormGroup, ValidatorFn, Validators } from '@angular/forms';
 import { Question } from 'src/assets/models/question';
 import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
+import { Answers } from 'src/assets/models/answers';
 
 @Component({
   selector: 'app-question',
@@ -10,7 +11,7 @@ import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
 export class QuestionComponent implements OnInit {
   @Input() question!: Question
   @Input() numberQuestion: number = 0
-  @Output() answeredQuestion = new EventEmitter<boolean>();;
+  @Output() answeredQuestion = new EventEmitter<boolean>();
   questionStyles: string[] = []
   answerStatus: boolean[] = []
   isDisabled: boolean = true;
@@ -18,7 +19,6 @@ export class QuestionComponent implements OnInit {
   isFinished: boolean = false;
   isCorrect: boolean = false;
   constructor() {
-    
    }
 
   ngOnInit(): void {
@@ -26,6 +26,17 @@ export class QuestionComponent implements OnInit {
 
     for(let i=0; i<=this.question.answers.length; i++) {
       this.questionStyles[i]='default'
+    }
+
+    if (Array.isArray(this.question.answers) && this.question.answers.length >= 2) {
+      this.shuffleArray(this.question.answers);
+    }
+  }
+
+  shuffleArray(array: any[]) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
     }
   }
 

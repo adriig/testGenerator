@@ -1,0 +1,814 @@
+[
+    {
+        "statement": "¿Qué significan las siglas SGBD?",
+        "answers": [
+            {
+                "text": "Sistema de gestion de bases de datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sistema gestor de bases de datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Servicio de gestión de bases de datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Servicio gestor de bases de datos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "4"
+    },
+    {
+        "statement": "De qué se encarga un sistema de gestión de bases de datos",
+        "answers": [
+            {
+                "text": "Almacena grandes volúmenes de datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Gestiona el acceso concurrente a los datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Securiza y encripta los datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mantiene la integridad semántica de los datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Asegura la consistencia de los datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Maneja las copias de seguridad de los datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Controla el acceso a los datos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Filtra la entrada y salida de los datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Implementa (principalmente) las funciones de memoria e informativa de un sistema de información.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "4"
+    },
+    {
+        "statement": "Trazabilidad hacia otros productos: Marca la opción correcta",
+        "answers": [
+            {
+                "text": "Requisitos --> Modelo Conceptual --> Esquema Relacional BD --> SGBD.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "SGBD --> BBDD --> Esquema relacional BD --> Modelo Conceptual --> Requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "SGBD --> Esquema relacional BD --> Modelo Conceptual --> Requisitos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisitos --> Modelo Conceptual --> Esquema Relacional BD --> BBDD --> SGBD.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "5"
+    },
+    {
+        "statement": "Los sistemas pre-relacionales",
+        "answers": [
+            {
+                "text": "Son previos a 1980.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son previos a 1990.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son previos a 1970.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son previos a 1960.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Los sistemas pre-relacionales",
+        "answers": [
+            {
+                "text": "Basados en archivos: Secuenciales e indexados.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos jerárquicas: IMS.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos contextuales: JMR.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Bases de datos en red: CODASYL",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos Open Source: PostgreSQL, MySQL, MariaDB....",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Los sistemas relacionales",
+        "answers": [
+            {
+                "text": "Desde 1980.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desde 1990.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desde 1970.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Desde 1960.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Los sistemas relacionales",
+        "answers": [
+            {
+                "text": "Bases de datos experimentales: RMDS, Ingres...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos orientado a objetos: Gemstone, db4o...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Bases de datos comerciales: Oracle, MongoDB, Cassandra...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Bases de datos comerciales: Oracle, DB2, MS, MSSQL Server...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos Open Source: PostgreSQL, MySQL, MariaDB....",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Los sistemas post-relacionales",
+        "answers": [
+            {
+                "text": "Desde 1980.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desde 1990.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Desde 1970.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desde 1960.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Los sistemas post-relacionales",
+        "answers": [
+            {
+                "text": "Bases de datos experimentales: RMDS, Ingres...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Bases de datos orientado a objetos: Gemstone, db4o...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos NosQL: Redis, MongoDB, Cassandra...",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos comerciales: Oracle, DB2, MS, MSSQL Server...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Bases de datos Objeto-Relacionales: SQL3.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Bases de datos Big-Data: FlockDB, Hibari, Riak....",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "7"
+    },
+    {
+        "statement": "Origenes del modelo relacional",
+        "answers": [
+            {
+                "text": "Desarrollado por Codd, E.F. (1970)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Desarrollado por Mark, F.L. (1963)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desarrollado por Thompson, L.F (1965).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Desarrollado por Jules, G.L (1965).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "8"
+    },
+    {
+        "statement": "Origenes del modelo relacional",
+        "answers": [
+            {
+                "text": "Modelo sencillo y flexible basado en la semántica",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Modelo sencillo y dinámico basado en fundamentos ingenieriles",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Modelo sencillo y flexible basado en fundamentos matemáticos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Modelo flexible y dinámico basado en fundamentos eléctronicos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "8"
+    },
+    {
+        "statement": "Primeras implementaciones",
+        "answers": [
+            {
+                "text": "RDMS (MIT), primeros años de la década de los 70",
+                "isCorrect": "true"
+            },
+            {
+                "text": "MariaDB (Open Source), 1971",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Oracle V2, 1979",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cortissa (Open Source), 1972",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Ingres (Universidad de Berkeley), 1974",
+                "isCorrect": "true"
+            },
+            {
+                "text": "RTF (Standford University), 1975",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Kartano (MIT), 1977",
+                "isCorrect": "false"
+            },
+            {
+                "text": "IBM System R/DB2, 1979.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "8"
+    },
+    {
+        "statement": "¿Por qué se compone una relación?",
+        "answers": [
+            {
+                "text": "Una relación se compone por una intensión (conjunto de atributos que toman valores sobre un dominio) y por una extensión (conjunto de tuplas key-valueUna relación se compone por una intensión (conjunto de atributos que toman valores sobre un dominio) y por una extensión (conjunto de tuplas key-value)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una relación se compone por dos clases referenciadas entre sí por medio de alguna de sus propiedades",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "9"
+    },
+    {
+        "statement": "¿Qué es una intensión?",
+        "answers": [
+            {
+                "text": "Una intensión define un conjunto de atributos cada uno de los cuales toma valores sobre un dominio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una intensión define un conjunto de variables las cuales tomarán valor en función de las restricciones del sistema",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un ejemplo de intensión sería: nif (Naturales de 8 digitos seguidos de una letra mayúscula), nombre (Cadenas de texto menores de 50 caracteres), edad (Naturales menores o iguales a 200)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un ejemplo de intensión sería: nif, nombre, edad. Sus posibles valores vendrían dados por las restricciones del sistema.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "9"
+    },
+    {
+        "statement": "¿Qué es una extensión?",
+        "answers": [
+            {
+                "text": "Una extensión es un conjunto de tuplas, cada una formada por un conjunto de clave-valor, de forma que a cada clave de la intensión se le asocia un valor del dominio definido por la intensión.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una extensión es un conjunto de valores los cuales tomarán los valores permitidos por las restricciones del sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un ejemplo de extension sería: Para intension(edad) --> 13,5,31,52,103",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "10"
+    },
+    {
+        "statement": "¿Qué es el grado de la relación?",
+        "answers": [
+            {
+                "text": "El número de atributos definidos en la intensión.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El número de tuplas de la extensión.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El número de columnas y filas de la tabla.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "11"
+    },
+    {
+        "statement": "¿Qué es la cardinalidad de la relación?",
+        "answers": [
+            {
+                "text": "El número de atributos definidos en la intensión.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El número de tuplas de la extensión.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El número de columnas y filas de la tabla.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "11"
+    },
+    {
+        "statement": "¿Como se implementa el concepto de relación?",
+        "answers": [
+            {
+                "text": "El concepto de relacion se implementa mediante una tabla, cuyas columas representan los atributos (intension) y las filas las tuplas (extension).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El concepto de relacion se implementa mediante una tabla, cuyas filas representan los atributos (intension), y las filas las tuplas (extension).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "12"
+    },
+    {
+        "statement": "Diferencias entre concepto de relación y relación",
+        "answers": [
+            {
+                "text": "Las filas del concepto de relación están ordenadas, las extensiones (o tuplas) de la relación no.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las filas del concepto de relación están desordenadas, las extensiones (o tuplas) de la relación estan ordenadas.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las filas del concepto de relación pueden repetirse, las extensiones (o tuplas) de la relación no.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las filas del concepto de relación no pueden repetirse, las extensiones (o tuplas) de la relación pueden repetirse.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las columnas del concepto de relación tienen un orden, las intensiones (o atributos) de la relación no.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las columnas del concepto de relación pueden repetirse, las intensiones (o atributos) de la relación no.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "12"
+    },
+    {
+        "statement": "Qué es un dominio?",
+        "answers": [
+            {
+                "text": "Es el conjunto de valores admisibles que puede tomar un atributo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es el conjunto de valores que tienen los atributos de una relación",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "13"
+    },
+    {
+        "statement": "Los dominios...",
+        "answers": [
+            {
+                "text": "Deben tener definido el operador de igualdad.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Deben tener definido un criterio de ordenación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Deben tener definida su propia algebra",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Pueden tener definida su propia algebra",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "13"
+    },
+    {
+        "statement": "Los dominios...",
+        "answers": [
+            {
+                "text": "Pueden ser un tipo básico sin restricciones. (enteros, cadenas...)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Pueden ser un tipo básico con restricciones (reales < 100, cadenas con longitud > 50...)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Pueden ser enumerados con restricciones (DiasSemana{lunes,martes,miercoles...} que no empiecen por la 'l')",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un tipo enumerado (DiasSemana{lunes,martes,miercoles...})",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un tipo compuesto (fechas, horas, etc.)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Un tipo complejo (enlaces, imagenes, etc.)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Un tipo objeto (persona: Pablo(17 años, le gusta el tennis, etc.))",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "13"
+    },
+    {
+        "statement": "¿Qué es el valor nulo?",
+        "answers": [
+            {
+                "text": "Si un atributo tiene valor null significa que su valor es desconocido",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Si un atributo tiene valor null significa que el atributo no existe.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Si un atributo tiene valor null significa que el valor original no cumplió las restricciones impuestas",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Si un atributo tiene valor null significa que ha sido modificado",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "14"
+    },
+    {
+        "statement": "¿Qué es el valor nulo?",
+        "answers": [
+            {
+                "text": "El valor nulo puede asignarse a atributos definidos sobre cualquier dominio",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El valor nulo puede asignarse a atributos definidos solo si su dominio lo permite.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "14"
+    },
+    {
+        "statement": "¿Qué es el valor nulo?",
+        "answers": [
+            {
+                "text": "La introducción del valor nulo implicó la necesidad de emplear una lógica trivaluada",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La introducción del valor nulo no implicó emplear la lógica trivaluada ya que simplemente no reserva un espacio en memoria para el atributo nulo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "14"
+    },
+    {
+        "statement": "Superclaves",
+        "answers": [
+            {
+                "text": "Una superclave es un conjunto de atributos de una relación que identifica de forma única a las tuplas de dicha relación",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una superclave es un conjunto de varias claves primarias de una relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una superclave es un conjunto de atributos y claves de una relación que permite identificar de forma única a las tuplas de dicha relación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "16"
+    },
+    {
+        "statement": "Superclaves",
+        "answers": [
+            {
+                "text": "El criterio de unicidad define que un atributo es único si no tiene sentido que existan dos tuplas distintas con ese mismo valor de atributo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El criterio de unicidad define que todo atributo de una relación deberá ser único ya que no tiene sentido que se repitan datos en una relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Toda superclave deberá cumplir el criterio de unicidad.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Toda superclave puede cumplir o no el criterio de unicidad.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "16"
+    },
+    {
+        "statement": "Clave candidata",
+        "answers": [
+            {
+                "text": "En cualquier relación existe siempre una superclave formada por todos los atributos de la relación.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En cualquier relación no tiene porque existir siempre una superclave formada por todos los atributos de la relación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "17"
+    },
+    {
+        "statement": "Clave candidata",
+        "answers": [
+            {
+                "text": "Una relación puede tener una o ninguna superclave.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una relación puede tener varias superclaves.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "17"
+    },
+    {
+        "statement": "Criterio de minimalidad",
+        "answers": [
+            {
+                "text": "Una superclave es mínima si al eliminar cualquier atributo de su descriptor deja de cumplir el criterio de unicidad.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una superclave es mínima sí y solo sí esta compuesta por un unico atributo de la relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las superclaves que cumplen el criterio de minimalidad se denominan claves candidatas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las superclaves que no son claves candidatas pueden ser un problema de rendimiento, funcional u operativo para la relación.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "7",
+        "page": "17"
+    },
+    {
+        "statement": "Claves candidatas",
+        "answers": [
+            {
+                "text": "Una relación siempre tiene al menos una clave candidata.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una relación no puede tener más de una clave candidata.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una relación puede no tener ninguna clave candidata.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "18"
+    },
+    {
+        "statement": "Claves candidatas, primarias y alternativas",
+        "answers": [
+            {
+                "text": "Una clave primaria es una clave candidata seleccionada arbitrariamente como mecanismo de identificación de la relación.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una clave primaria es la clave candidata con mayor índice de unicidad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una clave primaria es una clave candidata seleccionada para este rol en función de su espacio en memoria.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "18"
+    },
+    {
+        "statement": "Claves candidatas, primarias y alternativas",
+        "answers": [
+            {
+                "text": "Una clave alternativa es una clave candidata seleccionada arbitrariamente como mecanismo de identificación de la relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una clave alternativa es la clave candidata con menor índice de unicidad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una clave alternativa es una clave candidata no seleccionada como primaria.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una clave alternativa es aquella que debe referenciar a relaciones ajenas.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "18"
+    },
+    {
+        "statement": "Claves ajenas (foreign Keys FK)",
+        "answers": [
+            {
+                "text": "Los valores de las claves ajenas deben coincidir siempre con los de la clave primaria de otra relación.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los valores de las claves ajenas no tienen porque coincidir siempre con los de la clave primaria de otra relación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las claves foráneas no son necesarias para representar asociaciones del modelo conceptual en el modelo relacional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Debe ponerseles nombres iguales a los de las claves primarias que referencian.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "20"
+    },
+    {
+        "statement": "Integridad de la entidad",
+        "answers": [
+            {
+                "text": "Ningún atributo que forme parte de la clave primaria de una relación puede tomar valor nulo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los atributos que forman parte de la clave primaria podrán tomar valor nulo si la clave primaria está formada por más atributos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los atributos que forman parte de la clave primaria siempre podrán tomar valor nulo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "22"
+    },
+    {
+        "statement": "Integridad referencial",
+        "answers": [
+            {
+                "text": "Ningún atributo que forme parte de una clave foránea de una relación puede tomar valor nulo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los atributos que forman parte de una clave foránea podrán tomar valor nulo si la clave primaria está formada por más atributos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los atributos que forman parte de una clave foránea siempre podrán tomar valor nulo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "7",
+        "page": "22"
+    }
+]

@@ -1,3 +1,1440 @@
 [
-    
+    {
+        "statement": "¿Qué es el modelado conceptual?",
+        "answers": [
+            {
+                "text": "Es una técnica de análisis de requisitos y diseño de bases de datos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es una técnica de análisis de requisitos, entidades y relaciones.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una técnica de modelaje de un sistema dados sus requisitos y entidades",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una tecnica de diseño de relaciones en base a unas entidades y requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un conjunto de tecnicas de diseño que permite construir diagramas funcionales dados unos requisitos y unas entidades.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un conjunto de tecnicas de diseño que permite construir diagramas funcionales dados unos requisitos",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "4"
+    },
+    {
+        "statement": "El modelado conceptual...",
+        "answers": [
+            {
+                "text": "Ayuda a identificar problemas en los requisitos previos al desarrollo evitando gastos innecesarios",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Sienta unas bases para el desarrollo posterior de una base de datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se crea a medida que se avanza en el desarrollo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se crea de forma posterior al desarrollo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "4"
+    },
+    {
+        "statement": "El modelado conceptual...",
+        "answers": [
+            {
+                "text": "Permite representar de forma abstracta los conceptos y hechos relevantes del dominio del problema y transformarlos posteriormente en un esquema de bases de datos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Planifica dados unos requisitos el diseño de la base de datos que deberá implementarse.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Puede servir como esquema de datos si se efectua formalmente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Permite representar las entidades ideadas en base a unas restricciones y prevee soluciones del dominio del problema.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "4"
+    },
+    {
+        "statement": "¿Qué es el dominio del problema?",
+        "answers": [
+            {
+                "text": "Area de experiencia o aplicacion que necesita conocerse para resolver un problema",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El conjunto de componentes o informacion que estan directamente ligados a la causa del problema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sumatorio de todos los componentes o servicios que pueden verse afectados por un determinado problema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El tipo de problema, existen distintos dominios: Integridad, Seguridad, Disponibilidad son los principales.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "5"
+    },
+    {
+        "statement": "¿Qué es el dominio del problema en el ámbito de sistemas de información?",
+        "answers": [
+            {
+                "text": "Conjunto de conceptos interrelacionados que son necesarios conocer para entender las necesidades del negocio del cliente y asi poder proponer una solucion adecuada",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El conjunto de componentes o servicios que pueden originar un problema para el cliente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sumatorio de todos los componentes o servicios que pueden verse afectados por un determinado problema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El tipo de problema, existen distintos dominios: Integridad, Seguridad, Disponibilidad son los principales.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "5"
+    },
+    {
+        "statement": "¿Cuándo se usa el modelado conceptual??",
+        "answers": [
+            {
+                "text": "Independientemente del ciclo de vida, se utiliza durante el análisis",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Independientemente del ciclo de vida, se utiliza durante el desarrollo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Independientemente del ciclo de vida, se utiliza durante la planificación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Independientemente del ciclo de vida, se puede utilizar en cualquier etapa",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En el cliclo de vida iterativo se puede utilizar en cualquier etapa, en el resto se utiliza durante la planificación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En el cliclo de vida incremental se puede utilizar en cualquier etapa, en el resto se utiliza durante el desarrollo",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "6"
+    },
+    {
+        "statement": "Trazabilidad hacia requisitos",
+        "answers": [
+            {
+                "text": "Todo elemento de un modelo conceptual debe estar trazado hacia aquellos requisitos que lo justifican, normalmente requisitos de información y reglas de negocio",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Todo elemento de un modelo conceptual debe estar trazado hacia aquellos requisitos que lo justifican, normalmente requisitos de información y requisitos de viabilidad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Todo elemento de un modelo conceptual puede estar trazado hacia aquellos requisitos que lo justifican, normalmente requisitos de información y requisitos de viabilidad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Todo elemento de un modelo conceptual puede estar trazado hacia aquellos requisitos que lo justifican, normalmente requisitos de información y reglas de negocio",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "7"
+    },
+    {
+        "statement": "Las siglas UML significan:",
+        "answers": [
+            {
+                "text": "Unified Modeling Language",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Unitary Model Language.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Universal Memory Library.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "User Management Layer",
+                "isCorrect": "false"
+            },
+            {
+                "text": "User Management Language",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Unitary Modeling Locator",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "8"
+    },
+    {
+        "statement": "Estándar para modelado conceptual",
+        "answers": [
+            {
+                "text": "Es el resultado de la fusión de varias propuestas previas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es el resultado de la conferencia de la SEC en Norfolk, Reino Unido 2011.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un criterio establecido por la SQL Global Organization.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un criterio GLOBAL establecido por la SQL Global Organization",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "8"
+    },
+    {
+        "statement": "Estándar para modelado conceptual",
+        "answers": [
+            {
+                "text": "Es ampliamente usado en la industria del software",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No tiene disponibles herramientas debido a que es solamente un estándar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Define 14 tipos de diagramas para modelar sistemas software (2011).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es gestionado por la SEC",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es gestionado por la OMG (Object Management Group)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es gestionado por la OMG (Order Modelling Group)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Para modelado conceptual se usan principalmente diagramas de clases y diagramas de objetos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Para modelado conceptual se usan principal y unicamente diagramas de clases",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "8"
+    },
+    {
+        "statement": "Marque los conceptos básicos del modelo conceptual",
+        "answers": [
+            {
+                "text": "Clase Entidad (+Atributo)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Asociación(+Rol, +Multiplicidad).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objeto (Instancia de una clase).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Enlace (Instancia de una asociación)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Generalización/Especialización",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Composición y agregación",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Tablas (+FK, +PK)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Restricciones",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Colecciones (Conjuntos de objetos)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Aglomeraciones (Conjuntos de asociaciones)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representaciones (Conjuntos de clases entidad)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cadenas de caracteres",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Securización y percepción",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "9"
+    },
+    {
+        "statement": "Clase entidad",
+        "answers": [
+            {
+                "text": "Representa un concepto relevante del dominio del problema sobre el que el sistema debe almacenar información porque así se ha especificado (o se deduce) en uno o más requisitos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Representa un concepto relevante del sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representa un concepto relevante del dominio del problema sobre el que el sistema almacenará información si así un único requisito lo exige",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombran mediante un sustantivo en singular",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se nombran mediante un sustantivo tanto en plural como en singular pero siempre con la primera letra en mayúscula",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombra mediante un verbo en infinitivo",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "11"
+    },
+    {
+        "statement": "Atributo de clase entidad",
+        "answers": [
+            {
+                "text": "Son propiedades asociadas a un concepto relevante del dominio del problema que el sistema debe almacenar porque así se ha especificado en uno o más requisitos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son propiedades asociadas a un concepto relevante del sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representa propiedades asociadas a un concepto relevante del dominio del problema sobre el que el sistema almacenará información si así un único requisito lo exige",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombran mediante un sustantivo en singular",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se nombran mediante un sustantivo tanto en plural como en singular pero siempre con la primera letra en mayúscula",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombra mediante un verbo en infinitivo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombra mediante un adjetivo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los valores de los atributos deben ser atómicos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los valores de los atributos pueden ser atómicos",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "12"
+    },
+    {
+        "statement": "Notación para clases entidades UML",
+        "answers": [
+            {
+                "text": "La zona de nombre de una clase entidad no es obligatoria",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La zona de atributos de una clase entidad es obligatoria.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El estereotipo <<Entidad>> indica que la clase representa una entidad y no una clase de lenguaje de POO",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El estereotipo <<Entidad>> indica que la clase representa una entidad y no ninguna otra estructura UML",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En modelado conceptual se asumirá por defecto siempre el estereotipo <<Entidad>>",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En modelado conceptual no se suele especificar el tipo de los atributos excepto enumerados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mediante [0..1] se indica que un atributo es opcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mediante 'aux' se indica que un atributo es opcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cuando el valor de un atributo no se conoce se representa como nulo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cuando el valor de un atributo no se conoce se representa como undefined",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "13-14"
+    },
+    {
+        "statement": "Asociación entre clases entidades",
+        "answers": [
+            {
+                "text": "Representa algún tipo de relación entre dos o más conceptos relevantes del dominio del problema",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Representa algún tipo de relación entre dos o más conceptos del sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representa algún tipo de relación entre dos conceptos relevantes del dominio del problema",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombra mediante un sustantivo en singular",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se nombra mediante un verbo en tercera persona del singular y las preposiciones que hagan falta",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se nombra mediante un verbo en infinitivo y las preposiciones que hagan falta",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Debe formar una frase con sentido.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "16-17"
+    },
+    {
+        "statement": "Rol de un extremo de una asociación",
+        "answers": [
+            {
+                "text": "Todas las clases que participan en una asociación serán extremos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No todas las clases que participen en una asociación tienen porque ser extremos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Solo debe indicarse cuando sea una asociación de una clase consigo misma",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Debe indicarse cuando existe más de una asociación entre dos mismas clases",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Debe indicarse cuando sea una asociación de una clase consigo misma",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "18"
+    },
+    {
+        "statement": "Multiplicidad",
+        "answers": [
+            {
+                "text": "Dado un objeto de una clase indica el numero minimo y maximo de objetos de la otra clase con los que puede estar asociado",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Indica el numero minimo y maximo de cada asociación (Dos asociaciones con una misma clase podrán tener diferente multiplicidad).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En ocasiones no daremos el máximo numero de objetos ya que lo desconocemos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En ocasiones, el numero minimo podra ser tanto 0 como null.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "19"
+    },
+    {
+        "statement": "Multiplicidad, marque las opciones correctas",
+        "answers": [
+            {
+                "text": "0..1 --> Opcional",
+                "isCorrect": "true"
+            },
+            {
+                "text": "0..1 --> Imposible / Nulo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "1..* --> Opcional Multiple",
+                "isCorrect": "false"
+            },
+            {
+                "text": "1..1 --> Obligatoria",
+                "isCorrect": "true"
+            },
+            {
+                "text": "* = 0..*",
+                "isCorrect": "true"
+            },
+            {
+                "text": "* = *..*",
+                "isCorrect": "false"
+            },
+            {
+                "text": "1 = 1..1",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "20"
+    },
+    {
+        "statement": "Notación para asociaciones en UML",
+        "answers": [
+            {
+                "text": "Se debe indicar la multiplicidad",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se debe nombrar a la asociación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se debe indicar el papel o rol que juega cada clase en la asociación sin importar el numero de clases en la asociacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se debe indicar el sentido de la asociación mediante un vector.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "21"
+    },
+    {
+        "statement": "Generalización/especialización: Relaciones es-un",
+        "answers": [
+            {
+                "text": "Los conceptos que presentan relaciones del tipo es-un siempre tienen propiedades comunes",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los conceptos que no presentan relaciones del tipo es-un no tienen propiedades comunes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las relaciones entre conceptos 'es-un' no son triviales.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las relaciones entre conceptos 'es-un' suelen ser triviales.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los conceptos que presentan relaciones del tipo es-un suelen tener propiedades comunes pero no siempre.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "22"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "En un modelo conceptual la clase más general se denomina superclase",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En un modelo conceptual la clase más general se denomina subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual la clase más general se denomina clase principal.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual la clase más general se denomina clase padre.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "24"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "En un modelo conceptual las propiedades de una clase son atributos y asociaciones",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En un modelo conceptual las propiedades de una clase son atributos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual las propiedades de una clase son requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual las propiedades de una clase son atributos, asociaciones y requisitos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "24"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "En un modelo conceptual las clases más específicas (subclases) heredan sus propiedades de las más general (superclase)",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual las clases mas especificas (superclase) heredan algunas de sus propiedades de las subclases.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "24"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "En un modelo conceptual las clase mas general (superclase) contiene todas propiedades de las subclases.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "En un modelo conceptual las clase mas general (superclase) contiene solo las propiedades comunes de las subclases.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "24"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "En un modelo conceptual todas las instancias de las subclases se consideran tambien instancias de la superclase.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "En un modelo conceptual no todas las instancias de las subclases se consideran tambien instancias de la superclase.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "25"
+    },
+    {
+        "statement": "Generalización/especialización",
+        "answers": [
+            {
+                "text": "La generalización es una relación transitiva y antisimétrica.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La generalización es una relación transitiva y puede ser también antisimétrica.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La generalización es una relación antisimétrica y puede ser también transitiva.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La generalización es una relación transitiva.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "25"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "Las restricciones indican si la clasificación es completa/incompleta y disjunta/solapada.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las restricciones indican si la clasificación es completa/incompleta.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las restricciones indican si la clasificación es disjunta/solapada.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las restricciones indican si la clasificación es completa/incompleta o disjunta/solapada.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "26"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "{incompleta}: Puede haber instancias de la superclase que no sean instancias de ninguna subclase.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "{incompleta}: Debe haber instancias de la superclase que no sean instancias de ninguna subclase sin necesidad de que la superclase deba ser abstracta.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{incompleta}: Debe haber instancias de la superclase que no sean instancias de ninguna subclase o que la superclase sea abstracta.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una superclase no podrá ser abstracta e {incompleta} a la vez.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "26"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "{completa}: Indica que las instancias de la superclase deben ser instancias de al menos una subclase y la superclase es abstracta.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "{completa}: Indica que las instancias de la superclase deben ser instancias de al menos una subclase sin necesitar que la superclase sea abstracta.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{completa}: Puede haber instancias de la superclase que no sean instancias de ninguna subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{completa}: Indica que las instancias de la superclase pueden ser instancias de al menos una subclase y la superclase es abstracta.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{completa}: Debe haber instancias de la superclase que no sean instancias de ninguna subclase.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "26"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "Que una clase sea abstracta implica que no puede ser instanciada directamente.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Que una clase sea abstracta implica que no puede ser heredada ninguna de sus propiedades.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "26"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "{disjunta}: Las instancias de la superclase pueden ser instancias de una sola subclase.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "{disjunta}: Las instancias de la superclase deben ser instancias de una sola subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{disjunta}: Las instancias de la superclase pueden ser instancias de una o más subclases.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{disjunta}: Las instancias de la superclase deben ser instancias de una o más subclases.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "27"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "{solapada}: Las instancias de la superclase pueden ser instancias de una sola subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{solapada}: Las instancias de la superclase deben ser instancias de una sola subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{solapada}: Las instancias de la superclase pueden ser instancias de una o más subclases.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "{solapada}: Las instancias de la superclase deben ser instancias de una o más subclases.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "27"
+    },
+    {
+        "statement": "Notación para la generalización en UML",
+        "answers": [
+            {
+                "text": "{completa, disjunta}: Implica una partición del conjunto de instancias de una superclase.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "{completa, disjunta}: Implica una incoherencia ya que estas etiquetas no pueden coexistir.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{completa, disjunta}: Las instancias de la superclase serán como mínimo instancia de 1 subclase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "{completa, disjunta}: Las instancias de la superclase no podrán ser instancia de una única subclase.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "28"
+    },
+    {
+        "statement": "Composición",
+        "answers": [
+            {
+                "text": "Representa el concepto de existe-por o existe-para",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representa el concepto de ser-parte-de o estar-compuesto-por.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Representa el concepto de integrar-a o dar-forma-a.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Representa el concepto de representar-a o componer-a.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "30"
+    },
+    {
+        "statement": "Composición",
+        "answers": [
+            {
+                "text": "Una parte sólo puede pertenecer a todo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una parte no puede existir sin pertenecer a un todo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La eliminación del todo implica la eliminación de todas sus partes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Puede ser recursiva",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Debe tener multiplicidad multiple",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Debe ser recursiva",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte no tiene porque pertenecer a todo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Si una parte no pertenece a todo eso implica que el resto de partes son elementos nulos",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "30"
+    },
+    {
+        "statement": "Composición",
+        "answers": [
+            {
+                "text": "Es una relación transitiva y antisimétrica",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es una relación transitiva.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación antisimétrica.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva y antisimétrica",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva, antisimétrica y antisimétrica",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación recursiva y selectiva",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación recursiva, selectiva y antisimétrica",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "30"
+    },
+    {
+        "statement": "Notación para la composición en UML",
+        "answers": [
+            {
+                "text": "La multiplicidad de una composición siempre es múltiple",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La multiplicidad de una composición siempre es opcional",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La multiplicidad de una composición siempre es 1.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La multiplicidad de una composición siempre es *",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "31"
+    },
+    {
+        "statement": "Agregación",
+        "answers": [
+            {
+                "text": "Es similar a la composición, pero más débil",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es similar a la composición, pero más fuerte",
+                "isCorrect": "false"
+            },
+            {
+                "text": "No es similar a la composición.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "32"
+    },
+    {
+        "statement": "Agregación",
+        "answers": [
+            {
+                "text": "Una parte puede pertenecer a uno, varios o ningún todo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Una parte debe pertenecer a uno, varios o ningún todo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte puede pertenecer a uno o varios todo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte debe pertenecer a uno o varios todo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte puede pertenecer a varios o ningún todo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte debe pertenecer a varios o ningún todo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "32"
+    },
+    {
+        "statement": "Agregación",
+        "answers": [
+            {
+                "text": "Una parte no puede existir sin pertenecer a un todo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una parte puede existir sin pertenecer a un todo",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "32"
+    },
+    {
+        "statement": "Agregación",
+        "answers": [
+            {
+                "text": "La eliminación del todo implica la eliminación de todas sus partes",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La eliminación del todo no implica la eliminación de todas sus partes",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "32"
+    },
+    {
+        "statement": "Agregación",
+        "answers": [
+            {
+                "text": "Es una relación transitiva y antisimétrica pudiendo ser tambien recursiva",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es una relación transitiva.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación antisimétrica.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva pudiendo ser antisimétrica",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación selectiva, antisimétrica pudiendo ser antisimétrica",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación recursiva pudiendo ser selectiva",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es una relación recursiva, selectiva y antisimétrica",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "32"
+    },
+    {
+        "statement": "Notación para la composición en UML",
+        "answers": [
+            {
+                "text": "La multiplicidad de una agregación siempre es múltiple",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La multiplicidad de una agregación siempre es opcional",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La multiplicidad de una agregación siempre es 1.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La multiplicidad de una agregación puede tener cualquier multiplicidad",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "33"
+    },
+    {
+        "statement": "¿Puede una asociacion ser convertida en clase?",
+        "answers": [
+            {
+                "text": "No, nunca",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Si, pero solamente cuando sea necesario añadir cierta informacion a la asociacion",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Si, pero solamente cuando se requiere aplicar alguna restriccion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sí, pero solamente en las relaciones con multiplicidad opcional",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "34"
+    },
+    {
+        "statement": "Si modelamos una asociación como una clase componente...",
+        "answers": [
+            {
+                "text": "Será una clase componente de todas las clases presentes en la relación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Será una clase componente de tan solo una de las clases que participan en la relación",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "35"
+    },
+    {
+        "statement": "Notación para restricciones",
+        "answers": [
+            {
+                "text": "Permiten añadir información al modelo que no puede expresarse de otra forma",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Permiten añadir información al modelo, pudiendose expresar de otra forma.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son representadas mediante notas y el texto irá entre llaves.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son representadas mediante notas y el texto irá entre corchetes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Deberá indicarse el nombre tanto de la restricción como su descripción.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Deberá indicarse el nombre de la restricción y opcionalmente, su descripción.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "36"
+    },
+    {
+        "statement": "Notación para tipos enumerados",
+        "answers": [
+            {
+                "text": "Se utiliza el estereotipo <<Enumerado>>.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus posibles valores vienen definidos por las restricciones.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Definen un tipo que puede ser usado en los atributos de clases entidades.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los atributos son los posibles valores.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se utiliza el estereotipo <<Enumerado>> o <<Enum>>.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Definen un tipo que no podrá ser utilizado por los atributos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "37"
+    },
+    {
+        "statement": "Objetos",
+        "answers": [
+            {
+                "text": "Los objetos son cada ocurrencia o instancia de una asociacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los objetos son cada ocurrencia de una clase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los objetos son cada instancia de una clase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los objetos son cada ocurrencia o instancia de una clase.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los objetos son cada instancia de una asociacion",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los objetos son cada ocurrencia de una asociacion.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "39"
+    },
+    {
+        "statement": "Enlaces",
+        "answers": [
+            {
+                "text": "Los Enlaces son cada instancia de una asociacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los Enlaces son cada ocurrencia de una clase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los Enlaces son cada instancia de una clase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los Enlaces son cada ocurrencia o instancia de una clase.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los Enlaces son cada ocurrencia o instancia de una asociacion",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los Enlaces son cada ocurrencia de una asociacion.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "39"
+    },
+    {
+        "statement": "Notación para objetos y enlaces en UML",
+        "answers": [
+            {
+                "text": "El nombre y clase del objeto deben estar subrayados.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El nombre del objeto debe estar subrayado, la clase no.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La clase del objeto debe estar subrayado, el nombre no.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "41"
+    },
+    {
+        "statement": "Notación para objetos y enlaces en UML",
+        "answers": [
+            {
+                "text": "Los enlaces se identifican mediante el nombre de la clase subrayado.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los enlaces se identifican mediante el nombre de la asociación subrayado.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los enlaces se identifican mediante el nombre del objeto subrayado.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los enlaces se identifican mediante el nombre de la clase sin subrayar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los enlaces se identifican mediante el nombre de la asociación sin subrayar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los enlaces se identifican mediante el nombre del objeto sin subrayar.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "41"
+    },
+    {
+        "statement": "Notación para objetos y enlaces en UML",
+        "answers": [
+            {
+                "text": "Los nombres y valores de atributos son obligatorios y deben estar subrayados.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los nombres y valores de atributos son opcionales y deben estar subrayados.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los nombres y valores de atributos son obligatorios pero no tienen porque estar subrayados.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los nombres y valores de atributos son opcionales y no deben estar subrayados.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "6",
+        "page": "41"
+    },
+    {
+        "statement": "Notación para objetos y enlaces en UML",
+        "answers": [
+            {
+                "text": "Los multiobjetos deberán estar subrayados y en singular.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los multiobjetos deberán estar sin subrayar y en singular.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los multiobjetos deberán estar subrayados y en plural.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Los multiobjetos deberán estar sin subrayar y en plural.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "42"
+    },
+    {
+        "statement": "Herramientas para crear modelos UML",
+        "answers": [
+            {
+                "text": "PlantUML es un lenguaje para describir modelos UML.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "PlantUML es una base de datos para desarrollar modelos UML.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Draw.io es un lenguaje para desarrollar modelos UML.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "VSCode es una herramienta web para escribir modelos UML.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "6",
+        "page": "46"
+    }
 ]
