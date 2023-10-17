@@ -473,7 +473,7 @@
             },
             {
                 "text": "En caso de ser automatica el sistema detectará la información necesaria mediante RFD.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             }
         ],
         "theme": "3",

@@ -1,3 +1,937 @@
 [
-    
+    {
+        "statement": "¿Qué es un requisito?",
+        "answers": [
+            {
+                "text": "Una condición o capacidad que un usuario necesita para resolver un problema o lograr un objetivo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una característica del sistema que es una condición para su aceptación.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Propiedad que un sistema debería tener para tener éxito en el entorno en el que se usará.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Todas las anteriores.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "4",
+        "page": "4"
+    },
+    {
+        "statement": "¿Qué son las historias de usuario?",
+        "answers": [
+            {
+                "text": "Son las propuesta de las metodologías agiles para la especificación de los requisitos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son el conjunto de informes acerca de los cambios realizados en el equipo de desarrollo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son el conjunto de informes acerca de los cambios en las especificaciones de requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son el conjunto de informes acerca de la evolución de la operativa del proyecto.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "8"
+    },
+    {
+        "statement": "¿Qué formato y quien se le dio a las historias de usuario?",
+        "answers": [
+            {
+                "text": "Como [usuario] quiero [servicio] para [razon] por Mike Cohn.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Como [usuario] requiero [servicio] para [razon] durante [tiempo] por Mike Cohn.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Como [usuario] requiero [servicio] para [razon] durante [tiempo] por John Dwight.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Como [usuario] requiero [servicio] para [razon] por John Dwight.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "8"
+    },
+    {
+        "statement": "Las historias de usuario...",
+        "answers": [
+            {
+                "text": "Se escriben desde el punto de vista del usuario del sistema y usando su vocabulario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son un tipo de documentación técnica en la que un usuario del sistema requiere de cierto acceso.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un informe elaborado que redacta los permisos de acceso de cada usuario del sistema.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Es un registro que alberga los niveles de acceso de cada usuario del sistema.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "8"
+    },
+    {
+        "statement": "Las historias de usuario...",
+        "answers": [
+            {
+                "text": "Todas tienen el mismo nivel de detalle al ser esgrimidas a través de una plantilla.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Pueden tener distinto nivel de detalle.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Una historia de usuario puede ser general y representar distintas historias de usuario (historias épicas u objetivos).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las historias de usuario deben ser siempre independientes ya que deben poder ser procesadas independientemente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El nivel de detalle en los objetivos de las historias de usuario siempre es suficiente para poder implantarse una solución a partir de ellos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El nivel de detalle en los objetivos de las historias de usuario suele ser insuficiente como para poder implantarse una solución a partir de ellos.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "13-14"
+    },
+    {
+        "statement": "Mapas de historias de usuario...",
+        "answers": [
+            {
+                "text": "Las historias épicas a veces solo contienen un nombre (sin descripcion peticion ni nada) para poder organizar jerarquicamente el resto de historias.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las historias épicas, todas las historias, deben seguir siempre un mismo formato dentro del mapa de historias.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las historias épicas no existen, es un nombre que te acabas de inventar.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las historias épicas se utilizan unicamente para organizar y jerarquizar el resto de historias.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "15"
+    },
+    {
+        "statement": "Requisitos de información.",
+        "answers": [
+            {
+                "text": "Describen qué información se debe almacenar sobre un concepto relevante y que datos específicos del concepto son importantes.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Describen de forma detallada toda la información que recibe como entrada destacando los datos más importantes.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un conjunto de restricciones dadas que permiten analizar la información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Toda información de una historia de usuario deberá venir definida por uno o varios requisitos de información.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "20"
+    },
+    {
+        "statement": "Reglas de negocio.",
+        "answers": [
+            {
+                "text": "Definen reglas o políticas que son importantes para los usuarios y deben ser respetadas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Definen un conjunto de procedimientos para desarrollar las historias de usuario y los requisitos de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un conjunto de políticas que marcan como deben gestionarse las historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Toda regla de negocio vendrá definida por uno o varios requisitos de información que permitirán esclarecer información más específica para los usuarios.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "22"
+    },
+    {
+        "statement": "Reglas de negocio.",
+        "answers": [
+            {
+                "text": "Sus requisitos suelen ser estables en el tiempo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Sus requisitos no suelen ser estables en el tiempo.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son un tipo de historia de usuario con la diferencia que son escritas por altos cargos y en lugar de realizar peticiones crean exigencias.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Todas las reglas de negocio deberán ser aprobadas por un comité previo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "23"
+    },
+    {
+        "statement": "Requisitos funcionales.",
+        "answers": [
+            {
+                "text": "En lugar de peticiones de información por parte de los usuarios solicitan una serie de acciones.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Al igual que las historias de usuario son solicitudes de información con la diferencia de que vienen avaladas por las reglas de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un tipo de requisito de la información proveída por el mapa de historias.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un conjunto de normas que se aplican en la organización.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "25"
+    },
+    {
+        "statement": "Requisitos NO funcionales.",
+        "answers": [
+            {
+                "text": "En lugar de peticiones de información o solicitar cierta acción se pide que el entorno cumpla cierto aspecto con respecto a la calidad.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Al igual que los requisitos funcionales exigen acciones por parte del sistema, sin embargo, no son fundamentales para la organizacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un tipo de requisito de la información proveída por el mapa de historias.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son un conjunto de recomendaciones para los usuarios pero no exigencias.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "27"
+    },
+    {
+        "statement": "Pruebas de aceptación.",
+        "answers": [
+            {
+                "text": "Unicamente describen como validar si el sistema desarrollado satisface los requisitos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Describe como validar si el sistema desarrollado satisface los requisitos y además añaden MAS detalle a las historias de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Son pruebas que deberán ejecutarse manualmente siempre.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Son pruebas que lo ideal es que su ejecución se pueda automatizar.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se asocian a un unico requisito (trazabilidad).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Se asocian a uno o más requisitos (trazabilidad).",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "4",
+        "page": "31"
+    },
+    {
+        "statement": "¿Qué es?: Como encargado de almacén quiero recibir un aviso en mi móvil cuando haya mercancía que vaya a caducar en menos de 48 horas para ponerla a la venta.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "9"
+    },
+    {
+        "statement": "¿Qué es?: Como responsable de compras quiero saber que proveedores ofrecen un mismo producto mas barato para tomar las mejores ventas.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "10"
+    },
+    {
+        "statement": "¿Qué es?: Como cliente quiero comprar entradas para un concierto por internet para evitar perder tiempo en colas de taquillas.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "11"
+    },
+    {
+        "statement": "¿Qué es?: Como encargado del almacén, quiero gestionar correctamente el almacén para contribuir a la empresa.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "13"
+    },
+    {
+        "statement": "¿Qué es?: Como encargado del almacén, quiero saber qué salidas de mercancías de producen para conocer el stock real y saber quién se lleva la mercancía.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "13"
+    },
+    {
+        "statement": "¿Cuál es la principal diferencia entre historia de usuario y historia épica.",
+        "answers": [
+            {
+                "text": "La historia de usuario tiene más detalle pero menor nivel.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La historia de usuario tiene menor detalle pero más nivel.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La historia de usuario tiene menor detalle.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "13"
+    },
+    {
+        "statement": "¿Qué es?: Como director de la biblioteca quiero gestionar los préstamos de libros para el buen funcionamiento de la biblioteca.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "14"
+    },
+    {
+        "statement": "¿Qué es?: Como ministro de Hacienda quiero que los contribuyentes puedan hacer su declaración de IRPF por internet para facilitar el pago de impuestos.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "14"
+    },
+    {
+        "statement": "¿Qué es?: Como director de la biblioteca quiero disponer de la siguiente información sobre los préstamos: -El socio que realiza el préstamo, -El libro o los libros prestados, -La fecha de préstamo.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "20"
+    },
+    {
+        "statement": "¿Qué es?: Como responsable de relaciones quiero que no se puedan eliminar clientes con pagos o pedidos pendientes.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "22"
+    },
+    {
+        "statement": "¿Qué es?: Como director de la biblioteca quiero que un socio de la biblioteca no pueda tener en préstamo más de 3 libros a la vez.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "22"
+    },
+    {
+        "statement": "¿Qué es?: Como encargado del almacén quiero recibir un aviso en mi móvil cuando haya mercancía que vaya a caducar en menos de 48 horas para ponerla a la venta",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "25"
+    },
+    {
+        "statement": "¿Qué es?: Como director de la biblioteca quiero imprimir un listado de los préstamos cuyo plazo haya expirado hace al menos una semana para conocer los usuarios morosos",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "25"
+    },
+    {
+        "statement": "¿Qué es?: Como responsable de atención al cliente quiero que el tiempo de respuesta sea menor a 2 segundos para mejorar la experiencia del cliente",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "27"
+    },
+    {
+        "statement": "¿Qué es?: Como responsable TIC del cliente quiero que en el entorno de producción se use unicamente software libre para respetar la politica de mi organizacion",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "27"
+    },
+    {
+        "statement": "¿Qué es?: Como responsable de ventas quiero que la disponibilidad del sistema sea lo más cercana posible a 24/7 para facilitar las compras de los clientes",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "4",
+        "page": "28"
+    },
+    {
+        "statement": "¿Qué es?: (Dada una solicitud de tener informacion personal de clientes) --> Se intenta registrar un cliente con NIF ya registrado y se recibe mensaje de error.",
+        "answers": [
+            {
+                "text": "Historia de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito no funcional.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Objetivo (Historia epica).",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mapa de historias de usuario.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Requisito de información.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Regla de negocio.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Prueba de aceptación.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "4",
+        "page": "34"
+    }
 ]
