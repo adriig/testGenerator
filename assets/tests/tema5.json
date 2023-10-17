@@ -1,3 +1,560 @@
 [
-    
+    {
+        "statement": "¿Qué garantías se ha de tener para tratar la información?",
+        "answers": [
+            {
+                "text": "Fines legítimos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Información Clara.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Almacenamiento seguro",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Facil acceso",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Propiedad intelectual.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "6"
+    },
+    {
+        "statement": "¿Qué se ha de vigilar especialmente sobre la información?",
+        "answers": [
+            {
+                "text": "Cesiones.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ventas.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Almacenamiento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Consultas",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Análisis.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Estudios.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "6"
+    },
+    {
+        "statement": "¿A que nivel afecta la normativa que afecta a las aplicaciones cuya explotación se produce en España?",
+        "answers": [
+            {
+                "text": "Andaluz.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Español.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Europeo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Internacional",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Gallego.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Andorrano.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "6"
+    },
+    {
+        "statement": "¿Quién es el responsable del nivel jurídico de la constitución?",
+        "answers": [
+            {
+                "text": "Congreso.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Gobierno.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Paralamento europeo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Paquirrí",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Senado.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Pedro Sanchez.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "11"
+    },
+    {
+        "statement": "¿Quién es el responsable del nivel jurídico del derecho en la UE?",
+        "answers": [
+            {
+                "text": "Congreso.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Gobierno europeo.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Paralamento europeo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cada uno de los ciudadanos europeos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El senado europeo y la cámara de los altos representantes europeos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Pablo Motos",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "11"
+    },
+    {
+        "statement": "¿Qué significa RGD?",
+        "answers": [
+            {
+                "text": "Reglamento General de Protección de Datos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Reglamento General de Protección del Docente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Reglamento General del Parlamento Democrático",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Reglas Generales de Protección Directa",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Reglamento General y Directrices",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "13"
+    },
+    {
+        "statement": "¿Cuándo se aprueba el RGD?",
+        "answers": [
+            {
+                "text": "Abril 2016",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Agosto 2015.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Marzo 2013",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Marzo 2014",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Mayo 2015",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "13"
+    },
+    {
+        "statement": "¿Cuándo entra en el RGD?",
+        "answers": [
+            {
+                "text": "Mayo 2018",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Agosto 2019.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Septiembre 2019",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Febrero 2020",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Enero 2019",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "13"
+    },
+    {
+        "statement": "¿Qué se consideran datos personales?",
+        "answers": [
+            {
+                "text": "Una serie de datos, como DNI, NIF, NSS recogidos por el parlamento europeo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Toda información sobre una persona física identificada o identificable.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "SOLO toda aquella información que identifique a una persona",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Exclusivamente la información que el gobierno acumula en sus bases de datos sobre sus ciudadanos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Toda información de carácter privado de una persona que pueda causarle un perjuicio a la persona por medio de un robo.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "14"
+    },
+    {
+        "statement": "¿Qué se considera tratamiento de datos personales?",
+        "answers": [
+            {
+                "text": "Operaciones automatizadas sobre datos personales",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Operaciones manuales sobre datos personales.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El almacenamiento de datos personales",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Todas las operaciones realizadas sobre cualquier base de datos de una empresa u organismo",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "15"
+    },
+    {
+        "statement": "¿En que consiste la elaboración de perfiles?",
+        "answers": [
+            {
+                "text": "En registrar una serie concreta de datos de una persona en un largo periodo de tiempo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La creación de una ficha con todos los datos de una persona.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Todo tratamiento automatizado sobre datos personales para evaluar aspectos personales",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Todo tratamiento NO automatizado sobre datos personales para evaluar aspectos personales",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "16"
+    },
+    {
+        "statement": "¿Qué se entiende por seudonimización?",
+        "answers": [
+            {
+                "text": "El proceso de alterar los datos para que no puedan asignarse a ninguna persona",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El tratamiento de datos para que no puedan atribuirse a nadie sin información adicional.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "El almacenamiento de un nombre en clave para cada persona de la que se almacenan datos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "El uso de un nombre falso que pueda ser atribuido a cualquier persona.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "17"
+    },
+    {
+        "statement": "¿A qué aplica el ESPECIALMENTE el RGPD?",
+        "answers": [
+            {
+                "text": "Datos de fallecidos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Datos personales de menores.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Datos de personas en situación de riesgo: Menores de edad, personas con discapacidad, personas con extrema pobreza...",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Secretos de organizaciones (ya sean estados o empresas).",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "19"
+    },
+    {
+        "statement": "¿A qué NO aplica el RGPD?",
+        "answers": [
+            {
+                "text": "Información anónima",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Datos de fallecidos.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Datos de personas jurídicas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Datos de personas físicas.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "19"
+    },
+    {
+        "statement": "¿Qué forma parte de las obligaciones del tratamiento de datos?",
+        "answers": [
+            {
+                "text": "Limitación de fin, datos y almacenamiento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Almacenamiento seguro.",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Notificar las violaciones de seguridad de los datos a la AEPD",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Hacer públicos los datos almacenados tras el fallecimiento del usuario.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "20"
+    },
+    {
+        "statement": "¿Qué forma parte de las obligaciones del tratamiento de datos?",
+        "answers": [
+            {
+                "text": "Cumplir los derechos ARCO-POL",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Compartir los datos con cualquier entidad gubernamental que los solicite.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Tener un respaldo de los datos almacenado en un lugar diferente",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Contar con un delegado en protección de datos.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "5",
+        "page": "20"
+    },
+    {
+        "statement": "¿Qué forma parte de las funciones del delegado de protección de datos?",
+        "answers": [
+            {
+                "text": "Supervisar el cumplimiento del RGPD",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Llevar a cabo los tratamientos de datos.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Actuar como punto de contacto entre la AEPD y el organismo que trata los datos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Ofrecer asesoramiento.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "5",
+        "page": "21"
+    },
+    {
+        "statement": "¿Cuáles forman parte de los derechos ARCO-POL?",
+        "answers": [
+            {
+                "text": "Acceso",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Encriptacion.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Supresion",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Automatizacion.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "22"
+    },
+    {
+        "statement": "¿En qué supuestos no se ha de pedir consentimiento para el tratamiento de datos?",
+        "answers": [
+            {
+                "text": "El tratamiento es necesario para ejecutar un contrato en el que el usuario es parte",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cuando los datos ya han sido violados con anterioridad.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cuando el tratamiento cumple todas las garantías de seguridad",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cuando se aplica alguna otra ley.",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "5",
+        "page": "23"
+    },
+    {
+        "statement": "¿Sanciones(no es una pregunta, marca las 2)?",
+        "answers": [
+            {
+                "text": "Hasta 10M o 2% vol. De negocio por vulnerar obligaciones",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Hasta 20M o 4% vol. De negocio por otras cosas.",
+                "isCorrect": "true"
+            }        
+        ],
+        "theme": "5",
+        "page": "24"
+    },
+    {
+        "statement": "¿Qué sentencias hablan sobre protección de datos?",
+        "answers": [
+            {
+                "text": "TC 27/2008",
+                "isCorrect": "false"
+            },
+            {
+                "text": "TC 12/1990.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "TC 94/1998",
+                "isCorrect": "true"
+            },
+            {
+                "text": "TC 292/2000.",
+                "isCorrect": "true"
+            }             
+        ],
+        "theme": "5",
+        "page": "27"
+    },
+    {
+        "statement": "Sobre los datos de personas fallecidas",
+        "answers": [
+            {
+                "text": "Cualquiera puede acceder a ellos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Familiares y herederos pueden acceder a ellos libremente.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Familiares y herederos pueden acceder a ellos si no lo prohíbe el fallecido",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Nadie puede acceder, pues son borrados.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Solo podrán acceder las personas nombradas en el testamento como receptores de sus datos. El resto de personas no.",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Podrá acceder cualquier familiar pero solo durante 2 meses tras el fallecimiento excepto en casos excepcionales.",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "5",
+        "page": "30"
+    }
 ]
