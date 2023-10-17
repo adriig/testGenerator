@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { Answers } from 'src/assets/models/answers';
 import { Question } from 'src/assets/models/question';
 
 @Component({
@@ -22,6 +23,7 @@ export class ExamComponent implements OnInit {
     setInterval(() => {
       this.timeInSeconds++;
     }, 1000); // 1000 milisegundos = 1 segundo
+
   }
 
   takeCalification(event: any) {

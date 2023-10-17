@@ -10,7 +10,7 @@ export class QuestionReaderService {
   constructor(private http: HttpClient) { }
 
   getUrl(number: number) {
-    return '../../../assets/tests/tema'+number+'.json'
+    return 'assets/tests/tema'+number+'.json'
   }
 
   readTheme(theme: number) {

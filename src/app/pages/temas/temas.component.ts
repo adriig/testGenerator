@@ -22,9 +22,9 @@ export class TemasComponent implements OnInit {
   getQuestions(theme: number) {
     this.jsonReader.readTheme(theme).subscribe((data) => {
       this.questions = data
+      this.questions = this.questions.sort(this.compareQuestions);
     })
 
-    this.questions.sort(this.compareQuestions);
   }
 
   compareQuestions(a: Question, b: Question): number {
