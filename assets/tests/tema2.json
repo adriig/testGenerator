@@ -416,11 +416,11 @@
             },
             {
                 "text": "Contrato prefijado.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             },
             {
-                "text": "Equipos grandes y distribuidos.",
-                "isCorrect": "true"
+                "text": "Equipos grandes y/o distribuidos.",
+                "isCorrect": "false"
             },
             {
                 "text": "Equipos pequeños y/o en contacto físico.",
