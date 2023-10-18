@@ -609,11 +609,11 @@
             },
             {
                 "text": "Es un proceso iterativo propuesto por los creadores de SQL.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             },
             {
                 "text": "Es un proceso incremental propuesto por los creadores de SQL.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             }
         ],
         "theme": "2",
