@@ -4,19 +4,19 @@
       "answers": [
         {
           "text": "T-SQL",
-          "isCorrect": true
+          "isCorrect": "true"
         },
         {
           "text": "PL/SQL",
-          "isCorrect": false
+          "isCorrect": "false"
         },
         {
           "text": "PL/pgSQL",
-          "isCorrect": false
+          "isCorrect": "false"
         },
         {
           "text": "SQL/compund statements",
-          "isCorrect": false
+          "isCorrect": "false"
         }
       ],
       "theme": 11,
@@ -27,19 +27,19 @@
         "answers": [
           {
             "text": "T-SQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "PL/SQL",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "PL/pgSQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "SQL/compund statements",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -50,19 +50,19 @@
         "answers": [
           {
             "text": "T-SQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "PL/SQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "PL/pgSQL",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "SQL/compund statements",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -73,19 +73,19 @@
         "answers": [
           {
             "text": "T-SQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "PL/SQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "PL/pgSQL",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "SQL/compund statements",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -96,31 +96,31 @@
         "answers": [
           {
             "text": "Declaración de variables",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Control de transacciones",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Manejo de entorno dinámico",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Configuración local de variables de entorno",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Manejo de excepciones",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Configuración remota",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Manejo de Strings, Fechas...",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -131,19 +131,19 @@
         "answers": [
           {
             "text": "Es un lenguaje propio",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "No es un lenguaje propio",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Es parecido a T-SQL pero algo más complicado",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Destaca el manejo de las funciones",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -154,19 +154,19 @@
         "answers": [
           {
             "text": "Es un lenguaje propio",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "No es un lenguaje propio",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Es parecido a T-SQL pero algo más complicado",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Destaca el manejo de las funciones",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -177,19 +177,19 @@
         "answers": [
           {
             "text": "Es un lenguaje propio",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "No es un lenguaje propio",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Tiene bastantes limitaciones",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Destaca el manejo de las funciones",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -200,31 +200,31 @@
         "answers": [
           {
             "text": "Es un programa almacenado en la BD",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Se ejecuta directamente en el motor del SGBD",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Pueden implementar lógica",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "No se pueden usar desde un SELECT, sino desde CALL Funciones (stored functions)",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Devuelven un valor",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Se pueden usar en un SELECT",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Está asociado a eventos",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -235,19 +235,19 @@
         "answers": [
           {
             "text": "No se pueden usar desde un SELECT, sino desde CALL Funciones (stored functions)",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Devuelven un valor",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Se pueden usar en un SELECT",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Está asociado a eventos",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -258,19 +258,19 @@
         "answers": [
           {
             "text": "Son conocidos como triggers",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Son conocidos como cursores",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Son conocidos como procedimientos",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Son conocido como shooters 🤠",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -281,19 +281,19 @@
         "answers": [
           {
             "text": "Código asociado a eventos",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Configuración de SQL que permite anclar a un determinado evento una (o varias) funciones",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "No pueden usarse desde un select, solamente con call.",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Permiten la validación compleja de datos y reglas de negocio",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -304,19 +304,19 @@
         "answers": [
           {
             "text": "Código asociado a eventos",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Configuración de SQL que permite anclar a un determinado evento una (o varias) funciones",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Iteradores sobre resultados devueltos por select.",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "Permiten la validación compleja de datos y reglas de negocio",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -327,19 +327,19 @@
         "answers": [
           {
             "text": "No pueden realizar: SELECT, UPDATE ni DELETE",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "No pueden realizar SELECT ni UPDATE pero si DELETE",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Pueden realizar tanto SELECT como UPDATE pero no DELETE.",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "Solamente pueden realizar SELECT",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -350,27 +350,27 @@
         "answers": [
           {
             "text": "GOTO",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "FOR",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "SWITCH",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "ITERATE",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "RETURN",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "FUNCTION",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -381,27 +381,27 @@
         "answers": [
           {
             "text": "CASE",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "BEGIN END",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "WHEN",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "LEAVE",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "LOOP",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "SIGNAL",
-            "isCorrect": true
+            "isCorrect": "true"
           }
         ],
         "theme": 11,
@@ -412,27 +412,27 @@
         "answers": [
           {
             "text": "DO",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "WHILE",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "RESIGNAL",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "EVALUATE",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "IF",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "ELSEIF",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
@@ -443,19 +443,19 @@
         "answers": [
           {
             "text": "(1) BEGIN (2) DELIMITER // (3) DELIMITER // (4) END",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "(1) DELIMITER // (2) BEGIN (3) END (4) DELIMITER //",
-            "isCorrect": false
+            "isCorrect": "false"
           },
           {
             "text": "(1) DELIMITER // (2) BEGIN (3) END// (4) DELIMITER ;",
-            "isCorrect": true
+            "isCorrect": "true"
           },
           {
             "text": "(1) BEGIN (2) DELIMITER // (3) DELIMITER ; (4) END //",
-            "isCorrect": false
+            "isCorrect": "false"
           }
         ],
         "theme": 11,
