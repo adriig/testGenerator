@@ -287,7 +287,7 @@
             },
             {
                 "text": "Cada relación se transforma en una entidad con su mismo nombre (en plural).",
-                "isCorrect": "false"
+                "isCorrect": "true"
             },
             {
                 "text": "Cada relación se transforma en una entidad con su mismo nombre (en singular).",

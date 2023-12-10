@@ -1,0 +1,531 @@
+[
+  {
+    "statement": "¿Qué entendemos por trazabilidad de modelos?",
+    "answers": [
+      {
+        "text": "Que a partir del modelo conceptual se puede obtener el relacional",
+        "isCorrect": false
+      },
+      {
+        "text": "Que a partir del modelo relacional se puede obtener el conceptual",
+        "isCorrect": false
+      },
+      {
+        "text": "Que las historias de usuario tienen una traducción directa a SQL",
+        "isCorrect": false
+      },
+      {
+        "text": "Que hay traducción de modelo conceptual a relacional y de ahí a SQL",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 4
+  },
+  {
+    "statement": "¿Qué significa SQL?",
+    "answers": [
+      {
+        "text": "Structured Query Language",
+        "isCorrect": true
+      },
+      {
+        "text": "Structured Quote Language",
+        "isCorrect": false
+      },
+      {
+        "text": "Stable Query Label",
+        "isCorrect": false
+      },
+      {
+        "text": "Structured Quantitative Label",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 5
+  },
+  {
+    "statement": "¿Cuál es el uso de SQL?",
+    "answers": [
+      {
+        "text": "Definir, manipular y consultar bases de datos relacionales",
+        "isCorrect": true
+      },
+      {
+        "text": "Ser un marco lógico de creación de estructuras de datos",
+        "isCorrect": false
+      },
+      {
+        "text": "La organización de datos en paquetes relacionales",
+        "isCorrect": false
+      },
+      {
+        "text": "Estructurar datos inconexos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 5
+  },
+  {
+    "statement": "¿Cuáles de estos son parte de SQL?",
+    "answers": [
+      {
+        "text": "DDL (Data Definition Language) CREATE, ALTER, DROP",
+        "isCorrect": true
+      },
+      {
+        "text": "DML (Data Modeling Language) INSERT, UPDATE, DELETE",
+        "isCorrect": true
+      },
+      {
+        "text": "DCL (Data Control Language) GRANT, REVOKE",
+        "isCorrect": true
+      },
+      {
+        "text": "DQL (Data Query Language) SELECT",
+        "isCorrect": true
+      },
+      {
+        "text": "TCL (Transaction Control Language) COMMIT, ROLLBACK, TRANSACTION",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 5
+  },
+  {
+    "statement": "¿Cuáles de estos NO sirve para modelar restricciones?",
+    "answers": [
+      {
+        "text": "CHECK",
+        "isCorrect": false
+      },
+      {
+        "text": "UNIQUE",
+        "isCorrect": false
+      },
+      {
+        "text": "NOT NULL",
+        "isCorrect": false
+      },
+      {
+        "text": "STORED PROCEDURE",
+        "isCorrect": false
+      },
+      {
+        "text": "TRIGGER",
+        "isCorrect": false
+      },
+      {
+        "text": "FUNCTION",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 9
+  },
+  {
+    "statement": "¿Cómo se modelan claves primarias en SQL?",
+    "answers": [
+      {
+        "text": "PRIMARY KEY(clave)",
+        "isCorrect": true
+      },
+      {
+        "text": "PRIMARY KEY: clave",
+        "isCorrect": false
+      },
+      {
+        "text": "PK(clave)",
+        "isCorrect": false
+      },
+      {
+        "text": "PK: clave",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 14
+  },
+  {
+    "statement": "¿Cómo se modelan claves alternativas?",
+    "answers": [
+      {
+        "text": "ALTERNATE KEY(clave)",
+        "isCorrect": false
+      },
+      {
+        "text": "ALTERNATE KEY: clave",
+        "isCorrect": false
+      },
+      {
+        "text": "AK(clave)",
+        "isCorrect": false
+      },
+      {
+        "text": "UNIQUE(clave)",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 14
+  },
+  {
+    "statement": "¿Cómo se modelan claves foráneas?",
+    "answers": [
+      {
+        "text": "FOREIGN KEY(clave) REFERENCES (otra table)",
+        "isCorrect": true
+      },
+      {
+        "text": "FK(clave) REFERENCES (otra table)",
+        "isCorrect": false
+      },
+      {
+        "text": "FOREIGN KEY(clave)",
+        "isCorrect": false
+      },
+      {
+        "text": "FK(clave)",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 14
+  },
+  {
+    "statement": "¿A las claves foráneas se le puede añadir un comportamiento ON DELETE, cuáles de estos existen?",
+    "answers": [
+      {
+        "text": "RESTRICT",
+        "isCorrect": true
+      },
+      {
+        "text": "DEFUSE",
+        "isCorrect": false
+      },
+      {
+        "text": "CASCADE",
+        "isCorrect": true
+      },
+      {
+        "text": "SET NULL",
+        "isCorrect": true
+      },
+      {
+        "text": "AUTO_INCREMENT",
+        "isCorrect": false
+      },
+      {
+        "text": "SET DEFAULT",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 14
+  },
+  {
+    "statement": "¿Cuál de estas formas de escribir una restricción NO es correcta?",
+    "answers": [
+      {
+        "text": "CHECK (expresión)",
+        "isCorrect": false
+      },
+      {
+        "text": "CONSTRAINT nombre CHECK",
+        "isCorrect": false
+      },
+      {
+        "text": "CONSTRAINT (expresión)",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 16
+  },
+  {
+    "statement": "¿Cuáles son tipos por defecto de MariaDB?",
+    "answers": [
+      {
+        "text": "Numéricos",
+        "isCorrect": true
+      },
+      {
+        "text": "Booleanos",
+        "isCorrect": true
+      },
+      {
+        "text": "Caracteres",
+        "isCorrect": true
+      },
+      {
+        "text": "Fechas",
+        "isCorrect": true
+      },
+      {
+        "text": "Geometrías",
+        "isCorrect": true
+      },
+      {
+        "text": "Modelos matemáticos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 18
+  },
+  {
+    "statement": "¿Cuál es la sintaxis de una inserción de información?",
+    "answers": [
+      {
+        "text": "INSERT INTO Tabla (a1, a2, …an) VALUES (v1, v2, …, vn)",
+        "isCorrect": true
+      },
+      {
+        "text": "INSERT VALUES (v1, v2, …, vn)",
+        "isCorrect": false
+      },
+      {
+        "text": "INSERT INTO Tabla (v1, v2, …vn)",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 20
+  },
+  {
+    "statement": "¿Qué es una inyección SQL?",
+    "answers": [
+      {
+        "text": "La inserción manual de datos a una tabla",
+        "isCorrect": false
+      },
+      {
+        "text": "La inserción por el usuario de datos a una tabla",
+        "isCorrect": false
+      },
+      {
+        "text": "La inserción por el usuario de datos que contienen código SQL a una tabla",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 28
+  },
+  {
+    "statement": "Cuál es la función de SELECT?",
+    "answers": [
+      {
+        "text": "Seleccionar los datos a devolver",
+        "isCorrect": true
+      },
+      {
+        "text": "Elegir los datos sobre los que se realiza un filtrado",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un predicado para probar condiciones",
+        "isCorrect": false
+      },
+      {
+        "text": "Relacionar tablas",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 30
+  },
+  {
+    "statement": "Cuál es la función de DISTINCT?",
+    "answers": [
+      {
+        "text": "Elegir los datos repetidos",
+        "isCorrect": false
+      },
+      {
+        "text": "Elegir los datos no repetidos",
+        "isCorrect": true
+      },
+      {
+        "text": "Elegir los datos que difieren de un predicado",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar los datos distintos que no verifican un predicado",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 31
+  },
+  {
+    "statement": "Qué hace la cláusula WHERE?",
+    "answers": [
+      {
+        "text": "Seleciconar los datos a devolver",
+        "isCorrect": false
+      },
+      {
+        "text": "Elegir los datos sobre los que se realiza un filtrado",
+        "isCorrect": true
+      },
+      {
+        "text": "Relacionar tablas",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 32
+  },
+  {
+    "statement": "Cuáles de estos son formas de filtrar dentro de WHERE?",
+    "answers": [
+      {
+        "text": "BETWEEN",
+        "isCorrect": true
+      },
+      {
+        "text": "IN",
+        "isCorrect": true
+      },
+      {
+        "text": "ORDER BY",
+        "isCorrect": false
+      },
+      {
+        "text": "LIKE",
+        "isCorrect": true
+      },
+      {
+        "text": "DISTINCT",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 32
+  },
+  {
+    "statement": "¿Qué tipos de joins hay?",
+    "answers": [
+      {
+        "text": "SELECT JOIN",
+        "isCorrect": false
+      },
+      {
+        "text": "CROSS JOIN",
+        "isCorrect": true
+      },
+      {
+        "text": "LEFT JOIN",
+        "isCorrect": true
+      },
+      {
+        "text": "NATURAL JOIN",
+        "isCorrect": true
+      },
+      {
+        "text": "INNER JOIN",
+        "isCorrect": true
+      }
+    ],
+    "theme": 10,
+    "page": 41
+  },
+  {
+    "statement": "Cuáles de estos son agregados?",
+    "answers": [
+      {
+        "text": "COUNT",
+        "isCorrect": true
+      },
+      {
+        "text": "MAX",
+        "isCorrect": true
+      },
+      {
+        "text": "SELECT",
+        "isCorrect": false
+      },
+      {
+        "text": "DISTINCT",
+        "isCorrect": true
+      },
+      {
+        "text": "JOIN",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 46
+  },
+  {
+    "statement": "Cuál es el objetivo de la cláusula GROUP BY?",
+    "answers": [
+      {
+        "text": "Agrupa las tuplas que tienen el mismo valor para ciertos atributos",
+        "isCorrect": true
+      },
+      {
+        "text": "Filtra las tuplas que tienen el mismo valor para ciertos atributos",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina las tuplas que tienen el mismo valor para ciertos atributos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 48
+  },
+  {
+    "statement": "Cuál es la diferencia entre HAVING y WHERE?",
+    "answers": [
+      {
+        "text": "En HAVING se filtra primero y agrupa después mientras que en WHERE es al revés",
+        "isCorrect": true
+      },
+      {
+        "text": "En WHERE se filtra primero y agrupa después mientras que en HAVING es al revés",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 50
+  },
+  {
+    "statement": "Cuáles son las ventajas de una vista?",
+    "answers": [
+      {
+        "text": "Mejora el tiempo de CPU",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimiza el espacio de almacenamiento",
+        "isCorrect": false
+      },
+      {
+        "text": "Es más fácil de implementar",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 54
+  },
+  {
+    "statement": "SI has llegado hasta aquí felicidades, dominas la teoría, usa este enlace para practicar todo lo que has visto en teoría (https://www.hackerrank.com/domains/sql)",
+    "answers": [
+      {
+        "text": "Correcto",
+        "isCorrect": true
+      },
+      {
+        "text": "Incorrecto",
+        "isCorrect": false
+      }
+    ],
+    "theme": 10,
+    "page": 9999
+  }
+]

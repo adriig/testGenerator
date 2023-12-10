@@ -300,7 +300,7 @@
             },
             {
                 "text": "Requisito funcional.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             },
             {
                 "text": "Requisito no funcional.",
@@ -704,7 +704,7 @@
         "statement": "¿Qué es?: Como encargado del almacén quiero recibir un aviso en mi móvil cuando haya mercancía que vaya a caducar en menos de 48 horas para ponerla a la venta",
         "answers": [
             {
-                "text": "Solamente historia de usuario.",
+                "text": "Historia de usuario.",
                 "isCorrect": "false"
             },
             {

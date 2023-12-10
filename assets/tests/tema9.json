@@ -1,0 +1,570 @@
+[
+  {
+    "statement": "¿Qué es el ciclo de vida del software?",
+    "answers": [
+      {
+        "text": "Es un marco de referencia que contiene los procesos, actividades y las tareas involucradas en el desarrollo, operación y mantenimiento de un producto software a lo largo de la vida del sistema desde su definición hasta su retirada.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es un proceso lineal y rígido en el que cada fase se ejecuta una vez, sin la posibilidad de regresar o realizar ajustes a etapas anteriores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un enfoque que desestima por completo la participación de los interesados y usuarios en la definición de requisitos, centrándose únicamente en las ideas de los desarrolladores y las carácterísticas y propiedades a cumplir por el sistema.",
+        "isCorrect": false
+      },
+      {
+        "text": "El ciclo de vida software es el proceso por el que pasa todo sistema; planificación, desarrollo, operación, mantenimiento y finalmente su retirada.",
+        "isCorrect": false
+      }
+    ],
+    "theme": 2,
+    "page": 4
+  },
+  {
+    "statement": "¿Qué tipos de operadores hay?",
+    "answers": [
+      {
+        "text": "Conjuntistas y relacionales",
+        "isCorrect": true
+      },
+      {
+        "text": "Aislacionistas y conjuntistas",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduccionistas y conjuntistas",
+        "isCorrect": false
+      },
+      {
+        "text": "Aisladores y agrupadores",
+        "isCorrect": false
+      }
+    ],
+    "theme": 3,
+    "page": 9
+  },
+  {
+    "statement": "¿Cuáles de estos operadores pertenece a los operadores conjuntistas?",
+    "answers": [
+      {
+        "text": "Unión",
+        "isCorrect": true
+      },
+      {
+        "text": "Intersección",
+        "isCorrect": true
+      },
+      {
+        "text": "Diferencia",
+        "isCorrect": true
+      },
+      {
+        "text": "Conjunción",
+        "isCorrect": false
+      },
+      {
+        "text": "Producto Cartesiano",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminación",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuáles de estos operadores pertenecen a los operadores relacionales?",
+    "answers": [
+      {
+        "text": "Selección",
+        "isCorrect": true
+      },
+      {
+        "text": "División",
+        "isCorrect": true
+      },
+      {
+        "text": "Intersección",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminación",
+        "isCorrect": false
+      },
+      {
+        "text": "Combinación",
+        "isCorrect": true
+      },
+      {
+        "text": "Proyección",
+        "isCorrect": true
+      },
+      {
+        "text": "Agregación",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuál de estos es el operador de selección?",
+    "answers": [
+      {
+        "text": "𝝈",
+        "isCorrect": true
+      },
+      {
+        "text": "𝚷",
+        "isCorrect": false
+      },
+      {
+        "text": "⋈",
+        "isCorrect": false
+      },
+      {
+        "text": "÷",
+        "isCorrect": false
+      },
+      {
+        "text": "𝜸",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuál de estos es el operador de proyección?",
+    "answers": [
+      {
+        "text": "𝝈",
+        "isCorrect": false
+      },
+      {
+        "text": "𝚷",
+        "isCorrect": true
+      },
+      {
+        "text": "⋈",
+        "isCorrect": false
+      },
+      {
+        "text": "÷",
+        "isCorrect": false
+      },
+      {
+        "text": "𝜸",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuál de estos es el operador de combinación?",
+    "answers": [
+      {
+        "text": "𝝈",
+        "isCorrect": false
+      },
+      {
+        "text": "𝚷",
+        "isCorrect": false
+      },
+      {
+        "text": "⋈",
+        "isCorrect": true
+      },
+      {
+        "text": "÷",
+        "isCorrect": false
+      },
+      {
+        "text": "𝜸",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuál de estos es el operador de División?",
+    "answers": [
+      {
+        "text": "𝝈",
+        "isCorrect": false
+      },
+      {
+        "text": "𝚷",
+        "isCorrect": false
+      },
+      {
+        "text": "⋈",
+        "isCorrect": false
+      },
+      {
+        "text": "÷",
+        "isCorrect": true
+      },
+      {
+        "text": "𝜸",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 3
+  },
+  {
+    "statement": "¿Cuál de estos es el operador de Agregación?",
+    "answers": [
+      {
+        "text": "𝝈",
+        "isCorrect": false
+      },
+      {
+        "text": "𝚷",
+        "isCorrect": false
+      },
+      {
+        "text": "⋈",
+        "isCorrect": false
+      },
+      {
+        "text": "÷",
+        "isCorrect": false
+      },
+      {
+        "text": "𝜸",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": "3"
+  },
+  {
+    "statement": "¿Cómo se denotan los nombres de un atributo?",
+    "answers": [
+      {
+        "text": "R.a = atributo a de la relación R",
+        "isCorrect": false
+      },
+      {
+        "text": "R[a] = atributo a de la relación R",
+        "isCorrect": true
+      },
+      {
+        "text": "R{a} = atributo a de la relación R",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 4
+  },
+  {
+    "statement": "¿Qué es una relación compatible?",
+    "answers": [
+      {
+        "text": "Relaciones con alguna propiedad en común",
+        "isCorrect": false
+      },
+      {
+        "text": "Relaciones cuyas intensiones comparten los mismos dominios",
+        "isCorrect": true
+      },
+      {
+        "text": "La del burro de Shrek y la Dragona",
+        "isCorrect": false
+      },
+      {
+        "text": "Relación entre dos tablas diferentes que no comparten atributos superpuestos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 4
+  },
+  {
+    "statement": "¿Qué operadores conjuntistas se pueden aplicar sobre relaciones compatibles?",
+    "answers": [
+      {
+        "text": "Unión, Intersección y Diferencia",
+        "isCorrect": true
+      },
+      {
+        "text": "Unión y Producto Cartesiano",
+        "isCorrect": false
+      },
+      {
+        "text": "Unión e Intersección",
+        "isCorrect": false
+      },
+      {
+        "text": "Diferencia exclusivamente",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 4
+  },
+  {
+    "statement": "¿Cuál es el objetivo del renombrado?",
+    "answers": [
+      {
+        "text": "Transformar tablas no compatibles, pero que comparten los mismos atributos, pero con diferentes nombres en tablas compatibles",
+        "isCorrect": true
+      },
+      {
+        "text": "Lo que digo en la larga",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 4
+  },
+  {
+    "statement": "¿Cuál es la sintaxis del renombrado?",
+    "answers": [
+      {
+        "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo R.b pasa a nombrarse como T.pa",
+        "isCorrect": false
+      },
+      {
+        "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo T.a pasa a nombrarse como R.b",
+        "isCorrect": false
+      },
+      {
+        "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo R.b pasa a nombrarse como T.a",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": 4
+  },
+  {
+    "statement": "¿Con qué operador lógico se corresponde Unión (R ∪ S)?",
+    "answers": [
+      {
+        "text": "R AND S",
+        "isCorrect": false
+      },
+      {
+        "text": "R OR S",
+        "isCorrect": true
+      },
+      {
+        "text": "R XOR S",
+        "isCorrect": false
+      },
+      {
+        "text": "R NAND S",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 5
+  },
+  {
+    "statement": "¿Con qué operador lógico se corresponde Intersección (R ∩ S)?",
+    "answers": [
+      {
+        "text": "R XOR S",
+        "isCorrect": false
+      },
+      {
+        "text": "R NAND S",
+        "isCorrect": false
+      },
+      {
+        "text": "R OR S",
+        "isCorrect": false
+      },
+      {
+        "text": "R AND S",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": 5
+  },
+  {
+    "statement": "¿Con qué operador lógico se corresponde Diferencia (R − S)?",
+    "answers": [
+      {
+        "text": "R AND (NOT S)",
+        "isCorrect": true
+      },
+      {
+        "text": "R OR (NOT S)",
+        "isCorrect": false
+      },
+      {
+        "text": "R NOR S",
+        "isCorrect": false
+      },
+      {
+        "text": "NOT R AND NOT S",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 5
+  },
+  {
+    "statement": "¿Con cuál de estos esquemas se corresponde Producto Cartesiano (R × S)?",
+    "answers": [
+      {
+        "text": "R.A ^ S.A, R.A ^ S.B, R.B ^ S.A, R.B ^S.B",
+        "isCorrect": true
+      },
+      {
+        "text": "R.A ^ S.A, R.B ^S.B",
+        "isCorrect": false
+      },
+      {
+        "text": "R.A ^ S.B, R.B ^ S.A",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 5
+  },
+  {
+    "statement": "¿Cuál es la función del operador de selección?",
+    "answers": [
+      {
+        "text": "Elige las tuplas de un conjunto que satisfacen una condición",
+        "isCorrect": true
+      },
+      {
+        "text": "Junta las tuplas de un conjunto según una propiedad en común",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtener un atributo de todas las tuplas",
+        "isCorrect": false
+      },
+      {
+        "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 6
+  },
+  {
+    "statement": "¿Cuál es la función del operador de proyección?",
+    "answers": [
+      {
+        "text": "Elige las tuplas de un conjunto que satisfacen una condición",
+        "isCorrect": false
+      },
+      {
+        "text": "Junta las tuplas de un conjunto según una propiedad en común",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtener un atributo específico por cada tupla",
+        "isCorrect": true
+      },
+      {
+        "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 9
+  },
+  {
+    "statement": "¿Cuál es la función del operador de combinación?",
+    "answers": [
+      {
+        "text": "Elige las tuplas de un conjunto que satisfacen una condición",
+        "isCorrect": false
+      },
+      {
+        "text": "Junta las tuplas de un conjunto según una propiedad en común",
+        "isCorrect": true
+      },
+      {
+        "text": "Obtener un atributo específico por cada tupla",
+        "isCorrect": false
+      },
+      {
+        "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 11
+  },
+  {
+    "statement": "¿Cuál es la función del operador de división?",
+    "answers": [
+      {
+        "text": "Elige las tuplas de un conjunto que satisfacen una condición",
+        "isCorrect": false
+      },
+      {
+        "text": "Junta las tuplas de un conjunto según una propiedad en común",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtener un atributo específico por cada tupla",
+        "isCorrect": false
+      },
+      {
+        "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": 14
+  },
+  {
+    "statement": "¿Cuál es la función del operador de agregación?",
+    "answers": [
+      {
+        "text": "Elige las tuplas de un conjunto que satisfacen una condición",
+        "isCorrect": false
+      },
+      {
+        "text": "Junta las tuplas de un conjunto según una propiedad en común",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtener un atributo específico por cada tupla",
+        "isCorrect": false
+      },
+      {
+        "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
+        "isCorrect": false
+      },
+      {
+        "text": "Devuelve una tabla con dos parámetros, el parámetro con respecto al que agregamos y la función de agregación",
+        "isCorrect": true
+      }
+    ],
+    "theme": 9,
+    "page": 18
+  },
+  {
+    "statement": "Si lees esta pregunta y has terminado de responder el resto correctamente FELICIDADES, ya sabes los conceptos básicos de álgebra relacional, te recomiendo esta web para practicar https://jorgesanchez.net/manuales/viejos/abd/algebra1.pdf",
+    "answers": [
+      {
+        "text": "Correcto",
+        "isCorrect": true
+      },
+      {
+        "text": "Incorrecto",
+        "isCorrect": false
+      }
+    ],
+    "theme": 9,
+    "page": 9999
+  }
+]

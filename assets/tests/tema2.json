@@ -416,11 +416,11 @@
             },
             {
                 "text": "Contrato prefijado.",
-                "isCorrect": "false"
+                "isCorrect": "true"
             },
             {
-                "text": "Equipos grandes y/o distribuidos.",
-                "isCorrect": "false"
+                "text": "Equipos grandes y distribuidos.",
+                "isCorrect": "true"
             },
             {
                 "text": "Equipos pequeños y/o en contacto físico.",
@@ -609,11 +609,11 @@
             },
             {
                 "text": "Es un proceso iterativo propuesto por los creadores de SQL.",
-                "isCorrect": "false"
+                "isCorrect": "true"
             },
             {
                 "text": "Es un proceso incremental propuesto por los creadores de SQL.",
-                "isCorrect": "false"
+                "isCorrect": "true"
             }
         ],
         "theme": "2",
