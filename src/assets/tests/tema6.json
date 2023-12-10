@@ -1027,7 +1027,7 @@
             },
             {
                 "text": "No es similar a la composición.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             }
         ],
         "theme": "6",

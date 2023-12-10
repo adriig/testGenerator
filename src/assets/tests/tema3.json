@@ -230,7 +230,7 @@
             },
             {
                 "text": "Un sistema de información es una colección de programas de software que realizan actividades en conjunto y almacenan grandes cantidades de información.",
-                "isCorrect": "true"
+                "isCorrect": "false"
             }
         ],
         "theme": "3",
@@ -322,7 +322,7 @@
             },
             {
                 "text": "Objetivos a medio-corto plazo.",
-                "isCorrect": "false"
+                "isCorrect": "true"
             },
             {
                 "text": "Objetivos a largo plazo.",
