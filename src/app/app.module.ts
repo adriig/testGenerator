@@ -11,10 +11,12 @@ import { QuestionComponent } from './components/question/question.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { TemasComponent } from './pages/temas/temas.component';
 import { RandomComponent } from './pages/random/random.component';
-import { ColectionComponent } from './pages/colection/colection.component';
+import { CollectionComponent } from './pages/collection/collection.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CountdownPipe } from './pipes/countdown.pipe';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { Parcial1Component } from './pages/collection/parcial1/parcial1.component';
+import { Parcial2Component } from './pages/collection/parcial2/parcial2.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,8 +25,10 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     QuestionComponent,
     TemasComponent,
     RandomComponent,
-    ColectionComponent,
+    CollectionComponent,
     CountdownPipe,
+    Parcial1Component,
+    Parcial2Component,
   ],
   imports: [
     BrowserModule,
