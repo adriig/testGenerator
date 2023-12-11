@@ -4,19 +4,19 @@
     "answers": [
       {
         "text": "Que a partir del modelo conceptual se puede obtener el relacional",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Que a partir del modelo relacional se puede obtener el conceptual",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Que las historias de usuario tienen una traducción directa a SQL",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Que hay traducción de modelo conceptual a relacional y de ahí a SQL",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -27,19 +27,19 @@
     "answers": [
       {
         "text": "Structured Query Language",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Structured Quote Language",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Stable Query Label",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Structured Quantitative Label",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -50,19 +50,19 @@
     "answers": [
       {
         "text": "Definir, manipular y consultar bases de datos relacionales",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Ser un marco lógico de creación de estructuras de datos",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "La organización de datos en paquetes relacionales",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Estructurar datos inconexos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -73,23 +73,23 @@
     "answers": [
       {
         "text": "DDL (Data Definition Language) CREATE, ALTER, DROP",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "DML (Data Modeling Language) INSERT, UPDATE, DELETE",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "DCL (Data Control Language) GRANT, REVOKE",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "DQL (Data Query Language) SELECT",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "TCL (Transaction Control Language) COMMIT, ROLLBACK, TRANSACTION",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -100,27 +100,27 @@
     "answers": [
       {
         "text": "CHECK",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "UNIQUE",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "NOT NULL",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "STORED PROCEDURE",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "TRIGGER",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "FUNCTION",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -131,19 +131,19 @@
     "answers": [
       {
         "text": "PRIMARY KEY(clave)",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "PRIMARY KEY: clave",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "PK(clave)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "PK: clave",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -154,19 +154,19 @@
     "answers": [
       {
         "text": "ALTERNATE KEY(clave)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "ALTERNATE KEY: clave",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "AK(clave)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "UNIQUE(clave)",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -177,19 +177,19 @@
     "answers": [
       {
         "text": "FOREIGN KEY(clave) REFERENCES (otra table)",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "FK(clave) REFERENCES (otra table)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "FOREIGN KEY(clave)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "FK(clave)",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -200,27 +200,27 @@
     "answers": [
       {
         "text": "RESTRICT",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "DEFUSE",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "CASCADE",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "SET NULL",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "AUTO_INCREMENT",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "SET DEFAULT",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -231,15 +231,15 @@
     "answers": [
       {
         "text": "CHECK (expresión)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "CONSTRAINT nombre CHECK",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "CONSTRAINT (expresión)",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -250,27 +250,27 @@
     "answers": [
       {
         "text": "Numéricos",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Booleanos",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Caracteres",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Fechas",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Geometrías",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Modelos matemáticos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -281,15 +281,15 @@
     "answers": [
       {
         "text": "INSERT INTO Tabla (a1, a2, …an) VALUES (v1, v2, …, vn)",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "INSERT VALUES (v1, v2, …, vn)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "INSERT INTO Tabla (v1, v2, …vn)",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -300,15 +300,15 @@
     "answers": [
       {
         "text": "La inserción manual de datos a una tabla",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "La inserción por el usuario de datos a una tabla",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "La inserción por el usuario de datos que contienen código SQL a una tabla",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -319,19 +319,19 @@
     "answers": [
       {
         "text": "Seleccionar los datos a devolver",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Elegir los datos sobre los que se realiza un filtrado",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Es un predicado para probar condiciones",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Relacionar tablas",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -342,19 +342,19 @@
     "answers": [
       {
         "text": "Elegir los datos repetidos",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Elegir los datos no repetidos",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Elegir los datos que difieren de un predicado",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Eliminar los datos distintos que no verifican un predicado",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -365,15 +365,15 @@
     "answers": [
       {
         "text": "Seleciconar los datos a devolver",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Elegir los datos sobre los que se realiza un filtrado",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Relacionar tablas",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -384,23 +384,23 @@
     "answers": [
       {
         "text": "BETWEEN",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "IN",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "ORDER BY",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "LIKE",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "DISTINCT",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -411,23 +411,23 @@
     "answers": [
       {
         "text": "SELECT JOIN",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "CROSS JOIN",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "LEFT JOIN",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "NATURAL JOIN",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "INNER JOIN",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -438,23 +438,23 @@
     "answers": [
       {
         "text": "COUNT",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "MAX",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "SELECT",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "DISTINCT",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "JOIN",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -465,15 +465,15 @@
     "answers": [
       {
         "text": "Agrupa las tuplas que tienen el mismo valor para ciertos atributos",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Filtra las tuplas que tienen el mismo valor para ciertos atributos",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Elimina las tuplas que tienen el mismo valor para ciertos atributos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -484,11 +484,11 @@
     "answers": [
       {
         "text": "En HAVING se filtra primero y agrupa después mientras que en WHERE es al revés",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "En WHERE se filtra primero y agrupa después mientras que en HAVING es al revés",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 10,
@@ -499,15 +499,15 @@
     "answers": [
       {
         "text": "Mejora el tiempo de CPU",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Optimiza el espacio de almacenamiento",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Es más fácil de implementar",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -518,11 +518,11 @@
     "answers": [
       {
         "text": "Correcto",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Incorrecto",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
