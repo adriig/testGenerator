@@ -239,11 +239,11 @@
           },
           {
             "text": "Devuelven un valor",
-            "isCorrect": "false"
+            "isCorrect": "true"
           },
           {
             "text": "Se pueden usar en un SELECT",
-            "isCorrect": "false"
+            "isCorrect": "true"
           },
           {
             "text": "Está asociado a eventos",
