@@ -331,7 +331,7 @@
         "statement": "¿Por qué se compone una relación?",
         "answers": [
             {
-                "text": "Una relación se compone por una intensión (conjunto de atributos que toman valores sobre un dominio) y por una extensión (conjunto de tuplas key-value)",
+                "text": "Una relación se compone por una intensión (conjunto de atributos que toman valores sobre un dominio) y por una extensión (conjunto de tuplas key-valueUna relación se compone por una intensión (conjunto de atributos que toman valores sobre un dominio) y por una extensión (conjunto de tuplas key-value)",
                 "isCorrect": "true"
             },
             {
