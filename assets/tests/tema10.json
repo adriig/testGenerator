@@ -450,7 +450,7 @@
       },
       {
         "text": "DISTINCT",
-        "isCorrect": "false"
+        "isCorrect": "true"
       },
       {
         "text": "JOIN",
@@ -480,15 +480,15 @@
     "page": 48
   },
   {
-    "statement": "¿Cómo se comporta una query compleja con Where y Having?",
+    "statement": "Cuál es la diferencia entre HAVING y WHERE?",
     "answers": [
       {
         "text": "En HAVING se filtra primero y agrupa después mientras que en WHERE es al revés",
-        "isCorrect": "false"
+        "isCorrect": "true"
       },
       {
         "text": "En WHERE se filtra primero y agrupa después mientras que en HAVING es al revés",
-        "isCorrect": "true"
+        "isCorrect": "false"
       }
     ],
     "theme": 10,
@@ -499,11 +499,11 @@
     "answers": [
       {
         "text": "Mejora el tiempo de CPU",
-        "isCorrect": "true"
+        "isCorrect": "false"
       },
       {
         "text": "Optimiza el espacio de almacenamiento",
-        "isCorrect": "true"
+        "isCorrect": "false"
       },
       {
         "text": "Es más fácil de implementar",
