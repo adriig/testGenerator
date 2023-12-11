@@ -4,19 +4,19 @@
     "answers": [
       {
         "text": "Es un marco de referencia que contiene los procesos, actividades y las tareas involucradas en el desarrollo, operación y mantenimiento de un producto software a lo largo de la vida del sistema desde su definición hasta su retirada.",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Es un proceso lineal y rígido en el que cada fase se ejecuta una vez, sin la posibilidad de regresar o realizar ajustes a etapas anteriores.",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Es un enfoque que desestima por completo la participación de los interesados y usuarios en la definición de requisitos, centrándose únicamente en las ideas de los desarrolladores y las carácterísticas y propiedades a cumplir por el sistema.",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "El ciclo de vida software es el proceso por el que pasa todo sistema; planificación, desarrollo, operación, mantenimiento y finalmente su retirada.",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 2,
@@ -27,19 +27,19 @@
     "answers": [
       {
         "text": "Conjuntistas y relacionales",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Aislacionistas y conjuntistas",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Reduccionistas y conjuntistas",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Aisladores y agrupadores",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 3,
@@ -50,27 +50,27 @@
     "answers": [
       {
         "text": "Unión",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Intersección",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Diferencia",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Conjunción",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Producto Cartesiano",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Eliminación",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -81,31 +81,31 @@
     "answers": [
       {
         "text": "Selección",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "División",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Intersección",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Eliminación",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Combinación",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Proyección",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Agregación",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -116,23 +116,23 @@
     "answers": [
       {
         "text": "𝝈",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "𝚷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "⋈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "÷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝜸",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -143,23 +143,23 @@
     "answers": [
       {
         "text": "𝝈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝚷",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "⋈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "÷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝜸",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -170,23 +170,23 @@
     "answers": [
       {
         "text": "𝝈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝚷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "⋈",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "÷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝜸",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -197,23 +197,23 @@
     "answers": [
       {
         "text": "𝝈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝚷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "⋈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "÷",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "𝜸",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -224,23 +224,23 @@
     "answers": [
       {
         "text": "𝝈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝚷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "⋈",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "÷",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝜸",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -251,15 +251,15 @@
     "answers": [
       {
         "text": "R.a = atributo a de la relación R",
-        "isCorrect": false
+        "isCorrect": "true"
       },
       {
         "text": "R[a] = atributo a de la relación R",
-        "isCorrect": true
+        "isCorrect": "false"
       },
       {
         "text": "R{a} = atributo a de la relación R",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -270,19 +270,19 @@
     "answers": [
       {
         "text": "Relaciones con alguna propiedad en común",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Relaciones cuyas intensiones comparten los mismos dominios",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "La del burro de Shrek y la Dragona",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Relación entre dos tablas diferentes que no comparten atributos superpuestos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -293,19 +293,19 @@
     "answers": [
       {
         "text": "Unión, Intersección y Diferencia",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Unión y Producto Cartesiano",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Unión e Intersección",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Diferencia exclusivamente",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -316,11 +316,11 @@
     "answers": [
       {
         "text": "Transformar tablas no compatibles, pero que comparten los mismos atributos, pero con diferentes nombres en tablas compatibles",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Lo que digo en la larga",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -331,15 +331,15 @@
     "answers": [
       {
         "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo R.b pasa a nombrarse como T.pa",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo T.a pasa a nombrarse como R.b",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "𝑇 = 𝜌𝑎/𝑏(𝑅): el atributo R.b pasa a nombrarse como T.a",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -350,19 +350,19 @@
     "answers": [
       {
         "text": "R AND S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R OR S",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "R XOR S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R NAND S",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -373,19 +373,19 @@
     "answers": [
       {
         "text": "R XOR S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R NAND S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R OR S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R AND S",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -396,19 +396,19 @@
     "answers": [
       {
         "text": "R AND (NOT S)",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "R OR (NOT S)",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R NOR S",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "NOT R AND NOT S",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -419,15 +419,15 @@
     "answers": [
       {
         "text": "R.A ^ S.A, R.A ^ S.B, R.B ^ S.A, R.B ^S.B",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "R.A ^ S.A, R.B ^S.B",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "R.A ^ S.B, R.B ^ S.A",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -438,19 +438,19 @@
     "answers": [
       {
         "text": "Elige las tuplas de un conjunto que satisfacen una condición",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Junta las tuplas de un conjunto según una propiedad en común",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Obtener un atributo de todas las tuplas",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -461,19 +461,19 @@
     "answers": [
       {
         "text": "Elige las tuplas de un conjunto que satisfacen una condición",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Junta las tuplas de un conjunto según una propiedad en común",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Obtener un atributo específico por cada tupla",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -484,19 +484,19 @@
     "answers": [
       {
         "text": "Elige las tuplas de un conjunto que satisfacen una condición",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Junta las tuplas de un conjunto según una propiedad en común",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Obtener un atributo específico por cada tupla",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
@@ -507,19 +507,19 @@
     "answers": [
       {
         "text": "Elige las tuplas de un conjunto que satisfacen una condición",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Junta las tuplas de un conjunto según una propiedad en común",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Obtener un atributo específico por cada tupla",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -530,23 +530,23 @@
     "answers": [
       {
         "text": "Elige las tuplas de un conjunto que satisfacen una condición",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Junta las tuplas de un conjunto según una propiedad en común",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Obtener un atributo específico por cada tupla",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "El conjunto de las tuplas que verifican los requisitos establecidos por la condición sin los atributos que aparecen los requisitos",
-        "isCorrect": false
+        "isCorrect": "false"
       },
       {
         "text": "Devuelve una tabla con dos parámetros, el parámetro con respecto al que agregamos y la función de agregación",
-        "isCorrect": true
+        "isCorrect": "true"
       }
     ],
     "theme": 9,
@@ -557,11 +557,11 @@
     "answers": [
       {
         "text": "Correcto",
-        "isCorrect": true
+        "isCorrect": "true"
       },
       {
         "text": "Incorrecto",
-        "isCorrect": false
+        "isCorrect": "false"
       }
     ],
     "theme": 9,
