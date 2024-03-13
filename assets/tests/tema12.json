@@ -1,0 +1,17 @@
+[
+    {
+      "statement": "¿Cuáles es el concepto de transacción en una BD?",
+      "answers": [
+        {
+          "text": "Secuencia de operaciones DML que se comporta como una unidad lógica de trabajo",
+          "isCorrect": "true"
+        },
+        {
+          "text": "Conjunto de operaciones DML que se comportan como una unidad funcional de trabajo",
+          "isCorrect": "false"
+        }
+      ],
+      "theme": 12,
+      "page": 3
+    }
+]

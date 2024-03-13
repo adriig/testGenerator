@@ -251,11 +251,11 @@
     "answers": [
       {
         "text": "R.a = atributo a de la relación R",
-        "isCorrect": "false"
+        "isCorrect": "true"
       },
       {
         "text": "R[a] = atributo a de la relación R",
-        "isCorrect": "true"
+        "isCorrect": "false"
       },
       {
         "text": "R{a} = atributo a de la relación R",
