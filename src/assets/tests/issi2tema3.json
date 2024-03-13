@@ -73,15 +73,15 @@
         "answers":[
             {
                 "text":"Son fáciles de usar y entender.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Son interoperables entre sistemas en la web.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Son escalables y eficientes.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Todas las anteriores.",

@@ -81,11 +81,11 @@
             },
             {
                 "text":"Vista de desarrollo.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Vista comercial.",
-                "isCorrect":"false"
+                "isCorrect":"true"
             }
         ],
         "theme":"2",
