@@ -4,19 +4,19 @@
         "answers":[
             {
                 "text":"Un lenguaje de programación para crear sitios web.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un lenguaje de marcado para estructurar el contenido de una página web.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Un software para diseñar páginas web.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un protocolo de comunicación para la web.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -27,19 +27,19 @@
         "answers":[
             {
                 "text":"HTML5 es un lenguaje de marcado más estricto que XHTML.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"XHTML es un lenguaje de marcado más estricto que HTML5.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Ambos son lenguajes de marcado, pero HTML5 es más reciente y flexible.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"No hay diferencia entre HTML5 y XHTML.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -50,19 +50,19 @@
         "answers":[
             {
                 "text":"No romper la web, estandarizar lo que ya se usa y ser práctico.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Usar la última tecnología disponible y ser compatible con todos los navegadores.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Ser fácil de aprender y usar para los principiantes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Ser compatible con los estándares web anteriores.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -73,19 +73,19 @@
         "answers":[
             {
                 "text":"article, aside, audio, video, canvas, etc.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"table, tr, th, td, etc.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"div, span, p, h1, h2, etc.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Todos los anteriores.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -96,19 +96,19 @@
         "answers":[
             {
                 "text":"acronym, applet, basefont, big, center, etc.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"table, tr, th, td, etc.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"div, span, p, h1, h2, etc.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Todos los anteriores.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -119,19 +119,19 @@
         "answers":[
             {
                 "text":"Usando la etiqueta <a>.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Usando la etiqueta <link>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <img>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <table>.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -142,19 +142,19 @@
         "answers":[
             {
                 "text":"Usando la etiqueta <img>.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Usando la etiqueta <link>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <a>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <table>.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -165,19 +165,19 @@
         "answers":[
             {
                 "text":"Usando la etiqueta <ul> para listas no ordenadas y <ol> para listas ordenadas.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Usando la etiqueta <li> para cada elemento de la lista.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <p> para cada elemento de la lista.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <table>.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",
@@ -188,19 +188,19 @@
         "answers":[
             {
                 "text":"Usando la etiqueta <video>.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Usando la etiqueta <audio>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <img>.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Usando la etiqueta <table>.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"1",

@@ -4,15 +4,15 @@
         "answers":[
             {
                 "text":"Elementos que permiten enviar información al servidor.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Elementos que permiten mostrar imágenes en la página web.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Elementos que permiten crear enlaces a otras páginas web.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -23,15 +23,15 @@
         "answers":[
             {
                 "text":"<input>",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"<select>",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"<textarea>",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -42,15 +42,15 @@
         "answers":[
             {
                 "text":"required",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"obligatorio",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"necesario",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -61,15 +61,15 @@
         "answers":[
             {
                 "text":"<input>",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"<button>",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"<submit>",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -80,15 +80,15 @@
         "answers":[
             {
                 "text":"GET envía los datos en la URL, mientras que POST los envía en el cuerpo de la petición.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"GET es más rápido que POST.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"POST es más seguro que GET.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -99,15 +99,15 @@
         "answers":[
             {
                 "text":"<input>",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"<select>",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"<textarea>",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -118,15 +118,15 @@
         "answers":[
             {
                 "text":"<input>",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"<select>",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"<textarea>",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -137,15 +137,15 @@
         "answers":[
             {
                 "text":"El proceso de verificar que los datos introducidos por el usuario son correctos.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"El proceso de enviar los datos del formulario al servidor.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"El proceso de mostrar los datos del formulario al usuario.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -156,19 +156,19 @@
         "answers":[
             {
                 "text":"Evita que el usuario envíe datos incorrectos.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Mejora la experiencia del usuario.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Reduce la carga del servidor.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Todas las anteriores.",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -179,15 +179,15 @@
         "answers":[
             {
                 "text":"HTML5",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"JavaScript",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Ambos",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -198,15 +198,15 @@
         "answers":[
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo está vacío.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo está lleno.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo tiene un error.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"6",
@@ -217,15 +217,15 @@
         "answers":[
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo está vacío.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo está lleno.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un mensaje que se muestra al usuario cuando el campo tiene un error.",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -236,19 +236,19 @@
         "answers":[
             {
                 "text":"Solicitar solo la información necesaria.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Reducir el esfuerzo del usuario.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Proporcionar mensajes de error claros y visibles.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Todas las anteriores.",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -259,15 +259,15 @@
         "answers":[
             {
                 "text":"Porque el usuario puede saltarse la validación en el cliente.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Porque el servidor tiene acceso a la base de datos.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Ambas",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",
@@ -278,15 +278,15 @@
         "answers":[
             {
                 "text":"Una herramienta que se utiliza para buscar y reemplazar texto.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Una herramienta que se utiliza para validar datos.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Ambas",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"6",

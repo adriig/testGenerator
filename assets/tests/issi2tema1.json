@@ -4,19 +4,19 @@
         "answers": [
             {
                 "text": "Internet es una red de redes, mientras que la Web es una colección de datos a la que se accede a través de Internet.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Internet es un servicio que se ofrece sobre Internet, mientras que la Web es una infraestructura que da soporte a la Web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Internet es una tecnología más antigua que la Web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "No hay diferencia entre Internet y la Web.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -27,19 +27,19 @@
         "answers": [
             {
                 "text": "Tim Berners-Lee",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Vinton Cerf",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Robert Kahn",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Leonard Kleinrock",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -50,19 +50,19 @@
         "answers": [
             {
                 "text": "Una aplicación informática distribuida cuya interfaz de usuario es accesible desde un navegador web.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un conjunto de páginas web interconectadas.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un programa que se ejecuta en el servidor.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un tipo de software que se instala en el ordenador del usuario.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -73,19 +73,19 @@
         "answers": [
             {
                 "text": "Comunicación mediante HTTP sobre TCP/IP.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Procesamiento en el cliente.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Almacenamiento de datos en el navegador web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Todas las anteriores.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -96,19 +96,19 @@
         "answers": [
             {
                 "text": "Una aplicación web es un tipo particular de sitio web.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un sitio web es un tipo particular de aplicación web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "No hay diferencia entre una aplicación web y un sitio web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Las aplicaciones web son más complejas que los sitios web.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -119,19 +119,19 @@
         "answers": [
             {
                 "text": "La forma en que se organizan los distintos módulos que componen una aplicación.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "El conjunto de herramientas que se utilizan para desarrollar una aplicación.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "El lenguaje de programación que se utiliza para desarrollar una aplicación.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "El diseño de la interfaz de usuario de una aplicación.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -142,19 +142,19 @@
         "answers": [
             {
                 "text": "Por capas",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Cliente-servidor",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Componentes",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Ninguno de los anteriores",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -165,19 +165,19 @@
         "answers": [
             {
                 "text": "Una solución genérica y reutilizable que se puede aplicar a problemas que surgen habitualmente al diseñar arquitecturas software.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un tipo de arquitectura software específica para aplicaciones web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un conjunto de herramientas que se utilizan para desarrollar aplicaciones web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "El lenguaje de programación que se utiliza para desarrollar aplicaciones web.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -188,19 +188,19 @@
         "answers": [
             {
                 "text": "Una interfaz de programación que ofrece una determinada funcionalidad accesible a través de Internet.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un conjunto de páginas web interconectadas.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un programa que se ejecuta en el servidor.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un tipo de software que se instala en el ordenador del usuario.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -211,19 +211,19 @@
         "answers": [
             {
                 "text": "SOAP es un protocolo para la comunicación entre servicios web, mientras que REST es un estilo arquitectónico para el diseño de servicios web.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "SOAP es un protocolo más ligero que REST.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "SOAP es más fácil de implementar que REST.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Todas las anteriores.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -234,19 +234,19 @@
         "answers": [
             {
                 "text": "Un sitio web estático se compone de páginas web predefinidas que no cambian, mientras que un sitio web dinámico genera las páginas web de forma dinámica en respuesta a una solicitud del usuario.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un sitio web estático es más rápido que uno dinámico.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un sitio web dinámico es más fácil de crear que uno estático.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un sitio web estático es más seguro que uno dinámico.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -257,19 +257,19 @@
         "answers": [
             {
                 "text": "HTML, CSS y JavaScript",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Python y Java",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "C++ y C#",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "PHP y Ruby",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -280,19 +280,19 @@
         "answers": [
             {
                 "text": "Una biblioteca de código que facilita el desarrollo de aplicaciones web front-end.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un tipo de servidor web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un lenguaje de programación.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un IDE para desarrollo web.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -303,19 +303,19 @@
         "answers": [
             {
                 "text": "Lenguajes de programación como Python, Java, PHP, Ruby, etc.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Bases de datos como MySQL, PostgreSQL, MongoDB, etc.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Servidores web como Apache, Nginx, IIS, etc.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "HTML, CSS, JavaScript",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -326,19 +326,19 @@
         "answers": [
             {
                 "text": "Una interfaz de programación que permite a dos aplicaciones comunicarse entre sí.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Un tipo de sitio web.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un lenguaje de programación.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Un IDE para desarrollo web.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -349,19 +349,19 @@
         "answers": [
             {
                 "text": "Ambos no están tipados.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Ambos están fuertemente tipados.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "SOAP es débilmente tipado, mientras que REST es fuertemente tipado.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "SOAP es fuertemente tipado, mientras que REST no lo está.",
-                "isCorrect": true
+                "isCorrect": "true"
             }
         ],
         "theme": "1",
@@ -372,19 +372,19 @@
         "answers": [
             {
                 "text": "Ambos no están tipados.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Ambos están fuertemente tipados.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "SOAP es débilmente tipado, mientras que REST es fuertemente tipado.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "SOAP es fuertemente tipado, mientras que REST no lo está.",
-                "isCorrect": true
+                "isCorrect": "true"
             }
         ],
         "theme": "1",
@@ -395,19 +395,19 @@
         "answers": [
             {
                 "text": "Solo XML.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "XML, JSON y otros formatos.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Solo JSON.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Solo CSV.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -418,19 +418,19 @@
         "answers": [
             {
                 "text": "No tienen estado.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Se basan en URIs.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Tienen estado y operaciones con nombres específicos.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Son totalmente flexibles y no tienen restricciones.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -441,19 +441,19 @@
         "answers": [
             {
                 "text": "Es un protocolo de mensajería.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Es un estilo arquitectónico.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "No tiene una especificación estándar.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Está ligado a XML.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -464,19 +464,19 @@
         "answers": [
             {
                 "text": "Es un protocolo de mensajería.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Es un estilo arquitectónico.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "No tiene una especificación estándar.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Está ligado a XML.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -487,19 +487,19 @@
         "answers": [
             {
                 "text": "Ambos interactúan directamente con el usuario.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "El Back-End interactúa directamente con el usuario, mientras que el Front-End no.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "El Front-End interactúa directamente con el usuario, mientras que el Back-End no.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Ninguno de los dos interactúa directamente con el usuario.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -510,19 +510,19 @@
         "answers": [
             {
                 "text": "Solo la estructura y organización de la información.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Solo la base de datos y la lógica de negocio.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Los colores, estilos, imágenes, tablas, texto, botones y menús.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Los servidores y la infraestructura de red.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -533,19 +533,19 @@
         "answers": [
             {
                 "text": "Solo la seguridad y la escalabilidad.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Solo la eficiencia en el uso de la memoria.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "La accesibilidad, la usabilidad y la experiencia del usuario.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "La capacidad de procesar grandes cantidades de datos.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -556,19 +556,19 @@
         "answers": [
             {
                 "text": "Python y Java.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "C++ y C#.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "HTML, CSS y JavaScript.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "PHP y Ruby.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
@@ -579,19 +579,19 @@
         "answers": [
             {
                 "text": "Django y Flask.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Spring y Rails.",
-                "isCorrect": false
+                "isCorrect": "false"
             },
             {
                 "text": "Angular, React, Vue y Bootstrap.",
-                "isCorrect": true
+                "isCorrect": "true"
             },
             {
                 "text": "Express y Laravel.",
-                "isCorrect": false
+                "isCorrect": "false"
             }
         ],
         "theme": "1",
