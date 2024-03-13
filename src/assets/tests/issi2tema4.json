@@ -4,19 +4,19 @@
         "answers":[
             {
                 "text":"La experiencia del usuario al interactuar con un sistema.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La forma en que el usuario interactúa con una aplicación.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"La parte estética de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La parte funcional de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -27,19 +27,19 @@
         "answers":[
             {
                 "text":"La forma en que el usuario interactúa con una aplicación.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La experiencia del usuario al interactuar con un sistema.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"La parte estética de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La parte funcional de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -50,19 +50,19 @@
         "answers":[
             {
                 "text":"La experiencia del usuario al interactuar con un sistema.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La forma en que el usuario interactúa con una aplicación.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La parte estética de una interfaz.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"La parte funcional de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -73,19 +73,19 @@
         "answers":[
             {
                 "text":"La experiencia del usuario al interactuar con un sistema.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"La forma en que el usuario interactúa con una aplicación.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La parte estética de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La parte funcional de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -96,19 +96,19 @@
         "answers":[
             {
                 "text":"La capacidad de las personas con discapacidad para usar una página web.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"La capacidad de las personas con discapacidad para ver una página web.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La capacidad de las personas con discapacidad para escuchar una página web.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"La capacidad de las personas con discapacidad para interactuar con una página web.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -119,19 +119,19 @@
         "answers":[
             {
                 "text":"Un patrón de diseño que se usa para mejorar la experiencia del usuario.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un patrón de diseño que se usa para manipular al usuario.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Un patrón de diseño que se usa para mejorar la estética de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Un patrón de diseño que se usa para mejorar la funcionalidad de una interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -142,19 +142,19 @@
         "answers":[
             {
                 "text":"Los usuarios prefieren que un sitio web funcione de una forma similar a la de otros sitios.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Los usuarios prefieren que un sitio web sea lo más complejo posible.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Los usuarios prefieren que un sitio web sea lo más rápido posible.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Los usuarios prefieren que un sitio web sea lo más fácil de usar posible.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -165,19 +165,19 @@
         "answers":[
             {
                 "text":"El tiempo que se tarda en tomar una decisión se incrementa con el número y la complejidad de las opciones.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"El tiempo que se tarda en tomar una decisión se reduce con el número y la complejidad de las opciones.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"El tiempo que se tarda en tomar una decisión no se ve afectado por el número y la complejidad de las opciones.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"El tiempo que se tarda en tomar una decisión es inversamente proporcional al número y la complejidad de las opciones.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -188,19 +188,19 @@
         "answers":[
             {
                 "text":"El tiempo necesario para mover el cursor hacia un objetivo es función de la distancia al objetivo y del tamaño del mismo.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"El tiempo necesario para mover el cursor hacia un objetivo no se ve afectado por la distancia al objetivo y del tamaño del mismo.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"El tiempo necesario para mover el cursor hacia un objetivo es inversamente proporcional a la distancia al objetivo y del tamaño del mismo.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"El tiempo necesario para mover el cursor hacia un objetivo es directamente proporcional a la distancia al objetivo y del tamaño del mismo.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",
@@ -211,19 +211,19 @@
         "answers":[
             {
                 "text":"Cuando se presentan al usuario múltiples objetos similares, el que difiere del resto es más fácilmente recordable.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Cuando se presentan al usuario múltiples objetos similares, el que es más similar al resto es más fácilmente recordable.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Cuando se presentan al usuario múltiples objetos similares, todos son recordados con la misma facilidad.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Cuando se presentan al usuario múltiples objetos similares, ninguno es recordado con facilidad.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"3",

@@ -4,19 +4,19 @@
         "answers":[
             {
                 "text":"Detección temprana de errores e inconsistencias.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Análisis de la idoneidad y completitud.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Reutilización de componentes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Dificultad para realizar cambios en el futuro.",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"2",
@@ -27,19 +27,19 @@
         "answers":[
             {
                 "text":"Una unidad abstracta de instrucciones software que transforma datos y ofrece una interfaz.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Un mecanismo abstracto que representa comunicación entre componentes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Los valores que se usan en los componentes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Ninguna de las anteriores.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -50,19 +50,19 @@
         "answers":[
             {
                 "text":"Mantenibilidad.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Seguridad.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Compatibilidad hacia atrás.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Dificultad de uso.",
-                "isCorrect":true
+                "isCorrect":"true"
             }
         ],
         "theme":"2",
@@ -73,19 +73,19 @@
         "answers":[
             {
                 "text":"Vista lógica.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Vista de procesos.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Vista de desarrollo.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Vista comercial.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -96,19 +96,19 @@
         "answers":[
             {
                 "text":"Arquitectura monolítica.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Arquitecturas basadas en componentes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Arquitecturas basadas en microservicios.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"No hay una respuesta única.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -119,19 +119,19 @@
         "answers":[
             {
                 "text":"Permite un desarrollo por capas, con menor acoplamiento entre capas.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Permite la escalabilidad y tolerancia a fallos al desplegar las capas por separado.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Ambas ventajas anteriores.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Ninguna de las anteriores.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -142,19 +142,19 @@
         "answers":[
             {
                 "text":"Java.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Python.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"JavaScript.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"C++.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -165,19 +165,19 @@
         "answers":[
             {
                 "text":"settings.py",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"endpoints.json",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"scripts.sql",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"tests.py",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -188,19 +188,19 @@
         "answers":[
             {
                 "text":"Gestor de endpoints.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Gestor de ajustes.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Gestor de tokens y seguridad.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Gestor de base de datos.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
@@ -211,19 +211,19 @@
         "answers":[
             {
                 "text":"Creador de querys SQL.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Generador de tests.",
-                "isCorrect":true
+                "isCorrect":"true"
             },
             {
                 "text":"Gestor de base de datos.",
-                "isCorrect":false
+                "isCorrect":"false"
             },
             {
                 "text":"Interfaz.",
-                "isCorrect":false
+                "isCorrect":"false"
             }
         ],
         "theme":"2",
