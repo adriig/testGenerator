@@ -119,11 +119,11 @@
         "answers":[
             {
                 "text":"Permite un desarrollo por capas, con menor acoplamiento entre capas.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Permite la escalabilidad y tolerancia a fallos al desplegar las capas por separado.",
-                "isCorrect":"true"
+                "isCorrect":"false"
             },
             {
                 "text":"Ambas ventajas anteriores.",
