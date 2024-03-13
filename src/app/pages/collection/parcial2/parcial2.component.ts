@@ -14,7 +14,7 @@ export class Parcial2Component implements OnInit {
 
   ngOnInit(): void {
     for(let i = 9; i <= 12; i++) {
-      this.jsonReader.readTheme(i).subscribe(data => {
+      this.jsonReader.readTheme("tema"+i).subscribe(data => {
         for(let question of data) {
           this.questions.push(question)
         }

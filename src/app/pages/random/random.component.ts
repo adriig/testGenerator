@@ -26,7 +26,7 @@ export class RandomComponent implements OnInit {
   getAverage() {
     let observables = [];
     for(let i = 1; i <= 11; i++) {
-      observables.push(this.jsonReader.readTheme(i));
+      observables.push(this.jsonReader.readTheme("tema"+i));
     }
   
     forkJoin(observables).subscribe(dataArray => {

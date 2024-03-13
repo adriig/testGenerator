@@ -1,0 +1,295 @@
+[
+    {
+        "statement":"¿Qué son los formularios en HTML5?",
+        "answers":[
+            {
+                "text":"Elementos que permiten enviar información al servidor.",
+                "isCorrect":true
+            },
+            {
+                "text":"Elementos que permiten mostrar imágenes en la página web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Elementos que permiten crear enlaces a otras páginas web.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué elemento se utiliza para crear un campo de texto en un formulario?",
+        "answers":[
+            {
+                "text":"<input>",
+                "isCorrect":true
+            },
+            {
+                "text":"<select>",
+                "isCorrect":false
+            },
+            {
+                "text":"<textarea>",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué atributo se utiliza para indicar que un campo es obligatorio?",
+        "answers":[
+            {
+                "text":"required",
+                "isCorrect":true
+            },
+            {
+                "text":"obligatorio",
+                "isCorrect":false
+            },
+            {
+                "text":"necesario",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué elemento se utiliza para crear un botón de envío en un formulario?",
+        "answers":[
+            {
+                "text":"<input>",
+                "isCorrect":false
+            },
+            {
+                "text":"<button>",
+                "isCorrect":true
+            },
+            {
+                "text":"<submit>",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué diferencia hay entre los métodos GET y POST?",
+        "answers":[
+            {
+                "text":"GET envía los datos en la URL, mientras que POST los envía en el cuerpo de la petición.",
+                "isCorrect":true
+            },
+            {
+                "text":"GET es más rápido que POST.",
+                "isCorrect":false
+            },
+            {
+                "text":"POST es más seguro que GET.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué elemento se utiliza para crear una lista de opciones en un formulario?",
+        "answers":[
+            {
+                "text":"<input>",
+                "isCorrect":false
+            },
+            {
+                "text":"<select>",
+                "isCorrect":true
+            },
+            {
+                "text":"<textarea>",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué elemento se utiliza para crear un área de texto en un formulario?",
+        "answers":[
+            {
+                "text":"<input>",
+                "isCorrect":false
+            },
+            {
+                "text":"<select>",
+                "isCorrect":false
+            },
+            {
+                "text":"<textarea>",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es la validación de formularios?",
+        "answers":[
+            {
+                "text":"El proceso de verificar que los datos introducidos por el usuario son correctos.",
+                "isCorrect":true
+            },
+            {
+                "text":"El proceso de enviar los datos del formulario al servidor.",
+                "isCorrect":false
+            },
+            {
+                "text":"El proceso de mostrar los datos del formulario al usuario.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué ventajas tiene la validación de formularios?",
+        "answers":[
+            {
+                "text":"Evita que el usuario envíe datos incorrectos.",
+                "isCorrect":true
+            },
+            {
+                "text":"Mejora la experiencia del usuario.",
+                "isCorrect":true
+            },
+            {
+                "text":"Reduce la carga del servidor.",
+                "isCorrect":true
+            },
+            {
+                "text":"Todas las anteriores.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué elementos se pueden usar para realizar la validación de formularios?",
+        "answers":[
+            {
+                "text":"HTML5",
+                "isCorrect":true
+            },
+            {
+                "text":"JavaScript",
+                "isCorrect":true
+            },
+            {
+                "text":"Ambos",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es un placeholder?",
+        "answers":[
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo está vacío.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo está lleno.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo tiene un error.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es un mensaje de error?",
+        "answers":[
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo está vacío.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo está lleno.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un mensaje que se muestra al usuario cuando el campo tiene un error.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Cuáles son las buenas prácticas para el diseño de formularios?",
+        "answers":[
+            {
+                "text":"Solicitar solo la información necesaria.",
+                "isCorrect":true
+            },
+            {
+                "text":"Reducir el esfuerzo del usuario.",
+                "isCorrect":true
+            },
+            {
+                "text":"Proporcionar mensajes de error claros y visibles.",
+                "isCorrect":true
+            },
+            {
+                "text":"Todas las anteriores.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Por qué es importante validar los formularios en el servidor?",
+        "answers":[
+            {
+                "text":"Porque el usuario puede saltarse la validación en el cliente.",
+                "isCorrect":true
+            },
+            {
+                "text":"Porque el servidor tiene acceso a la base de datos.",
+                "isCorrect":true
+            },
+            {
+                "text":"Ambas",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es una expresión regular?",
+        "answers":[
+            {
+                "text":"Una herramienta que se utiliza para buscar y reemplazar texto.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una herramienta que se utiliza para validar datos.",
+                "isCorrect":true
+            },
+            {
+                "text":"Ambas",
+                "isCorrect":true
+            }
+        ],
+        "theme":"6",
+        "page":"-1"
+    }
+]

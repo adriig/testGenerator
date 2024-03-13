@@ -1,0 +1,600 @@
+[
+    {
+        "statement": "¿Qué diferencia a Internet de la Web?",
+        "answers": [
+            {
+                "text": "Internet es una red de redes, mientras que la Web es una colección de datos a la que se accede a través de Internet.",
+                "isCorrect": true
+            },
+            {
+                "text": "Internet es un servicio que se ofrece sobre Internet, mientras que la Web es una infraestructura que da soporte a la Web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet es una tecnología más antigua que la Web.",
+                "isCorrect": false
+            },
+            {
+                "text": "No hay diferencia entre Internet y la Web.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Quién inventó la Web?",
+        "answers": [
+            {
+                "text": "Tim Berners-Lee",
+                "isCorrect": true
+            },
+            {
+                "text": "Vinton Cerf",
+                "isCorrect": false
+            },
+            {
+                "text": "Robert Kahn",
+                "isCorrect": false
+            },
+            {
+                "text": "Leonard Kleinrock",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es una aplicación web?",
+        "answers": [
+            {
+                "text": "Una aplicación informática distribuida cuya interfaz de usuario es accesible desde un navegador web.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un conjunto de páginas web interconectadas.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un programa que se ejecuta en el servidor.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un tipo de software que se instala en el ordenador del usuario.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué características son comunes a las aplicaciones web?",
+        "answers": [
+            {
+                "text": "Comunicación mediante HTTP sobre TCP/IP.",
+                "isCorrect": true
+            },
+            {
+                "text": "Procesamiento en el cliente.",
+                "isCorrect": false
+            },
+            {
+                "text": "Almacenamiento de datos en el navegador web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Todas las anteriores.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia hay entre una aplicación web y un sitio web?",
+        "answers": [
+            {
+                "text": "Una aplicación web es un tipo particular de sitio web.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un sitio web es un tipo particular de aplicación web.",
+                "isCorrect": false
+            },
+            {
+                "text": "No hay diferencia entre una aplicación web y un sitio web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Las aplicaciones web son más complejas que los sitios web.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es una arquitectura software?",
+        "answers": [
+            {
+                "text": "La forma en que se organizan los distintos módulos que componen una aplicación.",
+                "isCorrect": true
+            },
+            {
+                "text": "El conjunto de herramientas que se utilizan para desarrollar una aplicación.",
+                "isCorrect": false
+            },
+            {
+                "text": "El lenguaje de programación que se utiliza para desarrollar una aplicación.",
+                "isCorrect": false
+            },
+            {
+                "text": "El diseño de la interfaz de usuario de una aplicación.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué estilos arquitectónicos son comunes en el desarrollo de aplicaciones web?",
+        "answers": [
+            {
+                "text": "Por capas",
+                "isCorrect": true
+            },
+            {
+                "text": "Cliente-servidor",
+                "isCorrect": true
+            },
+            {
+                "text": "Componentes",
+                "isCorrect": true
+            },
+            {
+                "text": "Ninguno de los anteriores",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es un patrón arquitectónico?",
+        "answers": [
+            {
+                "text": "Una solución genérica y reutilizable que se puede aplicar a problemas que surgen habitualmente al diseñar arquitecturas software.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un tipo de arquitectura software específica para aplicaciones web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un conjunto de herramientas que se utilizan para desarrollar aplicaciones web.",
+                "isCorrect": false
+            },
+            {
+                "text": "El lenguaje de programación que se utiliza para desarrollar aplicaciones web.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es un servicio web?",
+        "answers": [
+            {
+                "text": "Una interfaz de programación que ofrece una determinada funcionalidad accesible a través de Internet.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un conjunto de páginas web interconectadas.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un programa que se ejecuta en el servidor.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un tipo de software que se instala en el ordenador del usuario.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia hay entre SOAP y REST?",
+        "answers": [
+            {
+                "text": "SOAP es un protocolo para la comunicación entre servicios web, mientras que REST es un estilo arquitectónico para el diseño de servicios web.",
+                "isCorrect": true
+            },
+            {
+                "text": "SOAP es un protocolo más ligero que REST.",
+                "isCorrect": false
+            },
+            {
+                "text": "SOAP es más fácil de implementar que REST.",
+                "isCorrect": false
+            },
+            {
+                "text": "Todas las anteriores.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia hay entre un sitio web estático y uno dinámico?",
+        "answers": [
+            {
+                "text": "Un sitio web estático se compone de páginas web predefinidas que no cambian, mientras que un sitio web dinámico genera las páginas web de forma dinámica en respuesta a una solicitud del usuario.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un sitio web estático es más rápido que uno dinámico.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un sitio web dinámico es más fácil de crear que uno estático.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un sitio web estático es más seguro que uno dinámico.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué tecnologías se utilizan para el desarrollo web front-end?",
+        "answers": [
+            {
+                "text": "HTML, CSS y JavaScript",
+                "isCorrect": true
+            },
+            {
+                "text": "Python y Java",
+                "isCorrect": false
+            },
+            {
+                "text": "C++ y C#",
+                "isCorrect": false
+            },
+            {
+                "text": "PHP y Ruby",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es un framework front-end?",
+        "answers": [
+            {
+                "text": "Una biblioteca de código que facilita el desarrollo de aplicaciones web front-end.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un tipo de servidor web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un lenguaje de programación.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un IDE para desarrollo web.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué tecnologías se utilizan para el desarrollo web back-end?",
+        "answers": [
+            {
+                "text": "Lenguajes de programación como Python, Java, PHP, Ruby, etc.",
+                "isCorrect": true
+            },
+            {
+                "text": "Bases de datos como MySQL, PostgreSQL, MongoDB, etc.",
+                "isCorrect": true
+            },
+            {
+                "text": "Servidores web como Apache, Nginx, IIS, etc.",
+                "isCorrect": true
+            },
+            {
+                "text": "HTML, CSS, JavaScript",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué es una API web?",
+        "answers": [
+            {
+                "text": "Una interfaz de programación que permite a dos aplicaciones comunicarse entre sí.",
+                "isCorrect": true
+            },
+            {
+                "text": "Un tipo de sitio web.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un lenguaje de programación.",
+                "isCorrect": false
+            },
+            {
+                "text": "Un IDE para desarrollo web.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia a SOAP de REST en cuanto a la tipificación?",
+        "answers": [
+            {
+                "text": "Ambos no están tipados.",
+                "isCorrect": false
+            },
+            {
+                "text": "Ambos están fuertemente tipados.",
+                "isCorrect": false
+            },
+            {
+                "text": "SOAP es débilmente tipado, mientras que REST es fuertemente tipado.",
+                "isCorrect": false
+            },
+            {
+                "text": "SOAP es fuertemente tipado, mientras que REST no lo está.",
+                "isCorrect": true
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia a SOAP de REST en cuanto a la tipificación?",
+        "answers": [
+            {
+                "text": "Ambos no están tipados.",
+                "isCorrect": false
+            },
+            {
+                "text": "Ambos están fuertemente tipados.",
+                "isCorrect": false
+            },
+            {
+                "text": "SOAP es débilmente tipado, mientras que REST es fuertemente tipado.",
+                "isCorrect": false
+            },
+            {
+                "text": "SOAP es fuertemente tipado, mientras que REST no lo está.",
+                "isCorrect": true
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué opciones de formato de datos ofrece REST?",
+        "answers": [
+            {
+                "text": "Solo XML.",
+                "isCorrect": false
+            },
+            {
+                "text": "XML, JSON y otros formatos.",
+                "isCorrect": true
+            },
+            {
+                "text": "Solo JSON.",
+                "isCorrect": false
+            },
+            {
+                "text": "Solo CSV.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué características definen las interacciones en SOAP?",
+        "answers": [
+            {
+                "text": "No tienen estado.",
+                "isCorrect": false
+            },
+            {
+                "text": "Se basan en URIs.",
+                "isCorrect": false
+            },
+            {
+                "text": "Tienen estado y operaciones con nombres específicos.",
+                "isCorrect": true
+            },
+            {
+                "text": "Son totalmente flexibles y no tienen restricciones.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué estilo arquitectónico define a REST?",
+        "answers": [
+            {
+                "text": "Es un protocolo de mensajería.",
+                "isCorrect": false
+            },
+            {
+                "text": "Es un estilo arquitectónico.",
+                "isCorrect": true
+            },
+            {
+                "text": "No tiene una especificación estándar.",
+                "isCorrect": false
+            },
+            {
+                "text": "Está ligado a XML.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué estilo arquitectónico define a REST?",
+        "answers": [
+            {
+                "text": "Es un protocolo de mensajería.",
+                "isCorrect": false
+            },
+            {
+                "text": "Es un estilo arquitectónico.",
+                "isCorrect": true
+            },
+            {
+                "text": "No tiene una especificación estándar.",
+                "isCorrect": false
+            },
+            {
+                "text": "Está ligado a XML.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué diferencia al Front-End del Back-End en cuanto a la interacción con el usuario?",
+        "answers": [
+            {
+                "text": "Ambos interactúan directamente con el usuario.",
+                "isCorrect": false
+            },
+            {
+                "text": "El Back-End interactúa directamente con el usuario, mientras que el Front-End no.",
+                "isCorrect": false
+            },
+            {
+                "text": "El Front-End interactúa directamente con el usuario, mientras que el Back-End no.",
+                "isCorrect": true
+            },
+            {
+                "text": "Ninguno de los dos interactúa directamente con el usuario.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué elementos del diseño web se incluyen en el Front-End?",
+        "answers": [
+            {
+                "text": "Solo la estructura y organización de la información.",
+                "isCorrect": false
+            },
+            {
+                "text": "Solo la base de datos y la lógica de negocio.",
+                "isCorrect": false
+            },
+            {
+                "text": "Los colores, estilos, imágenes, tablas, texto, botones y menús.",
+                "isCorrect": true
+            },
+            {
+                "text": "Los servidores y la infraestructura de red.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué características son importantes para el Front-End?",
+        "answers": [
+            {
+                "text": "Solo la seguridad y la escalabilidad.",
+                "isCorrect": false
+            },
+            {
+                "text": "Solo la eficiencia en el uso de la memoria.",
+                "isCorrect": false
+            },
+            {
+                "text": "La accesibilidad, la usabilidad y la experiencia del usuario.",
+                "isCorrect": true
+            },
+            {
+                "text": "La capacidad de procesar grandes cantidades de datos.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué ejemplos de lenguajes de programación se utilizan en el Front-End?",
+        "answers": [
+            {
+                "text": "Python y Java.",
+                "isCorrect": false
+            },
+            {
+                "text": "C++ y C#.",
+                "isCorrect": false
+            },
+            {
+                "text": "HTML, CSS y JavaScript.",
+                "isCorrect": true
+            },
+            {
+                "text": "PHP y Ruby.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    },
+    {
+        "statement": "¿Qué ejemplos de frameworks se utilizan en el Front-End?",
+        "answers": [
+            {
+                "text": "Django y Flask.",
+                "isCorrect": false
+            },
+            {
+                "text": "Spring y Rails.",
+                "isCorrect": false
+            },
+            {
+                "text": "Angular, React, Vue y Bootstrap.",
+                "isCorrect": true
+            },
+            {
+                "text": "Express y Laravel.",
+                "isCorrect": false
+            }
+        ],
+        "theme": "1",
+        "page": "-1"
+    }
+]

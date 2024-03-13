@@ -9,16 +9,24 @@ export class QuestionReaderService {
 
   constructor(private http: HttpClient) { }
 
-  getUrl(number: number) {
-    return 'assets/tests/tema'+number+'.json'
+  getUrl(name: string) {
+    return 'assets/tests/'+name+'.json'
   }
 
-  readTheme(theme: number) {
-    return this.http.get<Question[]>(this.getUrl(theme))
+  readTheme(name: string) {
+    return this.http.get<Question[]>(this.getUrl(name))
   }
 
-  addQuestion(theme: number, data: any) {
-    return this.http.post(this.getUrl(theme), data)
+  getUrl2(name: string) {
+    return 'assets/tests/'+name+'.json'
+  }
+
+  readTheme2(name: string) {
+    return this.http.get<Question[]>(this.getUrl2(name))
+  }
+
+  addQuestion(name: string, data: any) {
+    return this.http.post(this.getUrl(name), data)
   }
 
   

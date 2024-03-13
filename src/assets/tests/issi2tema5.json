@@ -1,0 +1,209 @@
+[
+    {
+        "statement":"¿Qué es HTML5?",
+        "answers":[
+            {
+                "text":"Un lenguaje de programación para crear sitios web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un lenguaje de marcado para estructurar el contenido de una página web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un software para diseñar páginas web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un protocolo de comunicación para la web.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"1"
+    },
+    {
+        "statement":"¿Cuál es la diferencia entre HTML5 y XHTML?",
+        "answers":[
+            {
+                "text":"HTML5 es un lenguaje de marcado más estricto que XHTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"XHTML es un lenguaje de marcado más estricto que HTML5.",
+                "isCorrect":false
+            },
+            {
+                "text":"Ambos son lenguajes de marcado, pero HTML5 es más reciente y flexible.",
+                "isCorrect":true
+            },
+            {
+                "text":"No hay diferencia entre HTML5 y XHTML.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"2"
+    },
+    {
+        "statement":"¿Cuáles son los principios fundamentales de HTML5?",
+        "answers":[
+            {
+                "text":"No romper la web, estandarizar lo que ya se usa y ser práctico.",
+                "isCorrect":true
+            },
+            {
+                "text":"Usar la última tecnología disponible y ser compatible con todos los navegadores.",
+                "isCorrect":false
+            },
+            {
+                "text":"Ser fácil de aprender y usar para los principiantes.",
+                "isCorrect":false
+            },
+            {
+                "text":"Ser compatible con los estándares web anteriores.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"3"
+    },
+    {
+        "statement":"¿Qué nuevos elementos se introdujeron en HTML5?",
+        "answers":[
+            {
+                "text":"article, aside, audio, video, canvas, etc.",
+                "isCorrect":true
+            },
+            {
+                "text":"table, tr, th, td, etc.",
+                "isCorrect":false
+            },
+            {
+                "text":"div, span, p, h1, h2, etc.",
+                "isCorrect":false
+            },
+            {
+                "text":"Todos los anteriores.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"4"
+    },
+    {
+        "statement":"¿Qué elementos se eliminaron en HTML5?",
+        "answers":[
+            {
+                "text":"acronym, applet, basefont, big, center, etc.",
+                "isCorrect":true
+            },
+            {
+                "text":"table, tr, th, td, etc.",
+                "isCorrect":false
+            },
+            {
+                "text":"div, span, p, h1, h2, etc.",
+                "isCorrect":false
+            },
+            {
+                "text":"Todos los anteriores.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"5"
+    },
+    {
+        "statement":"¿Cómo se crea un enlace en HTML5?",
+        "answers":[
+            {
+                "text":"Usando la etiqueta <a>.",
+                "isCorrect":true
+            },
+            {
+                "text":"Usando la etiqueta <link>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <img>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <table>.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"7"
+    },
+    {
+        "statement":"¿Cómo se inserta una imagen en HTML5?",
+        "answers":[
+            {
+                "text":"Usando la etiqueta <img>.",
+                "isCorrect":true
+            },
+            {
+                "text":"Usando la etiqueta <link>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <a>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <table>.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"8"
+    },
+    {
+        "statement":"¿Cómo se crea una lista en HTML5?",
+        "answers":[
+            {
+                "text":"Usando la etiqueta <ul> para listas no ordenadas y <ol> para listas ordenadas.",
+                "isCorrect":true
+            },
+            {
+                "text":"Usando la etiqueta <li> para cada elemento de la lista.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <p> para cada elemento de la lista.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <table>.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"9"
+    },
+    {
+        "statement":"¿Cómo se inserta un video en HTML5?",
+        "answers":[
+            {
+                "text":"Usando la etiqueta <video>.",
+                "isCorrect":true
+            },
+            {
+                "text":"Usando la etiqueta <audio>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <img>.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usando la etiqueta <table>.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"10"
+    }
+]

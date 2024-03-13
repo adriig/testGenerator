@@ -16,10 +16,10 @@ export class TemasComponent implements OnInit {
   constructor(private jsonReader: QuestionReaderService, private router: Router) { }
 
   ngOnInit(): void {
-    this.getQuestions(1)
+    this.getQuestions("tema1")
   }
 
-  getQuestions(theme: number) {
+  getQuestions(theme: string) {
     this.jsonReader.readTheme(theme).subscribe((data) => {
       this.questions = data
       this.questions = this.questions.sort(this.compareQuestions);
@@ -34,7 +34,9 @@ export class TemasComponent implements OnInit {
   
   callQuestions(event: Event) {
     const selectElement = event.target as HTMLSelectElement;
-    const selectedValue = parseInt(selectElement.value, 10);
+    const selectedValue = selectElement.value;
+    console.log(selectedValue);
+    
     this.getQuestions(selectedValue)
   }
 

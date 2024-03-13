@@ -1,0 +1,209 @@
+[
+    {
+        "statement":"¿Qué es una API?",
+        "answers":[
+            {
+                "text":"Un tipo de software que se ejecuta en un navegador web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una forma en que los programas y/o sitios web intercambian datos.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un lenguaje de programación para crear sitios web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un protocolo para la transferencia de archivos.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Para qué sirven las APIs?",
+        "answers":[
+            {
+                "text":"Para ejecutar aplicaciones en un ordenador.",
+                "isCorrect":false
+            },
+            {
+                "text":"Para ofrecer datos y servicios a otras aplicaciones.",
+                "isCorrect":true
+            },
+            {
+                "text":"Para navegar por internet.",
+                "isCorrect":false
+            },
+            {
+                "text":"Para crear gráficos y animaciones.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es REST?",
+        "answers":[
+            {
+                "text":"Un tipo de API que sigue una arquitectura específica.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un lenguaje de programación para crear APIs.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un protocolo para la transferencia de datos.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un tipo de software que se ejecuta en un servidor.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Cuáles son los beneficios de las APIs RESTful?",
+        "answers":[
+            {
+                "text":"Son fáciles de usar y entender.",
+                "isCorrect":true
+            },
+            {
+                "text":"Son interoperables entre sistemas en la web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Son escalables y eficientes.",
+                "isCorrect":true
+            },
+            {
+                "text":"Todas las anteriores.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es un recurso en una API RESTful?",
+        "answers":[
+            {
+                "text":"Una operación que se puede realizar sobre un recurso.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un código de respuesta HTTP.",
+                "isCorrect":false
+            },
+            {
+                "text":"Cualquier cosa que se expone en la web, como una imagen o un documento.",
+                "isCorrect":true
+            },
+            {
+                "text":"Una forma de identificar un recurso web.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es una URI (Uniform Resource Identifier)?",
+        "answers":[
+            {
+                "text":"Un protocolo para la transferencia de datos.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un método HTTP para obtener un recurso.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una forma de identificar de manera única un recurso web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un tipo de API que no sigue los principios REST.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Cuáles son los métodos HTTP más comunes?",
+        "answers":[
+            {
+                "text":"GET, POST, PUT, DELETE.",
+                "isCorrect":true
+            },
+            {
+                "text":"OPEN, CLOSE, READ, WRITE.",
+                "isCorrect":false
+            },
+            {
+                "text":"SEND, RECEIVE, CONNECT, DISCONNECT.",
+                "isCorrect":false
+            },
+            {
+                "text":"PLAY, PAUSE, STOP, RESUME.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué es la caché en el contexto de las APIs RESTful?",
+        "answers":[
+            {
+                "text":"Un tipo de memoria que almacena datos para un acceso rápido.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un método HTTP para actualizar un recurso.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un código de respuesta HTTP que indica un error del cliente.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un tipo de API que no sigue los principios REST.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    },
+    {
+        "statement":"¿Qué son las buenas prácticas para el diseño de APIs RESTful?",
+        "answers":[
+            {
+                "text":"Usar nombres en plural, no verbos.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usar / para representar relaciones.",
+                "isCorrect":false
+            },
+            {
+                "text":"Usar versionado.",
+                "isCorrect":false
+            },
+            {
+                "text":"Todas las anteriores.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"2",
+        "page":"-1"
+    }
+]

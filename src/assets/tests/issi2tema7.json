@@ -1,0 +1,230 @@
+[
+    {
+        "statement":"¿Qué es CSS?",
+        "answers":[
+            {
+                "text":"Un lenguaje de programación para crear páginas web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un estándar W3C para describir la presentación de un documento HTML.",
+                "isCorrect":true
+            },
+            {
+                "text":"Una herramienta para crear gráficos y animaciones.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un protocolo para la transferencia de datos entre servidores web.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"1"
+    },
+    {
+        "statement":"¿Cuáles son las ventajas de separar la presentación del contenido en HTML y CSS?",
+        "answers":[
+            {
+                "text":"Simplifica el código HTML.",
+                "isCorrect":true
+            },
+            {
+                "text":"Permite una mayor flexibilidad en la presentación de las páginas web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Facilita el mantenimiento del sitio web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Todas las anteriores.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"1",
+        "page":"2"
+    },
+    {
+        "statement":"¿Qué es el 'Árbol DOM'?",
+        "answers":[
+            {
+                "text":"Una representación gráfica del código HTML de una página web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un conjunto de reglas para definir el estilo de las páginas web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un modelo que representa la estructura de una página web como un conjunto de nodos.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un tipo de archivo que se utiliza para almacenar imágenes.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"3"
+    },
+    {
+        "statement":"¿Qué son las 'hojas de estilo'?",
+        "answers":[
+            {
+                "text":"Archivos que contienen reglas para definir el estilo de las páginas web.",
+                "isCorrect":true
+            },
+            {
+                "text":"Elementos HTML que se utilizan para dar formato al texto.",
+                "isCorrect":false
+            },
+            {
+                "text":"Propiedades CSS que se pueden aplicar a los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Selectores CSS que se utilizan para identificar los elementos a los que se aplica un estilo.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"4"
+    },
+    {
+        "statement":"¿Qué son los 'selectores' en CSS?",
+        "answers":[
+            {
+                "text":"Propiedades que se utilizan para definir el estilo de los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Palabras clave que se utilizan para indicar el tipo de elemento al que se aplica un estilo.",
+                "isCorrect":true
+            },
+            {
+                "text":"Reglas que combinan selectores y propiedades para definir el estilo de los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Elementos HTML a los que se aplica un estilo.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"5"
+    },
+    {
+        "statement":"¿Qué es la 'cascada' en CSS?",
+        "answers":[
+            {
+                "text":"El orden en que se aplican las reglas de estilo a los elementos HTML.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un tipo de selector que se utiliza para seleccionar todos los elementos de una página web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una propiedad CSS que se utiliza para definir el color de fondo de un elemento.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una técnica para crear animaciones en las páginas web.",
+                "isCorrect":false
+            }
+        ]
+    },
+    {
+        "statement":"¿Qué son las 'propiedades' en CSS?",
+        "answers":[
+            {
+                "text":"Palabras clave que se utilizan para indicar el tipo de elemento al que se aplica un estilo.",
+                "isCorrect":false
+            },
+            {
+                "text":"Reglas que combinan selectores y propiedades para definir el estilo de los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Elementos HTML a los que se aplica un estilo.",
+                "isCorrect":false
+            },
+            {
+                "text":"Atributos que se utilizan para definir el estilo de los elementos HTML.",
+                "isCorrect":true
+            }
+        ],
+        "theme":"1",
+        "page":"7"
+    },
+    {
+        "statement":"¿Qué son las 'pseudo-clases'?",
+        "answers":[
+            {
+                "text":"Selectores que se utilizan para seleccionar elementos que se encuentran en un estado determinado, como por ejemplo, el estado 'hover'.",
+                "isCorrect":true
+            },
+            {
+                "text":"Propiedades CSS que se utilizan para definir el tamaño de la fuente de un elemento.",
+                "isCorrect":false
+            },
+            {
+                "text":"Reglas que combinan selectores y propiedades para definir el estilo de los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Elementos HTML a los que se aplica un estilo.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"8"
+    },
+    {
+        "statement":"¿Qué son las 'unidades' en CSS?",
+        "answers":[
+            {
+                "text":"Palabras clave que se utilizan para indicar el tipo de unidad que se utiliza para definir una propiedad.",
+                "isCorrect":true
+            },
+            {
+                "text":"Propiedades CSS que se utilizan para definir el color de fondo de un elemento.",
+                "isCorrect":false
+            },
+            {
+                "text":"Reglas que combinan selectores y propiedades para definir el estilo de los elementos HTML.",
+                "isCorrect":false
+            },
+            {
+                "text":"Elementos HTML a los que se aplica un estilo.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"9"
+    },
+    {
+        "statement":"¿Qué es 'Responsive Web Design' (RWD)?",
+        "answers":[
+            {
+                "text":"Un conjunto de técnicas para crear páginas web que se adaptan a diferentes tamaños de pantalla.",
+                "isCorrect":true
+            },
+            {
+                "text":"Un tipo de diseño web que utiliza imágenes de alta resolución.",
+                "isCorrect":false
+            },
+            {
+                "text":"Una tecnología para crear animaciones en las páginas web.",
+                "isCorrect":false
+            },
+            {
+                "text":"Un lenguaje de programación para crear aplicaciones web.",
+                "isCorrect":false
+            }
+        ],
+        "theme":"1",
+        "page":"10"
+    }
+]
