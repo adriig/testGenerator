@@ -1,0 +1,240 @@
+[
+  {
+    "statement": "¿Cuál de las siguientes afirmaciones es FALSA respecto a la diferencia entre la comunicación síncrona y asíncrona en JavaScript?",
+    "answers": [
+      {
+        "text": "En la comunicación síncrona, el código se ejecuta línea por línea, esperando a que cada línea termine antes de pasar a la siguiente",
+        "isCorrect": "false"
+      },
+      {
+        "text": "En la comunicación asíncrona, el código espera a que las operaciones que toman tiempo, como la recuperación de datos de un servidor, finalicen antes de continuar con la ejecución del código principal",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Las funciones síncronas bloquean el hilo principal de ejecución, mientras que las funciones asíncronas no lo hacen",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Las promesas y los callbacks son mecanismos comunes para manejar la comunicación asíncrona en JavaScript",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "9",
+    "page": "6"
+  },
+  {
+    "statement": "¿En JavaScript, cuál de las siguientes opciones NO es un objetivo principal de la programación asíncrona?",
+    "answers": [
+      {
+        "text": "Gestionar eventos (callbacks)",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Evitar que el hilo de ejecución se bloquee durante peticiones a APIs lentas",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Realizar múltiples peticiones a APIs de manera paralela",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Ejecutar código de forma secuencial y predecible",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "9",
+    "page": "7"
+  },
+  {
+    "statement": "¿Qué es una función callback en programación?",
+    "answers": [
+      {
+        "text": "Una función que se ejecuta automáticamente al finalizar un programa",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Una función que se utiliza para devolver un valor a otra función",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Una función que se pasa como argumento a otra función y se ejecuta posteriormente en un momento determinado",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Una función que se utiliza para almacenar datos en memoria",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "9"
+  },
+  {
+    "statement": "¿Cuál de las siguientes NO es un uso correcto de las funciones callback en programación?",
+    "answers": [
+      {
+        "text": "Para ejecutar código de forma asíncrona, permitiendo que el programa continúe mientras se realiza una tarea y se le notifica cuando finaliza",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Para modularizar el código, separando la lógica de una tarea específica en una función independiente que puede ser reutilizada",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Para devolver valores de una función a otra función que la llamó",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Para manejar eventos, como clics del ratón o pulsaciones de teclas, permitiendo que el programa responda a las interacciones del usuario",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "10"
+  },
+  {
+    "statement": "¿Cuáles de estas afirmaciones son correctas sobre async/await",
+    "answers": [
+      {
+        "text": "Las llamadas a servicios externos se han de encapsular en funciones async",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Una función asíncrona solo puede ser llamada por otra asíncrona",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Una funcion asíncrona solo puede ser llamada por una síncrona",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Si invocamos una funcion async desde otra, la primera obligatoriamente se bloqueará hasta recibir un callback de la segunda",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "21"
+  },
+  {
+    "statement": "¿Cuál es la función de await?",
+    "answers": [
+      {
+        "text": "Bloquear el hilo de ejecución para esperar una respuesta",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Paralelizar la ejecucion de varias tareas",
+        "isCorrect": "false"
+      },
+      {
+        "text": "abrir un hilo de ejecución en JavaScript",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Parar la ejecución de la función tras un determinado tiempo que se pasa como parámetro",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "25"
+  },
+  {
+    "statement": "¿Cuál de las siguientes prácticas se recomienda para una buena programación en JavaScript?",
+    "answers": [
+      {
+        "text": "Usar siempre ; tras cada instrucción",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Usar let para declarar variables en lugar de var",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Nombrar variables y funciones en camelCase",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Usar {} en lugar de new Object() y [] en lugar de new Array()",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Usar siempre el modo estricto.",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "9",
+    "page": "28"
+  },
+  {
+    "statement": "¿Cuál de las siguientes afirmaciones sobre el modo estricto en JavaScript es INCORRECTA?",
+    "answers": [
+      {
+        "text": "Impide usar variables no declaradas",
+        "isCorrect": " "
+      },
+      {
+        "text": "Impide que se pueda cambiar el valor de elementos como NaN y Infinity",
+        "isCorrect": " "
+      },
+      {
+        "text": "Impide que se pueda definir un objeto con propiedades repetidas",
+        "isCorrect": " "
+      },
+      {
+        "text": "Permite que el código se ejecute más rápido",
+        "isCorrect": ""
+      },
+      {
+        "text": "Asegura que el código será más compatible con futuras versiones de JavaScript",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "9",
+    "page": "29"
+  },
+  {
+    "statement": "¿Cuál de las siguientes recomendaciones de uso de JavaScript son correctas",
+    "answers": [
+      {
+        "text": "Usar === en vez de ==",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Usar una función main() en los scripts asociados a cada vista",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Usar siempre una función main asíncrona",
+        "isCorrect": "false"
+      },
+      {
+        "text": "No usar más de un fichero js",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "31"
+  },
+  {
+    "statement": "¿Cuál de las siguientes afirmaciones sobre el uso de módulos en JavaScript son correctas?",
+    "answers": [
+      {
+        "text": "Permiten exportar e importar funciones y variables de otros módulos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Ayudan a evitar conflictos de nombres y facilitan la depuración del código",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Cada archivo JavaScript es considerado un módulo por defecto",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Permiten que todo el código definido en un archivo JS sea accesible por cualquier otro archivo cargado posteriormente",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "9",
+    "page": "32"
+  }
+]

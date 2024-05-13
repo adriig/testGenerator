@@ -1,0 +1,244 @@
+[
+    {
+        "statement": "Caracteristicas de la arquitectura REST",
+        "answers": [
+        {
+            "text": "Arquitectura cliente-servidor",
+            "isCorrect": "true"
+        },
+        {
+            "text": "sin estado y cacheable",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Modelo de una unica capa",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Interfaz uniforme",
+            "isCorrect": "true"
+        }
+        ],
+        "theme": "12",
+        "page": "3"
+    },
+    {
+        "statement": "JSON",
+        "answers": [
+        {
+            "text": "Sus siglas vienen de JavaScript Object Notation",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Sus siglas vienen de JavaScript Object Natural",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Utiliza una sintaxis muy compleja",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Los objector vienen representados de arrays objetos-valor",
+            "isCorrect": "true"
+        }
+        ],
+        "theme": "12",
+        "page": "8"
+    },
+    {
+        "statement": "Tipos de datos",
+        "answers": [
+        {
+            "text": "Number",
+            "isCorrect": "true"
+        },
+        {
+            "text": "array",
+            "isCorrect": "true"
+        },
+        {
+            "text": "string",
+            "isCorrect": "true"
+        },
+        {
+            "text": "object",
+            "isCorrect": "true"
+        },
+        {
+            "text": "null",
+            "isCorrect": "true"
+        },
+        {
+            "text": "boolean",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Double",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Diccionary",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Map",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "11"
+    },
+    {
+        "statement": "Otros elementos de Sintaxis",
+        "answers": [
+        {
+            "text": "Se permite el uso de espacion en blancos",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Se permiten comentarios",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Tipo MIME",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Indentacion obligatoria",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "11"
+    },
+    {
+        "statement": "Comunicacion sincrona",
+        "answers": [
+        {
+            "text": "Es cuando A envia un mensaje a B y deja de actuar hasta que B responda",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Es cuando A le envia un mensaje a B y sigue actuando mientras que B esta respondiendo ",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "14"
+    },
+    {
+        "statement": "AJAX",
+        "answers": [
+        {
+            "text": "Significa Asynchronous JavaScript And XML",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Antes se usaba JSOn y ahora XML",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Sirve para hacer una recarga parcial",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Sirve para hacer una recarga total",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "17"
+    },
+    {
+        "statement": "XHR",
+        "answers": [
+        {
+            "text": "Se puede hacer para pedir peticiones Asincronas y Sincronas",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Se basa en el uso de Callbacks",
+            "isCorrect": "true"
+        },
+        {
+            "text": "No tiene soporte Nativo",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Es muy fasilito de usar gracias a su interfaz de bajo nivel",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "18"
+    },
+    {
+        "statement": "JQuery y Fetch",
+        "answers": [
+        {
+            "text": "La respuesta a un apeticion hecha con fetch es una promesa",
+            "isCorrect": "true"
+        },
+        {
+            "text": "La libreria de jQuery no tiene ningun metodo para hacer peticines AJAX",
+            "isCorrect": "false"
+        },
+        {
+            "text": "jQuery esta basada en XHR",
+            "isCorrect": "true"
+        },
+        {
+            "text": "jQuery es cross-browser",
+            "isCorrect": "true"
+        }
+        ],
+        "theme": "12",
+        "page": "21"
+    },
+
+    {
+        "statement": "Axios",
+        "answers": [
+        {
+            "text": "Libreria basada en XML pero usa funciones sincronas",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Libreria basada en XMl pero usa funciones asincronas",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Es una libreria externa",
+            "isCorrect": "true"
+        },
+        {
+            "text": "No se suele utilizar por sus pocas ventajas respecto a las demas",
+            "isCorrect": "false"
+        }
+        ],
+        "theme": "12",
+        "page": "22"
+    },
+    {
+        "statement": "Modulos API",
+        "answers": [
+        {
+            "text": "Modulos JS encargados de encapsular las peticiones a una APi REST externa",
+            "isCorrect": "true"
+        },
+        {
+            "text": "Permite aislar el resto de la aplicacion para hacer peticiones AJAX",
+            "isCorrect": "true"
+        },
+        {
+            "text": "No tiene accesos programaticos",
+            "isCorrect": "false"
+        },
+        {
+            "text": "Aislan la configuracion de elementos comunes",
+            "isCorrect": "false"
+        }
+    ]
+    }
+]
+

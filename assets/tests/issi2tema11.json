@@ -1,0 +1,329 @@
+[
+    {
+        "statement": "Que es un evento",
+        "answers": [
+            {
+                "text": "Son cosas que les pasan a los elementos HTML",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Surge al nivel del navegador que esta mostrando el programa",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Es una cosa que hace thegref ",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Surge al nivel del programa",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "6"
+    },
+    {
+        "statement": "Son tipos de eventos",
+        "answers": [
+            {
+                "text": "window",
+                "isCorrect": "true"
+            },
+            {
+                "text": "window.screen",
+                "isCorrect": "true"
+            },
+            {
+                "text": "document",
+                "isCorrect": " true"
+            },
+            {
+                "text": "document.screen",
+                "isCorrect": "false"
+            },
+            {
+                "text": "DOM",
+                "isCorrect": "true"
+            },
+            {
+                "text": "multimedia",
+                "isCorrect": "false"
+            },
+            {
+                "text": "archives",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "8"
+    },
+    {
+        "statement": "event handlers",
+        "answers": [
+            {
+                "text": "es un manejador de eventos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se suele encpasular en una funcion y llamarlo desde el manejador",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se asocia un trozo de codigo y a este se le conoce como manejador de eventos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "una sintaxis bien definida de un manejador de eventos seria = <elemento manejador() = 'function'>",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "11"
+    },
+    {
+        "statement": "event listeners",
+        "answers": [
+            {
+                "text": "se puede definir el comportamiento cuanso se produce un evento con un event listener",
+                "isCorrect": "true"
+            },
+            {
+                "text": "no se puede definir el comportamiento cuando se produce un evento con un event listener",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "12"
+    },
+    {
+        "statement": "handlers vs listeners",
+        "answers": [
+            {
+                "text": "si se añaden varios handlers solo se ejecutara el ultimo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "si se añade varios listeners solo se ejecutara el ultimo",
+                "isCorrect": "false"
+            },
+            {
+                "text": "si se añaden varios listeners se ejecutarn todos ",
+                "isCorrect": " true"
+            },
+            {
+                "text": "si se añade varios handlers se ejecutaran todos",
+                "isCorrect": " false"
+            }
+        ],
+        "theme": "11",
+        "page": " 15"
+    },
+    {
+        "statement": "en una estructura anidada cual es correcta?",
+        "answers": [
+            {
+                "text": "capturing:se ejecuta desde lo mas externo a lo mas interno",
+                "isCorrect": "true"
+            },
+            {
+                "text": "bubbling:se ejecuta desde lo mas interno a lo mas externo",
+                "isCorrect": "true"
+            },
+            {
+                "text": " bubbling:se ejecuta desde lo mas externo a lo mas interno",
+                "isCorrect": "false"
+            },
+            {
+                "text": " capturing:se ejecuta desde lo mas interno a lo mas externo",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "16"
+    },
+    {
+        "statement": "eventos load/unload",
+        "answers": [
+            {
+                "text": "eventos manejados muy frecuentamente en asociacion con el elemento boy",
+                "isCorrect": "true"
+            },
+            {
+                "text": "se dispara cuando el usuario carga o se sale de la pagina",
+                "isCorrect": "true"
+            },
+            {
+                "text": "no se puede usar para gestionar cookies",
+                "isCorrect": "false"
+            },
+            {
+                "text": "eventos manejados muy inusualmente n asociacion con el elemento body",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "37"
+    },
+    {
+        "statement": "eventos change",
+        "answers": [
+            {
+                "text": "eventos usados para la validacion de datos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "eventos usados para el cambio en una pagina web",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "40"
+    },
+    {
+        "statement": "estos son eventos de raton",
+        "answers": [
+            {
+                "text": "mouseover y click",
+                "isCorrect": "true"
+            },
+            {
+                "text": "mouseout y ballrissing",
+                "isCorrect": "false"
+            },
+            {
+                "text": "ballrissing y click",
+                "isCorrect": "false"
+            },
+            {
+                "text": "mousedown y mouseup",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "11",
+        "page": "44"
+    },
+    {
+        "statement": "estos son otros tipos de eventos('interesantes')??",
+        "answers": [
+            {
+                "text": "submit",
+                "isCorrect": "true"
+            },
+            {
+                "text": "scroll",
+                "isCorrect": "true"
+            },
+            {
+                "text": "keydown/press/up",
+                "isCorrect": "true"
+            },
+            {
+                "text": "timeout",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "61"
+    },
+    {
+        "statement": "el objeto event",
+        "answers": [
+            {
+                "text": "es la objetificacion de un evento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "este objeto tienes varias propiedades que se pueden consultar desde la funcion",
+                "isCorrect": "true"
+            },
+            {
+                "text": "heredan la clase Event",
+                "isCorrect": "true"
+            },
+            {
+                "text": "no tienen clase este tipo de objetos",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "61"
+    },
+    {
+        "statement": "validacion de formularios",
+        "answers": [
+            {
+                "text": "permite usar mensajes de error intuitivos",
+                "isCorrect": "true"
+            },
+            {
+                "text": "si se cancelan se borra lo que se estab poniendo",
+                "isCorrect": "true"
+            },
+            {
+                "text": "no siempre se es necesario validarlo en el backend",
+                "isCorrect": "false"
+            },
+            {
+                "text": "solo se puede enviar el formulario de maneras especificas",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "68"
+    },
+    {
+        "statement": "Existen estos FormData.  ??",
+        "answers": [
+            {
+                "text": ".append(name,value)",
+                "isCorrect": "true"
+            },
+            {
+                "text": ".set(name,value)",
+                "isCorrect": "true"
+            },
+            {
+                "text": ".delete(name)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "get(name)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "has(name)",
+                "isCorrect": "true"
+            },
+            {
+                "text": "keys()",
+                "isCorrect": "true"
+            },
+            {
+                "text": "values()",
+                "isCorrect": "true"
+            },
+            {
+                "text": "entries()",
+                "isCorrect": "true"
+            },
+            {
+                "text": ".clean(name)",
+                "isCorrect": "false"
+            },
+            {
+                "text": ".empty()",
+                "isCorrect": "false"
+            },
+            {
+                "text": ".rename(nombre)",
+                "isCorrect": "false"
+            },
+            {
+                "text": ".comparator(value)",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "11",
+        "page": "73"
+    }
+]

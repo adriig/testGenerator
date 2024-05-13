@@ -1,0 +1,373 @@
+[
+  {
+    "statement": "¿Que es el DOM? ",
+    "answers": [
+      {
+        "text": "Document Object Model ",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Contiene jerarquia  de documentos",
+        "isCorrect": "false"
+      },
+      {
+        "text": "contiene jerarquia de objetos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Distinct Object Model",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "3"
+  },
+  {
+    "statement": "Que puede hacer Javascript",
+    "answers": [
+      {
+        "text": "Cambiar elementos Html",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Cambiar estilos CSS",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Crear/eliminar eventos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Cambiar/eliminar atributos de elementos",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "5"
+  },
+  {
+    "statement": "En que parte esta dividido el modelo DOM",
+    "answers": [
+      {
+        "text": "Core DOM",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Xml DOM",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Javascript DOM",
+        "isCorrect": "false"
+      },
+      {
+        "text": "HTML DOM",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "6"
+  },
+  {
+    "statement": "Cuantos niveles tiene el DOM",
+    "answers": [
+      {
+        "text": "no tiene niveles",
+        "isCorrect": "false"
+      },
+      {
+        "text": "5",
+        "isCorrect": "true"
+      },
+      {
+        "text": "2",
+        "isCorrect": "false"
+      },
+      {
+        "text": "7",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "7"
+  },
+  {
+    "statement": "nivel 0",
+    "answers": [
+      {
+        "text": "aparece ha haber soporte de algunos elementos HTML",
+        "isCorrect": "true"
+      },
+      {
+        "text": "No puede acceder a algunos elentos HTML",
+        "isCorrect": "false"
+      },
+      {
+        "text": "es comun en todos los navegadores",
+        "isCorrect": "true"
+      },
+      {
+        "text": "ya no se sigue manteniendo el soporte de este nivel por obsoleto",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "9"
+  },
+  {
+    "statement": "nivel 1",
+    "answers": [
+      {
+        "text": "publicado en 1998",
+        "isCorrect": "true"
+      },
+      {
+        "text": "permite acceder a un documento completo",
+        "isCorrect": "true"
+      },
+      {
+        "text": "publicado en 1996",
+        "isCorrect": "false"
+      },
+      {
+        "text": "define un conjunto de coleccion de objetos",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "11"
+  },
+  {
+    "statement": "level 3",
+    "answers": [
+      {
+        "text": "se publico en 2006",
+        "isCorrect": "false"
+      },
+      {
+        "text": "se publico en 2004",
+        "isCorrect": "true"
+      },
+      {
+        "text": "introduce XPath,manejos de eventos de teclado y validateDocument",
+        "isCorrect": "true"
+      },
+      {
+        "text": "mejora XPath,manejos de eventos de teclado y validateDocument",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "12"
+  },
+  {
+    "statement": "level 4",
+    "answers": [
+      {
+        "text": "publicado en 2015",
+        "isCorrect": "true"
+      },
+      {
+        "text": "publicado en 2018",
+        "isCorrect": "false"
+      },
+      {
+        "text": "es un snapchot de living standard",
+        "isCorrect": "true"
+      },
+      {
+        "text": "centrado en el concepto de mutationObserver",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "13"
+  },
+  {
+    "statement": "Node",
+    "answers": [
+      {
+        "text": "todo objecto en un DOM es un nodo",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Los 4 nodos son: document,<div>,<p>,Texto dentro de <p>)",
+        "isCorrect": "true"
+      },
+      {
+        "text": "<div> <p> Prueba de nodos <p> <div> esta bien estructurado",
+        "isCorrect": "true"
+      },
+      {
+        "text": "<p> <div> Prueba de nodos <div> <p> esta bien estructurado",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "16"
+  },
+  {
+    "statement": "Jerarquia de nodos",
+    "answers": [
+      {
+        "text": "Padre",
+        "isCorrect": "true"
+      },
+      {
+        "text": "hijos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "sobrinos",
+        "isCorrect": "false"
+      },
+      {
+        "text": "los warros de los hermanos",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "8-18"
+  },
+  {
+    "statement": "Manipulacion de DOM medianto JavaScript",
+    "answers": [
+      {
+        "text": "Dom ofrece una API con metodos y propiedades para el acceso y la manipulacion",
+        "isCorrect": "true"
+      },
+      {
+        "text": "EL primer paso para modificar un elemento HTMl es encontrar el elemento",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Se pueden aplicar algunos metodos para modificar añadir y eliminar elementos y atributos",
+        "isCorrect": "true"
+      }
+      
+    ],
+    "theme": "10",
+    "page": "22"
+  },
+  {
+    "statement": "Son metodos para consultar elementos y atributos",
+    "answers": [
+      {
+        "text": "classList",
+        "isCorrect": "true"
+      },
+      {
+        "text": "tagName",
+        "isCorrect": "true"
+      },
+      {
+        "text": "tagId",
+        "isCorrect": "false"
+      },
+      {
+        "text": "innerHtml",
+        "isCorrect": "true"
+      },
+      {
+        "text": "innerText",
+        "isCorrect": "true"
+      },
+      {
+        "text": "getAtribute('atributo')",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "24"
+  },
+  {
+    "statement": "Como navega por jerarquia",
+    "answers": [
+      {
+        "text": "parentNode",
+        "isCorrect": "true"
+      },
+      {
+        "text": "firstChild , lastChild y childNode[i]",
+        "isCorrect": "true"
+      },
+      {
+        "text": "nextSibling y previusSibling",
+        "isCorrect": "true"
+      },
+      {
+        "text": "nextChild y previusNode[i]",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "26"
+  },
+  {
+    "statement": "Renderizadores JS",
+    "answers": [
+      {
+        "text": "Normalmente necesitamos mostrar muchas veces elementos de un mismo tipo",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Se suele mostrar elementos de la misma forma siempre",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Un renderizador es un modulo JS que se espicializa en proveer diferentes represetaciones HTML de un tipo de elementos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Se suele usar plantillas representando el HTML del cual se insertan sus atributos y se convierte a un nodo DOM",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "10",
+    "page": "36"
+  },
+  {
+    "statement": "Ventajas del uso de renderizadores",
+    "answers": [
+      {
+        "text": "Permiten separar datos y los datos pueden venir de cualquier parte",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Permite represntar distintas entidades de maneras diferentes y son altamentes reutilizables",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Se encapsula en ellos codigos mas complejos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Permite la busqueda automatica de datos",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "10",
+    "page": "43"
+  },
+  {
+    "statement": "Desventajas de renderizadores",
+    "answers": [
+      {
+        "text": "Primero se debe encontrar la represnetacion deseanda escribiendola en HTML",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Primero se debe encontrar la represnetacion deseanda escribiendola en JS",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Puede no merecer la pena hacerlo",
+        "isCorrect": "true"
+      }
+      
+    ],
+    "theme": "10",
+    "page": "43"
+  }
+  
+]
