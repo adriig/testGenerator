@@ -8,6 +8,7 @@ import { CollectionComponent } from './pages/collection/collection.component';
 import { Parcial1Component } from './pages/collection/parcial1/parcial1.component';
 import { Parcial2Component } from './pages/collection/parcial2/parcial2.component';
 import { Issi2parcial1Component } from './pages/collection/issi2parcial1/issi2parcial1.component';
+import { Issi2parcial2Component } from './pages/collection/issi2parcial2/issi2parcial2.component';
 
 const routes: Routes = [
   {
@@ -19,7 +20,8 @@ const routes: Routes = [
   { path: 'coleccion', component: CollectionComponent },
   { path: 'parcial1', component: Parcial1Component },
   { path: 'parcial2', component: Parcial2Component },
-  { path: 'issi2parcial2', component: Issi2parcial1Component},
+  { path: 'issi2parcial1', component: Issi2parcial1Component},
+  { path: 'issi2parcial2', component: Issi2parcial2Component},
   {
     path: '**',
     redirectTo: 'general'

@@ -1,0 +1,639 @@
+[
+  {
+    "statement": "¿Quien desarrolla JavaScript?",
+    "answers": [
+      {
+        "text": "Brendan Eich",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Tim Berners-Lee",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Guido van Rossum",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Howard Wolovich",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "3"
+  },
+  {
+    "statement": "¿En que año se desasrrolló JavaScript?",
+    "answers": [
+      {
+        "text": "1995",
+        "isCorrect": "true"
+      },
+      {
+        "text": "2002",
+        "isCorrect": "false"
+      },
+      {
+        "text": "2007",
+        "isCorrect": "false"
+      },
+      {
+        "text": "1984",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "3"
+  },
+  {
+    "statement": "¿A que estándar pertenece JavaScript?",
+    "answers": [
+      {
+        "text": "Estándar ECMA",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Estandar W3C",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Estandar NET",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Estándar ESLint",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "3"
+  },
+  {
+    "statement": "¿En qué año se convierte en estándar?",
+    "answers": [
+      {
+        "text": "1997",
+        "isCorrect": "true"
+      },
+      {
+        "text": "2002",
+        "isCorrect": "false"
+      },
+      {
+        "text": "1992",
+        "isCorrect": "false"
+      },
+      {
+        "text": "2012",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "3"
+  },
+  {
+    "statement": "¿Que significa ECMA?",
+    "answers": [
+      {
+        "text": "European Computer Manufacturers Association",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Estandarization Computing Manufacturer Association",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Estandar Commercial Measurement Agency",
+        "isCorrect": "false"
+      },
+      {
+        "text": "European Contable Modularization Agency",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "4"
+  },
+  {
+    "statement": "¿Cuáles de estas son características de JavaScript?",
+    "answers": [
+      {
+        "text": "Ausencia de tipado",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Fuerte tipado",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Uso principal en servidor",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Uso principal en desarrollo web",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Lenguaje interpretado",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "5"
+  },
+  {
+    "statement": "¿Que relacion guardan entre JavaScript y ECMAScript?",
+    "answers": [
+      {
+        "text": "JavaScript es una implementación específica del estándar ECMAScript",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Son dos lenguajes completamente diferentes",
+        "isCorrect": "false"
+      },
+      {
+        "text": "ECMAScript es un compilador de JavaScript",
+        "isCorrect": "false"
+      },
+      {
+        "text": "JavaScript es el sucesor natural de ECMAScript",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "5"
+  },
+  {
+    "statement": "¿Que relacion guardan Java y JavaScript?",
+    "answers": [
+      {
+        "text": "Ambos comparten el mismo tipo de tipado",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Java y JavaScript son el mismo lenguaje pero para diferentes plataformas",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Ambos soportan Programacion Orientada a Objetos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "El nombre y poco más :3",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "8"
+  },
+  {
+    "statement": "¿Dónde puedes escribir código JavaScript?",
+    "answers": [
+      {
+        "text": "En el documento HTML en un <script></script>",
+        "isCorrect": "true"
+      },
+      {
+        "text": "En el documento HTML en un <code></code>",
+        "isCorrect": "false"
+      },
+      {
+        "text": "En un fichero .js",
+        "isCorrect": "true"
+      },
+      {
+        "text": "En un fichero css, dentro de una subclase",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "13"
+  },
+  {
+    "statement": "¿Cómo defines una variable en JS?",
+    "answers": [
+      {
+        "text": "var",
+        "isCorrect": "true"
+      },
+      {
+        "text": "let",
+        "isCorrect": "true"
+      },
+      {
+        "text": "const",
+        "isCorrect": "false"
+      },
+      {
+        "text": "int/string/bool",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "19"
+  },
+  {
+    "statement": "¿Que diferencia hay ente var y let?",
+    "answers": [
+      {
+        "text": "var declara variables, mientras que let constantes",
+        "isCorrect": "false"
+      },
+      {
+        "text": "var define en el ambito del bloque, mientras que let en el de función",
+        "isCorrect": "true"
+      },
+      {
+        "text": "let define en el ambito del bloque, mientras que var en el de función",
+        "isCorrect": "true"
+      },
+      {
+        "text": "ninguna, es un asunto de implementacion en diferentes navegadores",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "19"
+  },
+  {
+    "statement": "¿Es obligatorio declarar las variables en javascript?",
+    "answers": [
+      {
+        "text": "Si en modo estricto, si en modo normal",
+        "isCorrect": "false"
+      },
+      {
+        "text": "No en modo estricto, si en modo normal",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Si en modo estricto, no en modo normal",
+        "isCorrect": "true"
+      },
+      {
+        "text": "No en modo estricto, no en modo normal",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "20"
+  },
+  {
+    "statement": "¿Que tipos de ámbito(Scope) existen en JavaScript?",
+    "answers": [
+      {
+        "text": "Global",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Local",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Bloque",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Paquete",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "21"
+  },
+  {
+    "statement": "¿Que tipos de notaciones para funciones hay?",
+    "answers": [
+      {
+        "text": "Funciones estándar",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Funciones flecha",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Funciones anónimas",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Funciones autoreferenciables",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "27"
+  },
+  {
+    "statement": "¿Cuáles son los tipos primitivos de JavaScript?",
+    "answers": [
+      {
+        "text": "string, number, boolean",
+        "isCorrect": "true"
+      },
+      {
+        "text": "character, integer, boolean, float",
+        "isCorrect": "false"
+      },
+      {
+        "text": "no hay tipos priimitivos en javascript",
+        "isCorrect": " "
+      }
+    ],
+    "theme": "8",
+    "page": "29"
+  },
+  {
+    "statement": "¿Que tipos de objetos compuestos hay?",
+    "answers": [
+      {
+        "text": "Objetos",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Listas",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Array",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Funciones",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Conjuntos",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "29"
+  },
+  {
+    "statement": "¿Que sirve para definir cadenas?",
+    "answers": [
+      {
+        "text": "comillas simples'', dobles \"\" y acentos graves``",
+        "isCorrect": "true"
+      },
+      {
+        "text": "solo comillas dobles",
+        "isCorrect": "false"
+      },
+      {
+        "text": "solo comillas dobles y simples",
+        "isCorrect": "false"
+      },
+      {
+        "text": "en JavaScript no son necesarias comillas para definir una cadena",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "30"
+  },
+  {
+    "statement": "¿Pueden los valores de un object ser funciones?",
+    "answers": [
+      {
+        "text": "Si",
+        "isCorrect": "true"
+      },
+      {
+        "text": "No",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "41"
+  },
+  {
+    "statement": "Sobre la asignación const",
+    "answers": [
+      {
+        "text": "Si declaro un array con const no puedo modificar sus elementos",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Si declaro un array con const no puedo extenderla",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Si declaro un primitivo con const no puedo modificarlo",
+        "isCorrect": "true"
+      },
+      {
+        "text": "tienen ámbito(Scope) de bloque",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Si declaro una constante con const posteriormente puedo reasignarla",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "42"
+  },
+  {
+    "statement": "¿Cuáles de estos son objetos predefinidos del Browser Object Model (BOM)?",
+    "answers": [
+      {
+        "text": "window",
+        "isCorrect": "true"
+      },
+      {
+        "text": "screen",
+        "isCorrect": "true"
+      },
+      {
+        "text": "navigator",
+        "isCorrect": "true"
+      },
+      {
+        "text": "history",
+        "isCorrect": "true"
+      },
+      {
+        "text": "location",
+        "isCorrect": "true"
+      },
+      {
+        "text": "document",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "52"
+  },
+  {
+    "statement": "¿Cuál de las siguientes propiedades NO pertenece al objeto window?",
+    "answers": [
+      {
+        "text": "location",
+        "isCorrect": "true"
+      },
+      {
+        "text": "history",
+        "isCorrect": "false"
+      },
+      {
+        "text": "navigator",
+        "isCorrect": "true"
+      },
+      {
+        "text": "screen",
+        "isCorrect": "true"
+      },
+      {
+        "text": "document",
+        "isCorrect": "false"
+      },
+      {
+        "text": "frames",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "53"
+  },
+  {
+    "statement": "¿Cuál de los siguientes métodos NO pertenece al objeto window?",
+    "answers": [
+      {
+        "text": "alert",
+        "isCorrect": "false"
+      },
+      {
+        "text": "open",
+        "isCorrect": "false"
+      },
+      {
+        "text": "prompt",
+        "isCorrect": "false"
+      },
+      {
+        "text": "sudo rm -rf /",
+        "isCorrect": "true"
+      },
+      {
+        "text": "confirm",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "54"
+  },
+  {
+    "statement": "¿Cuáles de los siguientes métodos pertenecen al objeto navigator",
+    "answers": [
+      {
+        "text": "appName",
+        "isCorrect": "true"
+      },
+      {
+        "text": "mimeTypes",
+        "isCorrect": "true"
+      },
+      {
+        "text": "plugins",
+        "isCorrect": "true"
+      },
+      {
+        "text": "appData",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "55"
+  },
+  {
+    "statement": "¿Cuáles de estas propiedades NO pertenecen al objeto location?",
+    "answers": [
+      {
+        "text": "host",
+        "isCorrect": "false"
+      },
+      {
+        "text": "hostname",
+        "isCorrect": "false"
+      },
+      {
+        "text": "port",
+        "isCorrect": "false"
+      },
+      {
+        "text": "domain",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "56"
+  },
+  {
+    "statement": "¿Qué es la depuración en JavaScript?",
+    "answers": [
+      {
+        "text": "Es la comprobación del código para asegurarse de que cumple con los estándares de JavaScript",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Es el proceso de encontrar y corregir errores en un programa JavaScript",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Es la técnica para optimizar el rendimiento de un programa JavaScript",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Es la forma de agregar comentarios al código JavaScript para mejorar su legibilidad",
+        "isCorrect": "true"
+      }
+    ],
+    "theme": "8",
+    "page": "58"
+  },
+  {
+    "statement": "¿Qué son los breakpoints en JavaScript y qué permiten hacer?",
+    "answers": [
+      {
+        "text": "Son herramientas de terceros que se utilizan para validar el código",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Son puntos de interrupción en el código que permiten al desarrollador examinar el valor de las variables",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Son herramientas de terceros que se utilizan para optimizar el rendimiento del código",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "60"
+  },
+  {
+    "statement": "¿Qué hace la palabra reservada debugger en JavaScript?",
+    "answers": [
+      {
+        "text": "Detiene la ejecución del código JavaScript y permite al desarrollador examinar el valor de las variables.",
+        "isCorrect": "true"
+      },
+      {
+        "text": "Compila el código JavaScript en un lenguaje de máquina más rápido.",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Ejecuta el código JavaScript paso a paso.",
+        "isCorrect": "false"
+      },
+      {
+        "text": "Imprime el código JavaScript en la consola.",
+        "isCorrect": "false"
+      }
+    ],
+    "theme": "8",
+    "page": "66"
+  }
+]

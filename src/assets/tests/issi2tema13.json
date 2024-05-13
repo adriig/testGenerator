@@ -1,0 +1,358 @@
+[
+    {
+        "statement": "¿De dónde proviene el término 'Cookie' utilizado en informática?",
+        "answers": [
+            {
+                "text": "Del nombre de una famosa galleta estadounidense",
+                "isCorrect": "false"
+            },
+            {
+                "text": "De un error de programación que generaba datos corruptos",
+                "isCorrect": "false"
+            },
+            {
+                "text": "De un término militar que se usaba para designar información secreta",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Del término magic cookie de los sistemas UNIX",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "5"
+    },
+    {
+        "statement": "¿Quien acuña el término?",
+        "answers": [
+            {
+                "text": "Lou Montulli",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Steve Jobs",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Brendan Eich",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Guido van Rossum",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "5"
+    },
+    {
+        "statement": "¿Cuando se define como estándar?",
+        "answers": [
+            {
+                "text": "2006",
+                "isCorrect": "false"
+            },
+            {
+                "text": "2012",
+                "isCorrect": "false"
+            },
+            {
+                "text": "2003",
+                "isCorrect": "false"
+            },
+            {
+                "text": "1997",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "5"
+    },
+    {
+        "statement": "Cuales de estos son tipos de cookies según persistencia",
+        "answers": [
+            {
+                "text": "Cookies de sesión:",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cookies de control",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cookies volátiles",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Cookies persistentes",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "14"
+    },
+    {
+        "statement": "¿Cuáles son las características de una cookie de sesión?",
+        "answers": [
+            {
+                "text": "Se borran al cerrar el navegador",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No tienen fecha de expiracion",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se suelen usar para almacenar la informacion de sesion actual",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Tienen un periodo de expiracion del orden de minutos/horas",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "14"
+    },
+    {
+        "statement": "¿Que caracteriza a una cookie persistente?",
+        "answers": [
+            {
+                "text": "Que se almacena aunque se cierre el navegador",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Que no tiene fecha de expiracion",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Que son consideradas cookies invasivas y su uso esta estrictamente regulado por la UE",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Que se usan para trackerar(tracking cookies)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "14"
+    },
+    {
+        "statement": "Cuales de estos son tipos de cookies según su origen",
+        "answers": [
+            {
+                "text": "First-party cookies",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Third-party cookies",
+                "isCorrect": "true"
+            },
+            {
+                "text": "User cookies",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Agent cookies",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "15"
+    },
+    {
+        "statement": "¿Que significa first-party cookie?",
+        "answers": [
+            {
+                "text": "La cookie es creada por el usuario",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La cookie contiene informacion del usuario",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La cookie la envia el sitio web visitado actualmente",
+                "isCorrect": "true"
+            },
+            {
+                "text": "La cookie la envia un agente publicitario",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "15"
+    },
+    {
+        "statement": "¿Qué significa third-party cookie",
+        "answers": [
+            {
+                "text": "La cookie es generada en el back-end",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La cookie es generada en el front-end",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La cookie es de acceso publico",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La cookie es generada por una web externa a la visitada actualmente",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "15"
+    },
+    {
+        "statement": "1. ¿Cuáles son funciones habituales de las cookies de gestión de sesión?",
+        "answers": [
+            {
+                "text": "Almacenar información sobre los productos añadidos a un carrito de compra",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Guardar las puntuaciones de un juego",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Recordar las credenciales de un usuario que ha iniciado sesión",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "18"
+    },
+    {
+        "statement": "¿Cuál de las siguientes afirmaciones es CORRECTA según la información proporcionada sobre la Ley de cookies?",
+        "answers": [
+            {
+                "text": "La información sobre el uso de cookies debe ser clara y precisa para que los usuarios estén informados",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Las cookies de propósito legítimo siempre están permitidas, sin necesidad de informar a los usuarios",
+                "isCorrect": "false"
+            },
+            {
+                "text": "La Directiva 2002/58/CE es una ley, no una directiva, en materia de cookies y seguimiento online",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Los usuarios no tienen la opción de impedir el almacenamiento de cookies en su ordenador",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "20"
+    },
+    {
+        "statement": "¿Cuál de estos NO genera un problema de seguridad de las cookies?",
+        "answers": [
+            {
+                "text": "La no validación",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Almacenar datos críticos en cookies",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Integrar componentes de otro software(Youtube/Maps...)",
+                "isCorrect": "true"
+            }
+        ],
+        "theme": "13",
+        "page": "26"
+    },
+    {
+        "statement": "¿Que diferencias hay entre WebStorage API y cookies?",
+        "answers": [
+            {
+                "text": "WebStorage es mas seguro",
+                "isCorrect": "true"
+            },
+            {
+                "text": "WebStorage tiene mas almacenamiento",
+                "isCorrect": "true"
+            },
+            {
+                "text": "WebStorage es perecedero, mientras que las cookies no",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Las cookies no requieren validacion mientras que webstorage si",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "29"
+    },
+    {
+        "statement": "¿Que parecidos/diferencias hay entre Session Storage y Local Storage?",
+        "answers": [
+            {
+                "text": "El primero va por pestañas mientras que el otro sobre toda la sesion de busqueda",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Session mantiene una caché común para todos los usuarios que acceden ana aplicación web",
+                "isCorrect": " "
+            },
+            {
+                "text": "Ambos son perecederos, de ahí la mayor capacidad que las cookies",
+                "isCorrect": " "
+            },
+            {
+                "text": "LocalStorage no se borra nunca, mientras que SessionStorage al cerrar la pestaña",
+                "isCorrect": " "
+            }
+        ],
+        "theme": "13",
+        "page": "29"
+    },
+    {
+        "statement": "¿Que efecto tiene el navegador en modo incógnito?",
+        "answers": [
+            {
+                "text": "No se registran cookies/historial",
+                "isCorrect": "true"
+            },
+            {
+                "text": "No se usa WebStorage",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Se almacenan cookies sobre la sesión en un usuario separado al principal llamado 'unknown', son accesibles en cada ingreso en incógnito",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "32"
+    },
+    {
+        "statement": "¿Cuál es el objetivo de caché API?",
+        "answers": [
+            {
+                "text": "Mejorar tiempos de respuestas",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Hacer a la aplicación útil aún sin internet",
+                "isCorrect": "true"
+            },
+            {
+                "text": "Cachear sesión de usuario para ahorrar el inicio de sesión",
+                "isCorrect": "false"
+            },
+            {
+                "text": "Administrar las contraseñas de todos los dominios web registrados",
+                "isCorrect": "false"
+            }
+        ],
+        "theme": "13",
+        "page": "41"
+    }
+]

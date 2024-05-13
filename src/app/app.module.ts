@@ -18,6 +18,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { Parcial1Component } from './pages/collection/parcial1/parcial1.component';
 import { Parcial2Component } from './pages/collection/parcial2/parcial2.component';
 import { Issi2parcial1Component } from './pages/collection/issi2parcial1/issi2parcial1.component';
+import { Issi2parcial2Component } from './pages/collection/issi2parcial2/issi2parcial2.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +31,8 @@ import { Issi2parcial1Component } from './pages/collection/issi2parcial1/issi2pa
     CountdownPipe,
     Parcial1Component,
     Parcial2Component,
-    Issi2parcial1Component
+    Issi2parcial1Component,
+    Issi2parcial2Component
   ],
   imports: [
     BrowserModule,

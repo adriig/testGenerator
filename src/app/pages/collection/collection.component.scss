@@ -1,9 +1,8 @@
 .container {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 25px auto;
     padding: 20px;
     text-align: center;
-
   }
   
   .options {
@@ -12,7 +11,17 @@
     min-height: 40px;
     justify-content: space-around;
     position: relative;
+    gap: 15px;
   }
+
+  .goMenu {
+    display: flex; 
+    justify-content:left; 
+    width: 100%; 
+    font-size: 25px; 
+    padding: 10px; 
+    cursor: pointer;
+}
   
   .option {
     width: 30%;
